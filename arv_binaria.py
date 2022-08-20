@@ -89,20 +89,22 @@ class ArvBin:
                 pai.dir = menor
         del atual
 
-        return True
+        return True #remocao concluida
 
     def buscar(self, valor: Any) -> bool:
         if self.dado == None:
-            return False
+            return False #falha na busca
 
         atual = self
         while atual is not None:
             if atual.dado == valor:
-                return True
+                return True #elemento encontrado
             if valor < atual.dado:
                 atual = atual.esq
             else:
                 atual = atual.dir
+        
+        return False #falha na busca
 
     def arv_vazia(self) -> bool:
         if self.dado == None:
