@@ -163,4 +163,3 @@ if __name__ == '__main__':
     print('--> Testando remocao:')
     print(arvore.remover(50))
     arvore.pre_ordem()
-    
