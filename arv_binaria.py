@@ -29,7 +29,7 @@ class ArvBin:
             return False #erro na remocao
 
         atual = self
-        while atual is not None:
+        while atual is not None: #busca o no desejado
             if atual.dado == valor:
                 break
             elif valor < atual.dado:
@@ -41,7 +41,7 @@ class ArvBin:
                 atual = atual.dir
                 esta_esq = False     
 
-        if atual is None:
+        if (atual is None) or (atual.dado != valor):
             return False #erro na remocao
 
         num_filhos = 0
@@ -50,11 +50,12 @@ class ArvBin:
         if atual.dir != None:
             num_filhos += 1
 
-        if num_filhos == 0:
+        if num_filhos == 0: #no folha
             if esta_esq:
                 pai.esq = None
             else:
-                pai.dir = None       
+                pai.dir = None
+
         elif num_filhos == 1:
             if esta_esq:
                 if atual.esq is not None:
@@ -66,10 +67,11 @@ class ArvBin:
                     pai.dir = atual.esq
                 elif atual.dir is not None:
                     pai.dir = atual.dir
+
         elif num_filhos == 2:
             menor = atual.dir
             pai_menor = atual
-            while menor.esq is not None:
+            while menor.esq is not None: #busca o menor elemento na subarvore a direita do atual
                 pai_menor = menor
                 menor = menor.esq
  
@@ -108,7 +110,7 @@ class ArvBin:
 
     def arv_vazia(self) -> bool:
         if self.dado == None:
-            return True
+            return True #esta vazia
         return False
 
     def pre_ordem(self):
