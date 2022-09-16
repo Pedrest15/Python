@@ -6,7 +6,7 @@ class Pilha():
     self.dado.append(elemento)
 
   def pop(self):
-    if len(self.dado) != 0:
+    if len(self.dado) != 0: #se a pilha não estiver vazia
       self.dado.pop(len(self.dado) - 1)
 
   def tamanho(self):
@@ -14,6 +14,7 @@ class Pilha():
 
 def main():
   pilha = Pilha()
+  
   while(1):
     codigo = int(input())
     if codigo == -1:
@@ -23,7 +24,9 @@ def main():
     else:
       pilha.push(codigo)
 
+  #percorre a pilha do topo para o começo
   for letra in pilha.dado[::-1]:
+    #imprime caracter ASCII do valor na pilha
     print(chr(letra), end='')
 
 main()
