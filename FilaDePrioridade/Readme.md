@@ -7,7 +7,7 @@ prioridade, que será responsável por organizar os consumidores com um critéri
   
   <p>Cada pessoa da fila será caracterizada por seu nome, idade e se a mesma possui ou não uma condição
 de saúde agravante para a COVID 19 como, por exemplo, diabetes, asma e pneumonia. O critério se o
-indivíduo possui alguma condição de saúde ou não, é um booleano (1 para sim, e 0 para não).
+indivíduo possui alguma condição de saúde ou não, é um booleano.
 Assim, a prioridade na fila segue os seguintes critérios, de maneira decrescente:</p>
   
   <ol>
