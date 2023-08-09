@@ -1,0 +1,3001 @@
+Id_aluno,Selecionado,Sexo,OrientacaoSexual,Idade,Raça-cor,Deficiência
+6540,Sim,F,Bissexual,25,Amarela,Não possuo
+16980,Sim,M,Heterossexual,24,Não informada,Não possuo
+7135,Não,F,Prefiro não responder,22,Branca,Não possuo
+687,Não,M,Homossexual,20,Preta / negra,Não possuo
+4387,Sim,F,Heterossexual,21,Branca,Não possuo
+8665,Sim,M,Heterossexual,29,Branca,Não possuo
+8236,Sim,F,Bissexual,18,Branca,Não possuo
+6870,Sim,M,Pansexual,20,Parda,Deficiência Visual
+5153,Sim,M,Bissexual,44,Preta / negra,Outro
+8076,Sim,M,Heterossexual,19,Branca,Não possuo
+6085,Sim,M,Bissexual,23,Preta / negra,Não possuo
+10048,Sim,F,Heterossexual,19,Branca,Não possuo
+3696,Não,M,Bissexual,23,Não informada,Deficiência Mental/Intelectual
+8554,Sim,M,Prefiro não responder,22,Branca,Não possuo
+2359,Sim,M,Heterossexual,25,Parda,Não possuo
+4784,Sim,F,Heterossexual,22,Parda,Não possuo
+2367,Não,F,Heterossexual,26,Branca,Não possuo
+16222,Sim,F,Bissexual,21,Branca,Não possuo
+1602,Sim,M,Homossexual,24,Branca,Não possuo
+10771,Sim,M,Heterossexual,19,Branca,Não possuo
+4245,Sim,F,Bissexual,23,Branca,Não possuo
+9038,Não,M,Bissexual,20,Parda,Não possuo
+12626,Sim,M,Heterossexual,18,Preta / negra,Não possuo
+10435,Não,M,Heterossexual,19,Branca,Não possuo
+2489,Não,F,Heterossexual,21,Amarela,Não possuo
+5275,Sim,M,Homossexual,21,Branca,Não possuo
+1667,Sim,F,Heterossexual,27,Não informada,Não possuo
+13176,Sim,M,Heterossexual,21,Branca,Não possuo
+1248,Sim,M,Homossexual,26,Preta / negra,Não possuo
+12173,Sim,F,Heterossexual,20,Preta / negra,Não possuo
+5615,Sim,F,Heterossexual,22,Não informada,Não possuo
+8001,Não,M,Heterossexual,20,Branca,Não possuo
+9546,Sim,F,Heterossexual,18,Parda,Não possuo
+1701,Não,F,Heterossexual,22,Parda,Não possuo
+6012,Sim,F,Heterossexual,22,Branca,Não possuo
+7366,Sim,M,Heterossexual,20,Não informada,Não possuo
+5379,Não,F,Heterossexual,23,Preta / negra,Não possuo
+10614,Sim,F,Bissexual,19,Branca,Não possuo
+11232,Sim,F,Pansexual,21,Branca,Não possuo
+3465,Sim,M,Prefiro não responder,25,Parda,Não possuo
+9399,Não,M,Heterossexual,22,Branca,Não possuo
+8083,Sim,M,Heterossexual,23,Parda,Não possuo
+7508,Sim,F,Bissexual,20,Branca,Não possuo
+8842,Sim,F,Pansexual,23,Preta / negra,Não possuo
+4413,Não,M,Homossexual,21,Branca,Não possuo
+1054,Não,F,Prefiro não responder,23,Parda,Não possuo
+9324,Sim,F,Heterossexual,22,Branca,Não possuo
+241,Não,F,Bissexual,30,Preta / negra,Não possuo
+1576,Sim,F,Heterossexual,23,Branca,Não possuo
+12956,Sim,F,Heterossexual,20,Parda,Não possuo
+6769,Não,F,Bissexual,21,Branca,Não possuo
+12733,Sim,F,Heterossexual,20,Parda,Não possuo
+11802,Não,M,Bissexual,22,Branca,Não possuo
+10911,Sim,M,Homossexual,21,Branca,Não possuo
+21,Sim,M,Homossexual,37,Branca,Não possuo
+10634,Sim,M,Heterossexual,18,Branca,Não possuo
+8370,Sim,F,Heterossexual,20,Parda,Não possuo
+5664,Não,F,Heterossexual,21,Branca,Não possuo
+4134,Não,F,Heterossexual,20,Branca,Não possuo
+13185,Sim,M,Heterossexual,21,Branca,Não possuo
+5532,Sim,M,Pansexual,21,Branca,Não possuo
+12595,Sim,F,Heterossexual,18,Parda,Não possuo
+1065,Não,M,Pansexual,22,Parda,Não possuo
+3241,Sim,M,Heterossexual,25,Parda,Não possuo
+9707,Sim,M,Prefiro não responder,18,Branca,Não possuo
+3751,Sim,F,Heterossexual,25,Parda,Não possuo
+4036,Sim,M,Heterossexual,21,Parda,Não possuo
+2415,Sim,M,Heterossexual,24,Parda,Não possuo
+9220,Não,F,Heterossexual,20,Branca,Não possuo
+7596,Sim,M,Prefiro não responder,20,Branca,Não possuo
+1541,Não,M,Homossexual,24,Branca,Não possuo
+1362,Sim,F,Outro,23,Amarela,Não possuo
+5443,Não,M,Heterossexual,19,Branca,Não possuo
+8609,Não,F,Bissexual,24,Branca,Não possuo
+8295,Não,M,Heterossexual,24,Branca,Não possuo
+1842,Não,M,Prefiro não responder,24,Branca,Não possuo
+5122,Não,M,Heterossexual,24,Branca,Não possuo
+9375,Sim,M,Heterossexual,23,Parda,Não possuo
+4948,Sim,F,Heterossexual,22,Branca,Não possuo
+12653,Sim,F,Heterossexual,20,Branca,Não possuo
+2114,Não,F,Heterossexual,27,Branca,Deficiência Física
+9302,Sim,F,Pansexual,19,Preta / negra,Não possuo
+5657,Sim,F,Bissexual,20,Parda,Não possuo
+9171,Sim,M,Heterossexual,20,Parda,Não possuo
+3443,Sim,F,Homossexual,27,Parda,Não possuo
+10459,Não,F,Heterossexual,23,Branca,Não possuo
+9297,Sim,F,Heterossexual,21,Parda,Não possuo
+10137,Sim,M,Homossexual,26,Branca,Não possuo
+4888,Sim,M,Homossexual,23,Branca,Não possuo
+7545,Sim,M,Heterossexual,19,Branca,Não possuo
+1548,Não,M,Heterossexual,20,Branca,Não possuo
+10328,Sim,M,Heterossexual,19,Preta / negra,Não possuo
+6535,Sim,M,Prefiro não responder,20,Branca,Não possuo
+5393,Sim,M,Heterossexual,21,Parda,Não possuo
+9871,Não,F,Heterossexual,21,Não informada,Não possuo
+4100,Sim,F,Heterossexual,25,Branca,Não possuo
+4934,Não,M,Heterossexual,21,Branca,Não possuo
+3115,Sim,M,Homossexual,28,Parda,Não possuo
+3212,Sim,F,Heterossexual,22,Parda,Não possuo
+3167,Sim,F,Homossexual,22,Amarela,Não possuo
+561,Sim,F,Heterossexual,24,Branca,Não possuo
+10655,Não,F,Heterossexual,18,Parda,Não possuo
+11574,Não,M,Heterossexual,47,Indígena,Não possuo
+4405,Não,M,Heterossexual,29,Parda,Não possuo
+8075,Não,F,Bissexual,20,Preta / negra,Não possuo
+1170,Sim,M,Heterossexual,25,Parda,Não possuo
+1517,Não,M,Heterossexual,25,Parda,Não possuo
+12043,Sim,F,Homossexual,18,Preta / negra,Não possuo
+2206,Não,F,Heterossexual,18,Parda,Não possuo
+2532,Não,F,Pansexual,19,Parda,Não possuo
+656,Sim,F,Heterossexual,27,Branca,Não possuo
+1358,Sim,F,Bissexual,24,Amarela,Não possuo
+12505,Sim,F,Heterossexual,18,Preta / negra,Não possuo
+9177,Não,M,Heterossexual,22,Branca,Não possuo
+12161,Sim,F,Bissexual,18,Amarela,Não possuo
+6641,Sim,M,Homossexual,21,Parda,Não possuo
+12628,Sim,M,Homossexual,20,Branca,Não possuo
+8898,Sim,F,Heterossexual,19,Parda,Não possuo
+4673,Não,M,Heterossexual,21,Branca,Não possuo
+8850,Não,F,Bissexual,24,Parda,Não possuo
+3984,Sim,F,Heterossexual,22,Parda,Não possuo
+3642,Sim,F,Bissexual,23,Branca,Não possuo
+12063,Sim,F,Outro,18,Branca,Não possuo
+10181,Sim,F,Heterossexual,19,Branca,Não possuo
+7115,Sim,F,Heterossexual,20,Parda,Não possuo
+9962,Não,M,Heterossexual,18,Branca,Não possuo
+4666,Sim,M,Homossexual,25,Preta / negra,Não possuo
+7639,Não,F,Heterossexual,19,Branca,Não possuo
+8354,Não,F,Heterossexual,24,Branca,Não possuo
+11644,Sim,M,Heterossexual,19,Branca,Não possuo
+11250,Sim,F,Bissexual,21,Branca,Não possuo
+12521,Sim,M,Bissexual,19,Branca,Não possuo
+6073,Não,F,Heterossexual,19,Branca,Não possuo
+1394,Sim,F,Prefiro não responder,23,Parda,Não possuo
+5517,Não,F,Heterossexual,20,Branca,Não possuo
+16968,Sim,M,Heterossexual,20,Não informada,Não possuo
+1952,Sim,M,Heterossexual,27,Parda,Não possuo
+8244,Não,F,Heterossexual,21,Branca,Não possuo
+10126,Sim,F,Heterossexual,23,Branca,Não possuo
+11025,Sim,F,Prefiro não responder,18,Preta / negra,Não possuo
+5700,Não,F,Bissexual,20,Branca,Não possuo
+3230,Não,F,Heterossexual,22,Branca,Não possuo
+4117,Sim,M,Bissexual,24,Preta / negra,Não possuo
+277,Sim,M,Heterossexual,20,Parda,Não possuo
+13212,Sim,F,Heterossexual,21,Parda,Não possuo
+4591,Sim,M,Heterossexual,23,Parda,Não possuo
+1982,Não,F,Heterossexual,18,Branca,Não possuo
+12629,Sim,F,Bissexual,18,Parda,Não possuo
+3731,Sim,F,Heterossexual,24,Branca,Não possuo
+6318,Sim,F,Heterossexual,20,Preta / negra,Não possuo
+2886,Sim,F,Bissexual,22,Branca,Não possuo
+5654,Sim,F,Pansexual,24,Não informada,Não possuo
+7229,Não,F,Pansexual,20,Parda,Não possuo
+1052,Não,F,Bissexual,19,Parda,Não possuo
+1700,Não,M,Bissexual,25,Branca,Não possuo
+2479,Sim,F,Heterossexual,21,Preta / negra,Não possuo
+12474,Sim,F,Homossexual,19,Parda,Não possuo
+3703,Sim,M,Heterossexual,22,Branca,Não possuo
+768,Sim,F,Homossexual,35,Branca,Não possuo
+9834,Não,F,Bissexual,22,Branca,Não possuo
+11108,Não,F,Pansexual,19,Branca,Não possuo
+9066,Não,F,Bissexual,21,Branca,Não possuo
+10440,Sim,M,Heterossexual,18,Parda,Não possuo
+12088,Sim,M,Bissexual,29,Branca,Não possuo
+1252,Sim,F,Bissexual,28,Preta / negra,Não possuo
+452,Não,M,Heterossexual,25,Parda,Não possuo
+2107,Sim,F,Heterossexual,34,Não informada,Não possuo
+11126,Sim,F,Heterossexual,18,Parda,Não possuo
+3198,Sim,F,Bissexual,23,Branca,Não possuo
+10525,Sim,F,Heterossexual,19,Parda,Não possuo
+9878,Não,M,Bissexual,21,Branca,Não possuo
+2028,Não,M,Bissexual,18,Branca,Não possuo
+6640,Sim,F,Bissexual,21,Parda,Não possuo
+1546,Não,F,Bissexual,20,Preta / negra,Não possuo
+6286,Sim,M,Homossexual,22,Branca,Não possuo
+1964,Sim,F,Bissexual,23,Branca,Não possuo
+617,Sim,M,Heterossexual,26,Parda,Outro
+10508,Não,M,Bissexual,23,Parda,Não possuo
+366,Não,M,Heterossexual,19,Preta / negra,Não possuo
+3301,Sim,M,Bissexual,22,Branca,Não possuo
+3136,Sim,F,Pansexual,21,Branca,Não possuo
+12921,Sim,M,Homossexual,18,Branca,Não possuo
+2098,Não,M,Bissexual,29,Parda,Não possuo
+8121,Não,F,Heterossexual,21,Preta / negra,Não possuo
+3567,Não,F,Heterossexual,18,Parda,Não possuo
+13104,Sim,M,Heterossexual,18,Parda,Não possuo
+1033,Sim,M,Heterossexual,29,Branca,Não possuo
+12061,Sim,F,Heterossexual,25,Branca,Não possuo
+387,Não,F,Bissexual,27,Branca,Não possuo
+9240,Sim,M,Homossexual,21,Preta / negra,Não possuo
+7221,Não,F,Bissexual,23,Branca,Não possuo
+10813,Sim,M,Heterossexual,23,Branca,Não possuo
+1715,Sim,M,Heterossexual,23,Parda,TEA – Transtorno Espectro do Autismo
+4403,Sim,F,Heterossexual,24,Branca,Não possuo
+1185,Sim,M,Heterossexual,29,Branca,Não possuo
+3737,Sim,M,Heterossexual,22,Preta / negra,Não possuo
+1218,Sim,M,Heterossexual,25,Parda,Não possuo
+11370,Sim,M,Heterossexual,19,Branca,Não possuo
+5116,Não,F,Bissexual,23,Branca,Não possuo
+5953,Sim,F,Heterossexual,21,Preta / negra,Não possuo
+7397,Sim,F,Heterossexual,21,Preta / negra,Não possuo
+3054,Sim,M,Heterossexual,29,Branca,Não possuo
+14995,Sim,F,Heterossexual,24,Branca,Não possuo
+8537,Sim,F,Bissexual,22,Parda,Não possuo
+7919,Sim,M,Homossexual,21,Parda,Não possuo
+669,Não,F,Bissexual,19,Parda,Não possuo
+10333,Sim,M,Heterossexual,21,Preta / negra,Não possuo
+1705,Sim,M,Homossexual,23,Parda,Não possuo
+16754,Sim,F,Heterossexual,20,Branca,Não possuo
+16742,Sim,M,Heterossexual,20,Preta / negra,Não possuo
+3380,Não,F,Prefiro não responder,22,Branca,Não possuo
+4407,Não,M,Heterossexual,20,Branca,Não possuo
+6093,Não,F,Heterossexual,20,Branca,Não possuo
+13216,Sim,F,Heterossexual,18,Parda,Não possuo
+7970,Sim,M,Heterossexual,20,Parda,Não possuo
+9752,Não,F,Bissexual,20,Branca,Não possuo
+2867,Não,F,Bissexual,21,Branca,Não possuo
+12475,Sim,F,Pansexual,18,Parda,Não possuo
+11898,Sim,F,Homossexual,21,Branca,Não possuo
+3446,Não,F,Prefiro não responder,24,Branca,Não possuo
+983,Não,M,Heterossexual,18,Parda,Não possuo
+11982,Sim,M,Heterossexual,22,Parda,Não possuo
+2678,Sim,M,Homossexual,24,Branca,Não possuo
+2739,Não,F,Bissexual,20,Branca,Não possuo
+5818,Não,F,Heterossexual,22,Parda,Não possuo
+8985,Sim,M,Heterossexual,19,Branca,Não possuo
+4248,Não,F,Heterossexual,21,Branca,Não possuo
+1983,Sim,F,Heterossexual,27,Branca,Não possuo
+10342,Sim,F,Heterossexual,21,Parda,Não possuo
+7501,Sim,M,Homossexual,20,Branca,Não possuo
+11750,Não,F,Prefiro não responder,26,Branca,Não possuo
+2959,Não,F,Bissexual,19,Parda,Não possuo
+227,Não,M,Homossexual,23,Parda,Não possuo
+7993,Sim,F,Heterossexual,20,Branca,Não possuo
+12103,Sim,M,Heterossexual,19,Branca,Não possuo
+6956,Sim,M,Heterossexual,20,Branca,Não possuo
+9738,Sim,F,Prefiro não responder,19,Parda,Não possuo
+8620,Sim,F,Heterossexual,28,Parda,Não possuo
+5297,Sim,F,Bissexual,22,Parda,Não possuo
+11417,Sim,M,Bissexual,18,Preta / negra,Não possuo
+6069,Não,M,Heterossexual,24,Parda,Não possuo
+6598,Sim,F,Heterossexual,21,Parda,Não possuo
+11590,Sim,F,Heterossexual,18,Branca,Não possuo
+4252,Sim,M,Bissexual,25,Branca,Não possuo
+2597,Não,M,Heterossexual,20,Não informada,Não possuo
+9561,Sim,F,Bissexual,19,Branca,Não possuo
+12333,Sim,M,Heterossexual,18,Parda,Não possuo
+214,Não,M,Homossexual,28,Parda,Não possuo
+7764,Não,F,Heterossexual,21,Branca,Não possuo
+13442,Sim,F,Pansexual,26,Parda,Não possuo
+1339,Sim,M,Homossexual,22,Branca,Não possuo
+5710,Não,M,Heterossexual,20,Branca,Não possuo
+13390,Sim,F,Heterossexual,19,Amarela,Não possuo
+775,Sim,F,Heterossexual,27,Branca,Não possuo
+9243,Sim,F,Heterossexual,20,Branca,Não possuo
+4767,Não,F,Bissexual,19,Branca,Não possuo
+2285,Sim,M,Heterossexual,20,Branca,Não possuo
+4064,Sim,M,Heterossexual,21,Preta / negra,Não possuo
+8165,Não,F,Heterossexual,23,Branca,Não possuo
+5985,Sim,F,Heterossexual,23,Branca,Não possuo
+10598,Não,F,Bissexual,20,Branca,Não possuo
+4892,Sim,M,Bissexual,22,Parda,Não possuo
+11917,Sim,F,Heterossexual,18,Parda,Não possuo
+6104,Sim,F,Bissexual,23,Branca,Não possuo
+10192,Sim,M,Heterossexual,18,Parda,Não possuo
+11098,Sim,M,Heterossexual,19,Branca,Não possuo
+10822,Não,M,Bissexual,21,Branca,Não possuo
+2242,Não,M,Heterossexual,18,Parda,Não possuo
+12847,Sim,F,Heterossexual,18,Parda,Não possuo
+5277,Não,M,Heterossexual,19,Branca,Não possuo
+6588,Sim,F,Heterossexual,22,Parda,Não possuo
+7032,Não,M,Heterossexual,21,Branca,Não possuo
+11457,Sim,M,Heterossexual,18,Branca,Não possuo
+1366,Não,F,Homossexual,19,Branca,Não possuo
+28,Não,M,Homossexual,25,Preta / negra,Não possuo
+10291,Não,M,Heterossexual,22,Branca,Não possuo
+3261,Não,F,Bissexual,19,Branca,Não possuo
+12490,Não,F,Prefiro não responder,22,Branca,Não possuo
+5685,Não,M,Heterossexual,20,Branca,Não possuo
+2708,Sim,F,Heterossexual,25,Branca,Não possuo
+4051,Não,F,Heterossexual,20,Branca,Não possuo
+3774,Sim,F,Outro,23,Branca,Não possuo
+11172,Não,M,Heterossexual,19,Branca,Não possuo
+7599,Sim,M,Heterossexual,20,Parda,Não possuo
+6430,Sim,M,Heterossexual,21,Não informada,Não possuo
+12735,Sim,F,Heterossexual,18,Parda,Não possuo
+11927,Não,F,Bissexual,20,Branca,Não possuo
+9719,Sim,F,Bissexual,20,Branca,Não possuo
+13896,Sim,M,Pansexual,30,Parda,Não possuo
+536,Sim,M,Heterossexual,28,Branca,Não possuo
+6826,Sim,M,Heterossexual,20,Parda,Não possuo
+12553,Sim,M,Heterossexual,19,Parda,Não possuo
+9705,Sim,F,Prefiro não responder,25,Branca,Não possuo
+7096,Sim,F,Heterossexual,20,Parda,Não possuo
+11685,Não,F,Heterossexual,22,Branca,Não possuo
+12708,Sim,M,Heterossexual,21,Branca,Não possuo
+793,Sim,F,Heterossexual,26,Branca,Não possuo
+2803,Não,M,Homossexual,26,Branca,Não possuo
+7551,Não,F,Homossexual,20,Branca,Não possuo
+1080,Não,F,Heterossexual,24,Branca,Não possuo
+4392,Sim,M,Heterossexual,22,Branca,Não possuo
+12546,Sim,F,Bissexual,21,Parda,Não possuo
+2669,Sim,F,Bissexual,22,Parda,Não possuo
+7569,Sim,F,Heterossexual,21,Branca,Não possuo
+8953,Não,M,Heterossexual,21,Branca,Deficiência Visual
+8259,Não,M,Heterossexual,23,Branca,Não possuo
+9581,Sim,F,Pansexual,22,Parda,Não possuo
+10476,Sim,M,Bissexual,20,Preta / negra,Não possuo
+2,Sim,F,Heterossexual,18,Preta / negra,Não possuo
+660,Sim,F,Heterossexual,28,Parda,Não possuo
+8387,Não,M,Heterossexual,28,Branca,Não possuo
+5544,Sim,F,Heterossexual,27,Branca,Não possuo
+5308,Não,M,Heterossexual,25,Branca,Não possuo
+7915,Sim,F,Heterossexual,20,Parda,Não possuo
+844,Sim,M,Heterossexual,23,Parda,Não possuo
+7044,Não,M,Heterossexual,18,Branca,Não possuo
+3190,Sim,M,Bissexual,23,Branca,Não possuo
+9322,Sim,F,Homossexual,20,Branca,Não possuo
+11083,Sim,F,Bissexual,18,Parda,Não possuo
+1413,Sim,M,Prefiro não responder,27,Não informada,Não possuo
+13071,Sim,F,Heterossexual,22,Branca,Não possuo
+2211,Sim,M,Heterossexual,24,Branca,Não possuo
+253,Não,M,Heterossexual,28,Branca,Não possuo
+6818,Não,M,Bissexual,25,Branca,Não possuo
+12034,Sim,F,Prefiro não responder,18,Branca,Não possuo
+7084,Sim,F,Heterossexual,20,Branca,Não possuo
+18133,Sim,M,Heterossexual,19,Branca,Não possuo
+62,Não,F,Heterossexual,26,Branca,Não possuo
+3615,Não,M,Heterossexual,22,Branca,Não possuo
+245,Sim,M,Heterossexual,24,Branca,Não possuo
+12893,Sim,M,Heterossexual,22,Parda,Não possuo
+44,Não,M,Heterossexual,28,Parda,TEA – Transtorno Espectro do Autismo
+11971,Sim,M,Bissexual,23,Branca,Não possuo
+8967,Sim,F,Bissexual,20,Branca,Não possuo
+10637,Sim,M,Heterossexual,18,Branca,Não possuo
+1651,Sim,M,Heterossexual,23,Preta / negra,Não possuo
+3231,Sim,F,Heterossexual,22,Amarela,Não possuo
+2013,Não,F,Heterossexual,18,Parda,Não possuo
+10563,Sim,F,Heterossexual,18,Parda,Não possuo
+11423,Sim,M,Heterossexual,20,Branca,Não possuo
+3366,Sim,F,Bissexual,22,Branca,Não possuo
+5138,Sim,F,Heterossexual,29,Branca,Não possuo
+4751,Não,F,Heterossexual,21,Amarela,Não possuo
+12284,Não,F,Heterossexual,24,Branca,Não possuo
+3088,Sim,F,Heterossexual,23,Branca,Não possuo
+1693,Sim,M,Heterossexual,23,Preta / negra,Não possuo
+8059,Não,M,Heterossexual,18,Branca,Não possuo
+6733,Sim,M,Heterossexual,23,Preta / negra,Não possuo
+10961,Sim,M,Homossexual,26,Branca,Não possuo
+1377,Sim,F,Heterossexual,25,Não informada,Não possuo
+369,Não,M,Heterossexual,43,Preta / negra,Não possuo
+4655,Sim,F,Heterossexual,41,Branca,Não possuo
+7681,Não,F,Prefiro não responder,20,Branca,Não possuo
+1959,Não,F,Prefiro não responder,20,Branca,Não possuo
+4347,Não,F,Bissexual,25,Preta / negra,Não possuo
+2259,Sim,M,Heterossexual,25,Branca,Não possuo
+11517,Sim,F,Bissexual,19,Parda,Outro
+8834,Sim,M,Heterossexual,19,Preta / negra,Não possuo
+11456,Sim,M,Heterossexual,18,Branca,Não possuo
+11330,Não,F,Heterossexual,19,Branca,Não possuo
+5899,Não,M,Heterossexual,19,Branca,Não possuo
+1947,Sim,F,Homossexual,23,Preta / negra,Não possuo
+2614,Sim,F,Bissexual,23,Parda,Não possuo
+4721,Não,F,Heterossexual,18,Parda,Outro
+316,Sim,M,Homossexual,28,Branca,Não possuo
+719,Sim,F,Bissexual,25,Branca,Não possuo
+690,Sim,M,Homossexual,29,Parda,Não possuo
+3485,Não,F,Homossexual,24,Branca,Não possuo
+12097,Não,M,Heterossexual,38,Branca,Não possuo
+4399,Sim,F,Heterossexual,30,Parda,Não possuo
+9518,Sim,F,Heterossexual,31,Parda,Não possuo
+5354,Não,F,Heterossexual,22,Parda,Não possuo
+6232,Não,M,Heterossexual,33,Preta / negra,Não possuo
+13628,Sim,M,Heterossexual,28,Parda,Não possuo
+714,Sim,F,Heterossexual,25,Não informada,Não possuo
+12541,Não,F,Bissexual,20,Parda,Não possuo
+10547,Não,M,Heterossexual,20,Não informada,Não possuo
+11550,Sim,M,Heterossexual,19,Branca,Não possuo
+8385,Sim,M,Heterossexual,25,Branca,Não possuo
+12776,Sim,F,Heterossexual,37,Parda,Não possuo
+11312,Não,M,Heterossexual,24,Branca,Não possuo
+7776,Sim,F,Heterossexual,19,Branca,Não possuo
+11228,Sim,M,Heterossexual,17,Parda,Não possuo
+7387,Não,M,Heterossexual,23,Branca,Não possuo
+6325,Não,F,Heterossexual,22,Branca,Não possuo
+9130,Sim,F,Heterossexual,27,Branca,Não possuo
+3021,Não,F,Heterossexual,19,Parda,Não possuo
+3520,Não,M,Pansexual,35,Branca,TEA – Transtorno Espectro do Autismo
+6379,Não,F,Bissexual,24,Branca,Outro
+10128,Sim,F,Heterossexual,19,Branca,Não possuo
+4947,Sim,M,Heterossexual,20,Branca,Não possuo
+154,Não,F,Heterossexual,36,Branca,Não possuo
+2345,Não,F,Homossexual,18,Branca,Não possuo
+2557,Não,M,Heterossexual,26,Branca,Não possuo
+4597,Sim,F,Bissexual,23,Parda,Não possuo
+5668,Sim,F,Bissexual,22,Branca,Não possuo
+5736,Sim,M,Heterossexual,20,Branca,Não possuo
+6237,Sim,F,Heterossexual,20,Parda,Não possuo
+12931,Não,F,Heterossexual,19,Branca,Não possuo
+1583,Não,M,Heterossexual,22,Preta / negra,Não possuo
+5748,Sim,M,Heterossexual,21,Branca,Não possuo
+10812,Não,F,Heterossexual,22,Branca,Não possuo
+605,Sim,M,Heterossexual,24,Branca,Não possuo
+700,Não,F,Heterossexual,20,Branca,Não possuo
+4568,Não,F,Heterossexual,22,Branca,Não possuo
+2770,Sim,F,Heterossexual,22,Parda,Deficiência Física
+2530,Não,F,Prefiro não responder,19,Branca,Não possuo
+10049,Sim,F,Heterossexual,19,Branca,Não possuo
+4920,Não,F,Heterossexual,22,Parda,Não possuo
+6132,Sim,F,Heterossexual,20,Branca,Não possuo
+6701,Sim,F,Heterossexual,20,Branca,Não possuo
+9321,Não,F,Heterossexual,24,Branca,Não possuo
+2196,Sim,M,Homossexual,28,Parda,Não possuo
+4987,Sim,M,Heterossexual,22,Preta / negra,Não possuo
+1944,Sim,F,Heterossexual,25,Parda,Não possuo
+8101,Não,F,Heterossexual,21,Branca,Não possuo
+13192,Sim,F,Heterossexual,18,Preta / negra,Outro
+4057,Sim,M,Heterossexual,21,Branca,Não possuo
+817,Sim,M,Bissexual,25,Branca,Não possuo
+5235,Sim,M,Heterossexual,24,Não informada,Não possuo
+3042,Sim,M,Bissexual,23,Branca,Não possuo
+8871,Não,M,Heterossexual,22,Branca,Não possuo
+13148,Sim,F,Heterossexual,19,Preta / negra,Não possuo
+1200,Não,M,Heterossexual,19,Branca,Não possuo
+5142,Sim,F,Heterossexual,20,Parda,Não possuo
+6841,Sim,M,Heterossexual,21,Parda,Não possuo
+5588,Não,M,Heterossexual,18,Branca,Não possuo
+5084,Não,F,Bissexual,28,Parda,Não possuo
+7037,Não,F,Heterossexual,20,Branca,Não possuo
+1836,Não,F,Prefiro não responder,31,Amarela,Não possuo
+1679,Não,M,Heterossexual,20,Branca,Não possuo
+9568,Sim,F,Bissexual,24,Parda,Não possuo
+8154,Não,F,Homossexual,23,Branca,Não possuo
+8032,Sim,F,Heterossexual,21,Branca,Não possuo
+5729,Não,M,Homossexual,27,Branca,Não possuo
+5841,Não,M,Bissexual,19,Branca,Não possuo
+2105,Sim,M,Heterossexual,23,Parda,Não possuo
+8119,Não,F,Bissexual,18,Branca,Não possuo
+1963,Não,M,Heterossexual,23,Parda,Não possuo
+12510,Sim,F,Heterossexual,19,Branca,Não possuo
+8438,Sim,F,Outro,22,Branca,Não possuo
+7236,Não,M,Bissexual,18,Branca,Não possuo
+641,Sim,M,Bissexual,27,Preta / negra,Não possuo
+5130,Sim,M,Heterossexual,23,Parda,Não possuo
+5696,Sim,F,Heterossexual,20,Branca,Não possuo
+13292,Não,M,Heterossexual,22,Branca,Não possuo
+12248,Sim,F,Bissexual,20,Branca,Não possuo
+2634,Não,F,Heterossexual,23,Parda,Não possuo
+2817,Sim,F,Bissexual,22,Parda,Não possuo
+10943,Sim,M,Heterossexual,20,Branca,TEA – Transtorno Espectro do Autismo
+9644,Sim,M,Bissexual,19,Parda,Não possuo
+13419,Sim,M,Heterossexual,24,Parda,Não possuo
+11202,Sim,F,Bissexual,21,Parda,Não possuo
+1470,Não,F,Heterossexual,22,Parda,Não possuo
+1115,Sim,M,Heterossexual,25,Parda,Não possuo
+1433,Sim,M,Heterossexual,23,Não informada,Não possuo
+3358,Não,M,Heterossexual,21,Parda,Não possuo
+3740,Não,M,Pansexual,23,Branca,Não possuo
+1034,Sim,F,Heterossexual,24,Parda,Não possuo
+6533,Não,F,Prefiro não responder,21,Parda,Deficiência Visual
+137,Sim,M,Heterossexual,36,Preta / negra,Não possuo
+1655,Sim,F,Prefiro não responder,26,Parda,Não possuo
+6684,Sim,M,Heterossexual,34,Parda,Não possuo
+9483,Sim,F,Heterossexual,19,Branca,Não possuo
+8801,Não,M,Bissexual,18,Branca,Não possuo
+4926,Sim,F,Heterossexual,25,Branca,Não possuo
+7605,Sim,F,Heterossexual,22,Parda,Não possuo
+8282,Sim,M,Heterossexual,18,Branca,Não possuo
+10082,Sim,F,Heterossexual,20,Parda,Não possuo
+12818,Sim,M,Heterossexual,18,Parda,Não possuo
+12060,Sim,M,Heterossexual,18,Branca,Não possuo
+3676,Sim,M,Homossexual,22,Branca,Não possuo
+7177,Sim,F,Heterossexual,21,Preta / negra,Não possuo
+1416,Não,M,Heterossexual,24,Amarela,Não possuo
+6256,Não,F,Bissexual,21,Branca,Não possuo
+3725,Não,F,Heterossexual,23,Branca,Não possuo
+4420,Sim,F,Heterossexual,24,Parda,Não possuo
+10088,Sim,F,Bissexual,19,Preta / negra,Não possuo
+2818,Não,F,Heterossexual,18,Branca,Não possuo
+7315,Sim,F,Heterossexual,21,Não informada,Não possuo
+3255,Não,M,Heterossexual,20,Branca,Não possuo
+6092,Sim,F,Heterossexual,20,Branca,Não possuo
+1946,Sim,F,Heterossexual,23,Parda,Não possuo
+13546,Sim,F,Heterossexual,20,Preta / negra,Não possuo
+12559,Sim,F,Heterossexual,19,Preta / negra,Não possuo
+468,Não,F,Bissexual,23,Parda,Não possuo
+8920,Não,F,Heterossexual,21,Branca,Não possuo
+7657,Sim,M,Heterossexual,26,Preta / negra,Não possuo
+11997,Sim,M,Bissexual,18,Branca,Não possuo
+3418,Sim,M,Bissexual,23,Branca,Não possuo
+13484,Sim,M,Heterossexual,24,Não informada,Não possuo
+8428,Sim,M,Homossexual,22,Branca,Não possuo
+6754,Não,M,Heterossexual,24,Branca,Não possuo
+13461,Sim,F,Heterossexual,19,Parda,Não possuo
+3510,Não,M,Heterossexual,20,Branca,Não possuo
+11247,Sim,F,Bissexual,18,Preta / negra,Não possuo
+715,Não,F,Heterossexual,21,Parda,Não possuo
+3654,Não,F,Bissexual,18,Branca,Não possuo
+10874,Sim,M,Pansexual,19,Preta / negra,Não possuo
+15814,Sim,F,Heterossexual,21,Branca,Não possuo
+1770,Não,M,Heterossexual,23,Branca,Não possuo
+3357,Sim,F,Heterossexual,22,Preta / negra,Não possuo
+7771,Sim,F,Bissexual,20,Branca,Não possuo
+6420,Sim,M,Heterossexual,22,Não informada,Não possuo
+6144,Não,F,Heterossexual,18,Branca,Não possuo
+9283,Sim,F,Heterossexual,23,Parda,Não possuo
+2562,Sim,F,Heterossexual,23,Parda,Não possuo
+1772,Sim,F,Heterossexual,29,Branca,Não possuo
+10327,Sim,F,Bissexual,20,Preta / negra,Não possuo
+8270,Não,M,Heterossexual,20,Branca,Não possuo
+2513,Sim,F,Heterossexual,23,Amarela,Não possuo
+9631,Sim,M,Heterossexual,22,Parda,Não possuo
+6889,Sim,F,Heterossexual,24,Branca,Não possuo
+11192,Sim,M,Heterossexual,22,Preta / negra,Não possuo
+12071,Sim,M,Heterossexual,26,Parda,Não possuo
+7180,Não,M,Heterossexual,22,Parda,Não possuo
+8840,Não,M,Heterossexual,22,Não informada,Não possuo
+8400,Não,M,Heterossexual,19,Branca,Não possuo
+13305,Sim,F,Heterossexual,22,Parda,Não possuo
+5485,Sim,M,Heterossexual,23,Parda,Não possuo
+8450,Não,F,Bissexual,21,Parda,Não possuo
+8453,Sim,F,Bissexual,21,Parda,Não possuo
+11127,Sim,F,Heterossexual,18,Branca,Não possuo
+11841,Sim,M,Heterossexual,19,Branca,Não possuo
+3423,Sim,M,Heterossexual,21,Preta / negra,Não possuo
+9217,Não,M,Homossexual,22,Branca,Deficiência Visual
+10592,Sim,M,Heterossexual,19,Parda,Não possuo
+15711,Sim,F,Bissexual,20,Parda,Não possuo
+169,Sim,F,Heterossexual,40,Parda,Deficiência Física
+5781,Sim,F,Bissexual,21,Branca,Não possuo
+12634,Sim,M,Heterossexual,17,Parda,Não possuo
+5414,Sim,M,Heterossexual,21,Branca,Não possuo
+5474,Não,M,Bissexual,28,Preta / negra,Não possuo
+602,Não,F,Heterossexual,36,Parda,Não possuo
+8908,Não,F,Bissexual,21,Branca,Não possuo
+2512,Sim,F,Heterossexual,22,Branca,Não possuo
+4353,Não,M,Outro,28,Branca,Não possuo
+10447,Não,F,Heterossexual,19,Branca,Não possuo
+2638,Não,M,Homossexual,27,Branca,Não possuo
+6436,Não,M,Bissexual,24,Parda,Não possuo
+10036,Não,M,Heterossexual,21,Parda,Não possuo
+5003,Sim,F,Heterossexual,20,Branca,Não possuo
+15122,Sim,M,Heterossexual,21,Parda,Não possuo
+12650,Sim,F,Bissexual,19,Parda,Não possuo
+7973,Sim,M,Heterossexual,48,Parda,Não possuo
+1125,Sim,F,Bissexual,25,Não informada,Não possuo
+1432,Sim,M,Homossexual,23,Parda,Não possuo
+8758,Não,F,Bissexual,21,Branca,Não possuo
+14672,Sim,M,Heterossexual,22,Branca,Não possuo
+13197,Sim,M,Heterossexual,18,Parda,Não possuo
+3807,Sim,F,Heterossexual,23,Branca,Não possuo
+13507,Sim,F,Homossexual,20,Branca,Não possuo
+689,Não,M,Homossexual,22,Branca,Não possuo
+5105,Sim,M,Heterossexual,21,Branca,Não possuo
+262,Sim,M,Heterossexual,20,Parda,Não possuo
+7606,Sim,F,Bissexual,21,Branca,Não possuo
+5622,Sim,F,Heterossexual,30,Não informada,Não possuo
+2718,Sim,F,Bissexual,24,Preta / negra,Não possuo
+2520,Não,F,Heterossexual,18,Branca,Não possuo
+11563,Sim,F,Bissexual,18,Branca,Não possuo
+7811,Sim,M,Bissexual,23,Branca,Não possuo
+6305,Não,M,Heterossexual,19,Parda,Não possuo
+8559,Não,M,Bissexual,18,Branca,Não possuo
+6491,Sim,M,Heterossexual,21,Parda,Não possuo
+8991,Sim,F,Heterossexual,20,Branca,Não possuo
+8516,Sim,M,Heterossexual,20,Branca,Não possuo
+571,Sim,M,Heterossexual,25,Branca,Não possuo
+15692,Sim,F,Bissexual,23,Branca,Não possuo
+1531,Sim,M,Heterossexual,25,Branca,Não possuo
+12036,Sim,M,Heterossexual,18,Parda,Não possuo
+8784,Sim,M,Bissexual,20,Parda,Deficiência Visual
+10401,Sim,F,Heterossexual,19,Preta / negra,Não possuo
+1293,Sim,M,Homossexual,24,Branca,Não possuo
+7233,Sim,F,Heterossexual,21,Não informada,Não possuo
+3491,Sim,F,Heterossexual,22,Branca,Não possuo
+4922,Não,M,Heterossexual,22,Branca,Não possuo
+9087,Não,F,Prefiro não responder,19,Branca,Não possuo
+10373,Não,F,Heterossexual,21,Preta / negra,Não possuo
+7089,Não,M,Heterossexual,25,Parda,Não possuo
+8171,Não,F,Bissexual,19,Branca,Não possuo
+6597,Sim,M,Heterossexual,21,Preta / negra,Não possuo
+10545,Sim,M,Heterossexual,19,Parda,Não possuo
+10109,Não,F,Bissexual,22,Parda,Não possuo
+3951,Sim,M,Heterossexual,24,Branca,Não possuo
+347,Não,F,Bissexual,27,Branca,Não possuo
+11580,Sim,F,Heterossexual,20,Preta / negra,Não possuo
+5,Não,M,Heterossexual,31,Parda,Não possuo
+3084,Sim,F,Heterossexual,22,Branca,Não possuo
+5139,Sim,F,Prefiro não responder,22,Parda,Não possuo
+8591,Sim,M,Pansexual,20,Branca,Não possuo
+9760,Sim,F,Heterossexual,19,Branca,Não possuo
+4311,Não,F,Heterossexual,20,Branca,Não possuo
+5656,Sim,M,Prefiro não responder,21,Branca,Não possuo
+1112,Sim,M,Heterossexual,26,Branca,Não possuo
+8369,Sim,F,Bissexual,27,Branca,Não possuo
+4438,Sim,F,Homossexual,22,Branca,Não possuo
+5145,Sim,F,Pansexual,22,Parda,Não possuo
+6925,Sim,M,Pansexual,22,Parda,Não possuo
+6523,Sim,F,Heterossexual,21,Branca,Não possuo
+6515,Sim,M,Homossexual,19,Branca,Não possuo
+17977,Sim,F,Bissexual,20,Branca,Não possuo
+2769,Não,M,Heterossexual,20,Branca,Não possuo
+11246,Sim,F,Heterossexual,20,Branca,Não possuo
+2156,Não,F,Homossexual,19,Branca,Deficiência Visual
+4041,Sim,F,Heterossexual,37,Não informada,Não possuo
+4879,Não,F,Heterossexual,24,Parda,Não possuo
+5679,Sim,M,Heterossexual,20,Branca,Não possuo
+941,Não,F,Heterossexual,20,Branca,Não possuo
+609,Sim,M,Homossexual,26,Branca,Não possuo
+8157,Não,F,Bissexual,22,Branca,Não possuo
+7090,Não,F,Bissexual,26,Branca,Não possuo
+2387,Sim,F,Heterossexual,22,Branca,Não possuo
+8341,Sim,F,Heterossexual,23,Branca,Não possuo
+10436,Não,M,Heterossexual,18,Branca,Não possuo
+12888,Sim,F,Heterossexual,20,Branca,Não possuo
+1382,Sim,M,Bissexual,24,Parda,Não possuo
+11920,Sim,M,Heterossexual,21,Branca,Não possuo
+12493,Sim,M,Heterossexual,18,Preta / negra,Não possuo
+2563,Sim,F,Heterossexual,23,Branca,Não possuo
+5995,Sim,F,Bissexual,22,Branca,Não possuo
+6978,Não,F,Homossexual,20,Preta / negra,Não possuo
+597,Não,F,Pansexual,18,Branca,Não possuo
+10632,Não,F,Bissexual,19,Branca,Não possuo
+7905,Sim,F,Pansexual,21,Preta / negra,Não possuo
+6565,Sim,F,Pansexual,21,Branca,Não possuo
+7780,Sim,F,Heterossexual,20,Parda,Não possuo
+797,Sim,M,Heterossexual,21,Branca,Não possuo
+14921,Sim,F,Heterossexual,23,Branca,Não possuo
+7981,Sim,F,Heterossexual,21,Parda,Não possuo
+13089,Sim,F,Heterossexual,19,Branca,Não possuo
+343,Não,F,Bissexual,28,Preta / negra,Não possuo
+551,Não,M,Homossexual,28,Parda,Não possuo
+10368,Sim,M,Heterossexual,22,Branca,Não possuo
+10754,Sim,M,Heterossexual,19,Branca,Não possuo
+2248,Sim,F,Homossexual,27,Branca,Não possuo
+11021,Não,F,Bissexual,22,Branca,Não possuo
+5508,Sim,F,Bissexual,22,Parda,Não possuo
+1781,Sim,F,Heterossexual,23,Branca,Não possuo
+12518,Sim,F,Bissexual,18,Branca,Não possuo
+9334,Sim,M,Heterossexual,20,Preta / negra,Não possuo
+11418,Sim,M,Homossexual,19,Branca,Não possuo
+5892,Não,M,Heterossexual,18,Branca,Não possuo
+3307,Sim,F,Bissexual,23,Parda,Não possuo
+6510,Sim,F,Pansexual,18,Preta / negra,Não possuo
+8312,Não,F,Heterossexual,18,Branca,Não possuo
+1875,Sim,M,Bissexual,24,Não informada,Não possuo
+1018,Não,M,Heterossexual,23,Não informada,Não possuo
+14034,Sim,M,Outro,27,Branca,Não possuo
+12532,Sim,M,Homossexual,18,Branca,Não possuo
+7920,Sim,M,Bissexual,20,Preta / negra,Não possuo
+10690,Sim,F,Heterossexual,19,Branca,Não possuo
+11068,Sim,F,Pansexual,18,Parda,Não possuo
+5742,Sim,F,Heterossexual,20,Parda,Não possuo
+11450,Sim,M,Heterossexual,18,Branca,Não possuo
+13355,Sim,F,Bissexual,18,Branca,Não possuo
+12134,Sim,F,Heterossexual,20,Branca,Não possuo
+12803,Sim,M,Prefiro não responder,19,Branca,Não possuo
+10845,Não,F,Heterossexual,22,Branca,Não possuo
+5036,Não,M,Heterossexual,20,Parda,Não possuo
+2152,Sim,F,Bissexual,26,Branca,Não possuo
+6582,Não,M,Heterossexual,23,Branca,Não possuo
+4993,Sim,F,Heterossexual,21,Parda,Não possuo
+13443,Sim,F,Prefiro não responder,19,Branca,Não possuo
+2060,Não,M,Heterossexual,18,Parda,Não possuo
+13312,Sim,F,Bissexual,19,Preta / negra,Não possuo
+3208,Sim,M,Heterossexual,26,Preta / negra,Não possuo
+648,Sim,F,Pansexual,25,Branca,Outro
+6654,Sim,F,Heterossexual,21,Parda,Não possuo
+7538,Sim,F,Heterossexual,20,Branca,Não possuo
+6309,Sim,F,Prefiro não responder,23,Parda,Não possuo
+13485,Sim,M,Heterossexual,21,Branca,Não possuo
+7722,Sim,M,Heterossexual,22,Branca,Não possuo
+6059,Não,F,Heterossexual,19,Branca,Não possuo
+11063,Sim,F,Heterossexual,19,Parda,Não possuo
+1274,Sim,M,Homossexual,26,Branca,TEA – Transtorno Espectro do Autismo
+758,Sim,F,Bissexual,25,Preta / negra,Não possuo
+679,Sim,F,Heterossexual,29,Branca,Não possuo
+8240,Não,F,Bissexual,23,Branca,Não possuo
+4328,Não,F,Heterossexual,23,Branca,Não possuo
+451,Sim,F,Heterossexual,38,Parda,Não possuo
+8820,Sim,F,Bissexual,20,Branca,Não possuo
+11769,Sim,F,Homossexual,29,Branca,TEA – Transtorno Espectro do Autismo
+9740,Sim,F,Prefiro não responder,24,Branca,Não possuo
+9790,Sim,F,Bissexual,22,Branca,Não possuo
+3655,Sim,F,Bissexual,22,Branca,Não possuo
+3885,Sim,M,Homossexual,25,Parda,Não possuo
+1579,Sim,M,Prefiro não responder,27,Parda,Não possuo
+10957,Sim,M,Heterossexual,18,Parda,Não possuo
+13168,Sim,F,Heterossexual,18,Branca,Não possuo
+12489,Sim,F,Heterossexual,19,Amarela,Não possuo
+8883,Sim,M,Bissexual,19,Parda,Não possuo
+7128,Sim,M,Heterossexual,28,Branca,Não possuo
+8595,Não,M,Homossexual,19,Parda,Não possuo
+5189,Não,F,Bissexual,18,Parda,Não possuo
+1917,Sim,M,Bissexual,22,Não informada,Não possuo
+2468,Sim,M,Heterossexual,22,Branca,Não possuo
+7227,Sim,F,Bissexual,21,Não informada,Não possuo
+9677,Sim,F,Heterossexual,21,Preta / negra,Não possuo
+7160,Sim,F,Heterossexual,20,Branca,Não possuo
+1422,Sim,F,Heterossexual,24,Branca,Não possuo
+13253,Sim,F,Heterossexual,19,Branca,Não possuo
+7052,Sim,M,Heterossexual,21,Preta / negra,Outro
+1064,Sim,F,Bissexual,26,Não informada,Não possuo
+1676,Não,M,Bissexual,20,Branca,Não possuo
+7045,Não,M,Bissexual,19,Branca,Não possuo
+2642,Não,F,Bissexual,23,Parda,Não possuo
+523,Não,M,Bissexual,29,Branca,Não possuo
+7575,Sim,M,Bissexual,20,Branca,Não possuo
+7312,Não,F,Heterossexual,21,Parda,Não possuo
+12231,Sim,F,Bissexual,19,Branca,Não possuo
+7075,Não,F,Heterossexual,22,Branca,Não possuo
+512,Não,F,Bissexual,28,Branca,Não possuo
+8420,Sim,F,Heterossexual,21,Parda,Não possuo
+5520,Sim,M,Homossexual,23,Parda,Não possuo
+4280,Sim,F,Bissexual,20,Preta / negra,Não possuo
+1329,Não,F,Heterossexual,20,Parda,Não possuo
+5991,Sim,F,Heterossexual,20,Branca,Não possuo
+1191,Sim,F,Bissexual,24,Branca,Não possuo
+2057,Não,F,Heterossexual,19,Preta / negra,Não possuo
+6105,Sim,F,Bissexual,22,Branca,Não possuo
+12353,Sim,M,Heterossexual,18,Preta / negra,Não possuo
+499,Não,M,Heterossexual,33,Parda,Não possuo
+5871,Sim,F,Heterossexual,23,Preta / negra,Não possuo
+5912,Sim,M,Pansexual,25,Branca,Não possuo
+3014,Sim,M,Heterossexual,22,Preta / negra,Não possuo
+173,Sim,M,Heterossexual,29,Parda,Não possuo
+3899,Sim,M,Heterossexual,23,Preta / negra,Não possuo
+6213,Não,F,Heterossexual,23,Branca,Não possuo
+1194,Não,M,Heterossexual,23,Parda,Não possuo
+10337,Sim,F,Heterossexual,26,Parda,Não possuo
+2428,Sim,F,Heterossexual,25,Preta / negra,Não possuo
+3522,Não,F,Heterossexual,20,Amarela,Não possuo
+58,Sim,M,Heterossexual,21,Branca,Não possuo
+3470,Não,M,Heterossexual,23,Branca,Não possuo
+11619,Sim,M,Homossexual,34,Branca,Não possuo
+11925,Sim,F,Bissexual,32,Preta / negra,Não possuo
+2087,Não,M,Homossexual,21,Branca,Não possuo
+125,Não,M,Heterossexual,43,Parda,Não possuo
+4984,Sim,M,Homossexual,21,Preta / negra,Não possuo
+6269,Não,F,Heterossexual,22,Branca,Não possuo
+12304,Sim,F,Bissexual,17,Não informada,Não possuo
+418,Sim,M,Bissexual,27,Preta / negra,Não possuo
+10496,Sim,M,Heterossexual,18,Branca,Não possuo
+3940,Não,F,Bissexual,19,Amarela,Não possuo
+2405,Não,M,Bissexual,21,Branca,Não possuo
+3172,Sim,F,Bissexual,24,Preta / negra,Não possuo
+7699,Não,F,Heterossexual,19,Preta / negra,Não possuo
+1899,Não,F,Heterossexual,19,Preta / negra,Não possuo
+8078,Não,F,Prefiro não responder,21,Branca,Não possuo
+5855,Não,M,Heterossexual,20,Branca,Não possuo
+12673,Sim,F,Heterossexual,21,Branca,Não possuo
+4375,Não,M,Homossexual,19,Parda,Não possuo
+2205,Sim,M,Bissexual,23,Branca,Não possuo
+474,Não,F,Heterossexual,21,Parda,Não possuo
+3524,Sim,M,Homossexual,22,Branca,Não possuo
+6153,Sim,M,Heterossexual,21,Branca,Deficiência Visual
+5695,Não,M,Heterossexual,21,Branca,Não possuo
+8021,Sim,M,Heterossexual,20,Branca,Não possuo
+4974,Sim,M,Heterossexual,28,Branca,Não possuo
+13039,Sim,F,Homossexual,21,Branca,Não possuo
+9411,Sim,M,Heterossexual,29,Não informada,Não possuo
+11143,Sim,F,Heterossexual,18,Branca,Não possuo
+5562,Sim,M,Bissexual,22,Preta / negra,Não possuo
+3119,Sim,F,Heterossexual,24,Parda,Não possuo
+10256,Sim,M,Heterossexual,29,Branca,Não possuo
+1367,Sim,F,Bissexual,27,Preta / negra,Não possuo
+1736,Não,F,Heterossexual,21,Branca,Não possuo
+9050,Sim,M,Prefiro não responder,23,Parda,Não possuo
+9989,Sim,F,Heterossexual,41,Branca,Outro
+5233,Não,F,Bissexual,24,Parda,Não possuo
+2646,Não,M,Heterossexual,23,Branca,Não possuo
+6396,Sim,F,Bissexual,20,Preta / negra,Não possuo
+18271,Sim,F,Heterossexual,21,Parda,Não possuo
+2121,Sim,M,Prefiro não responder,22,Preta / negra,Não possuo
+3769,Sim,F,Heterossexual,36,Parda,Não possuo
+5374,Sim,M,Bissexual,21,Parda,Não possuo
+8616,Sim,M,Bissexual,33,Branca,Não possuo
+4114,Sim,M,Bissexual,22,Branca,Não possuo
+4004,Não,F,Prefiro não responder,18,Branca,Não possuo
+3116,Sim,F,Bissexual,23,Amarela,Não possuo
+13415,Sim,F,Heterossexual,18,Parda,Não possuo
+13424,Sim,M,Heterossexual,24,Branca,Não possuo
+7121,Sim,M,Homossexual,19,Branca,Não possuo
+11705,Sim,M,Heterossexual,27,Preta / negra,Não possuo
+784,Não,F,Bissexual,29,Branca,Não possuo
+2240,Sim,F,Heterossexual,38,Parda,Não possuo
+10424,Sim,F,Heterossexual,18,Branca,Não possuo
+348,Não,M,Heterossexual,26,Preta / negra,Não possuo
+13315,Sim,F,Bissexual,19,Branca,Não possuo
+1319,Sim,F,Bissexual,27,Branca,Não possuo
+12563,Sim,M,Heterossexual,18,Branca,Não possuo
+1239,Sim,M,Heterossexual,27,Não informada,Não possuo
+2237,Sim,F,Heterossexual,22,Branca,Não possuo
+7130,Sim,F,Heterossexual,23,Preta / negra,Não possuo
+5087,Não,F,Bissexual,21,Branca,Não possuo
+9366,Sim,F,Heterossexual,20,Preta / negra,Não possuo
+7071,Não,F,Bissexual,21,Não informada,Não possuo
+2412,Não,M,Heterossexual,29,Não informada,Não possuo
+10211,Sim,M,Homossexual,20,Parda,Não possuo
+7163,Sim,F,Heterossexual,20,Parda,Não possuo
+5064,Sim,F,Heterossexual,18,Preta / negra,Não possuo
+11165,Sim,M,Heterossexual,18,Parda,Não possuo
+6025,Sim,M,Heterossexual,19,Branca,Não possuo
+1431,Sim,F,Heterossexual,22,Branca,Não possuo
+4204,Não,M,Heterossexual,21,Branca,Não possuo
+7542,Sim,F,Heterossexual,21,Branca,Não possuo
+11078,Sim,F,Heterossexual,18,Branca,Não possuo
+6271,Sim,F,Heterossexual,21,Parda,Não possuo
+11166,Sim,M,Heterossexual,18,Amarela,Não possuo
+8981,Não,F,Bissexual,22,Branca,Não possuo
+979,Sim,M,Homossexual,26,Parda,Outro
+6393,Sim,F,Heterossexual,19,Branca,Não possuo
+6934,Sim,M,Heterossexual,21,Parda,Não possuo
+147,Não,M,Homossexual,30,Parda,Não possuo
+7078,Não,F,Heterossexual,20,Branca,Não possuo
+5454,Sim,M,Heterossexual,21,Parda,Não possuo
+7484,Sim,M,Bissexual,21,Branca,Não possuo
+3457,Sim,M,Homossexual,23,Parda,Não possuo
+6310,Sim,F,Bissexual,21,Branca,Não possuo
+4985,Sim,M,Heterossexual,21,Parda,Não possuo
+13074,Sim,M,Heterossexual,19,Branca,Não possuo
+1538,Sim,F,Bissexual,26,Preta / negra,Não possuo
+3145,Não,M,Heterossexual,20,Não informada,Não possuo
+1835,Não,M,Heterossexual,28,Branca,Não possuo
+4695,Sim,M,Heterossexual,22,Branca,Não possuo
+1894,Sim,M,Heterossexual,25,Branca,Não possuo
+9515,Sim,F,Heterossexual,20,Branca,Não possuo
+10509,Sim,M,Heterossexual,25,Preta / negra,Não possuo
+12275,Sim,F,Heterossexual,18,Branca,Não possuo
+2605,Sim,M,Heterossexual,28,Parda,Não possuo
+12574,Sim,M,Heterossexual,23,Parda,Não possuo
+7565,Sim,F,Heterossexual,20,Preta / negra,Não possuo
+6768,Não,F,Heterossexual,18,Branca,Não possuo
+3144,Não,M,Pansexual,20,Parda,Não possuo
+7155,Sim,F,Bissexual,23,Branca,Não possuo
+7323,Sim,F,Heterossexual,20,Não informada,Não possuo
+2957,Sim,F,Heterossexual,23,Parda,Não possuo
+4202,Sim,M,Heterossexual,21,Branca,Não possuo
+7689,Não,F,Prefiro não responder,20,Branca,Não possuo
+5783,Sim,F,Heterossexual,23,Branca,Não possuo
+8876,Não,M,Pansexual,18,Branca,TEA – Transtorno Espectro do Autismo
+2416,Não,M,Heterossexual,24,Parda,Não possuo
+6038,Não,M,Heterossexual,20,Branca,Não possuo
+7840,Não,M,Bissexual,28,Branca,Não possuo
+11050,Sim,F,Heterossexual,19,Preta / negra,Não possuo
+11170,Sim,F,Prefiro não responder,20,Parda,Não possuo
+1463,Sim,F,Heterossexual,39,Amarela,Não possuo
+8189,Não,F,Heterossexual,23,Preta / negra,Não possuo
+3451,Sim,M,Bissexual,21,Branca,Não possuo
+5008,Sim,M,Heterossexual,18,Branca,Não possuo
+35,Sim,M,Homossexual,36,Parda,Deficiência Visual
+12499,Sim,M,Heterossexual,20,Preta / negra,Não possuo
+7614,Sim,M,Heterossexual,19,Amarela,Não possuo
+10779,Não,M,Heterossexual,48,Branca,Não possuo
+7833,Não,M,Heterossexual,21,Parda,Não possuo
+136,Não,F,Pansexual,25,Branca,Não possuo
+3702,Não,M,Homossexual,19,Branca,Não possuo
+5073,Não,M,Heterossexual,23,Branca,Não possuo
+1936,Não,F,Heterossexual,23,Parda,Não possuo
+10991,Sim,F,Bissexual,19,Branca,Não possuo
+5118,Não,M,Bissexual,21,Branca,Não possuo
+9258,Sim,M,Bissexual,24,Branca,Não possuo
+10577,Sim,F,Bissexual,18,Branca,Não possuo
+2643,Não,M,Heterossexual,23,Branca,Não possuo
+7197,Sim,M,Heterossexual,22,Parda,Não possuo
+12647,Sim,M,Homossexual,17,Parda,Não possuo
+7989,Não,M,Bissexual,17,Branca,Não possuo
+1564,Sim,F,Heterossexual,23,Preta / negra,Não possuo
+12028,Não,F,Bissexual,27,Branca,Não possuo
+8437,Sim,M,Heterossexual,20,Branca,Não possuo
+3931,Sim,M,Homossexual,23,Parda,Não possuo
+9232,Não,M,Heterossexual,21,Parda,Não possuo
+6877,Sim,M,Heterossexual,22,Parda,Não possuo
+4752,Sim,M,Heterossexual,21,Parda,Não possuo
+11064,Sim,F,Bissexual,23,Branca,Não possuo
+15293,Sim,M,Heterossexual,26,Branca,Não possuo
+2048,Não,F,Heterossexual,26,Branca,Não possuo
+4575,Não,M,Bissexual,19,Branca,Não possuo
+11808,Sim,M,Heterossexual,18,Branca,Não possuo
+688,Não,F,Prefiro não responder,22,Branca,Deficiência Visual
+7,Não,M,Heterossexual,22,Não informada,Outro
+4348,Não,M,Heterossexual,27,Branca,Não possuo
+6762,Sim,M,Heterossexual,20,Branca,Não possuo
+8925,Sim,F,Bissexual,21,Preta / negra,Não possuo
+10004,Não,M,Pansexual,25,Branca,Não possuo
+12729,Sim,M,Bissexual,20,Parda,Não possuo
+6725,Sim,M,Heterossexual,23,Branca,Não possuo
+7539,Sim,F,Bissexual,20,Branca,Não possuo
+1727,Sim,F,Heterossexual,24,Parda,Não possuo
+12969,Sim,F,Heterossexual,19,Parda,Não possuo
+6013,Sim,F,Pansexual,21,Parda,Não possuo
+4811,Sim,M,Homossexual,22,Parda,Não possuo
+11897,Sim,F,Heterossexual,19,Parda,Não possuo
+3324,Não,F,Heterossexual,19,Não informada,Não possuo
+10309,Sim,M,Heterossexual,19,Parda,Não possuo
+1442,Sim,F,Prefiro não responder,24,Não informada,Não possuo
+601,Sim,F,Homossexual,24,Parda,Outro
+1193,Não,F,Heterossexual,30,Branca,Não possuo
+4447,Não,F,Prefiro não responder,21,Branca,Não possuo
+5194,Sim,F,Heterossexual,23,Amarela,Não possuo
+9057,Sim,F,Heterossexual,20,Parda,Não possuo
+5775,Sim,M,Heterossexual,21,Parda,Não possuo
+2001,Não,M,Bissexual,18,Branca,Não possuo
+8998,Sim,F,Heterossexual,20,Branca,Não possuo
+4220,Sim,M,Homossexual,21,Branca,Não possuo
+2765,Sim,F,Prefiro não responder,22,Branca,Não possuo
+1153,Sim,M,Bissexual,25,Branca,Não possuo
+7039,Não,F,Heterossexual,24,Branca,Não possuo
+4924,Sim,M,Heterossexual,24,Branca,Não possuo
+4800,Sim,F,Heterossexual,22,Preta / negra,Não possuo
+8816,Não,M,Heterossexual,23,Branca,Não possuo
+2277,Não,F,Prefiro não responder,18,Branca,Não possuo
+9837,Não,F,Prefiro não responder,25,Parda,Não possuo
+13375,Sim,F,Heterossexual,20,Branca,Não possuo
+10953,Sim,M,Heterossexual,18,Preta / negra,Não possuo
+3561,Sim,M,Heterossexual,27,Parda,Não possuo
+9018,Não,F,Heterossexual,23,Amarela,Não possuo
+13064,Sim,F,Bissexual,23,Branca,Não possuo
+6972,Sim,M,Heterossexual,21,Parda,Não possuo
+11115,Sim,F,Heterossexual,26,Parda,Não possuo
+9229,Sim,M,Heterossexual,19,Branca,Não possuo
+6845,Sim,M,Heterossexual,21,Parda,Não possuo
+4724,Não,F,Heterossexual,23,Branca,Não possuo
+4968,Sim,F,Homossexual,21,Branca,Não possuo
+7502,Sim,F,Bissexual,22,Branca,Não possuo
+6313,Sim,F,Bissexual,20,Parda,Não possuo
+9720,Não,F,Bissexual,20,Branca,Não possuo
+10989,Sim,F,Bissexual,18,Branca,Não possuo
+2334,Não,M,Bissexual,22,Branca,Não possuo
+2657,Sim,F,Pansexual,23,Branca,Deficiência Mental/Intelectual
+2089,Sim,F,Heterossexual,25,Branca,Não possuo
+12462,Sim,F,Heterossexual,18,Branca,Não possuo
+2043,Não,M,Heterossexual,18,Branca,Não possuo
+6478,Não,F,Bissexual,22,Branca,Não possuo
+6808,Não,F,Heterossexual,21,Branca,Não possuo
+10210,Sim,M,Heterossexual,18,Parda,Não possuo
+7932,Não,M,Heterossexual,20,Branca,Não possuo
+2364,Não,F,Heterossexual,20,Branca,Não possuo
+9543,Sim,F,Heterossexual,58,Parda,Não possuo
+11803,Sim,M,Prefiro não responder,18,Parda,Não possuo
+5080,Não,F,Heterossexual,23,Não informada,Não possuo
+6016,Não,M,Heterossexual,21,Branca,Não possuo
+11065,Não,M,Heterossexual,21,Branca,Não possuo
+8010,Sim,F,Heterossexual,20,Amarela,Não possuo
+13513,Sim,F,Heterossexual,18,Branca,Não possuo
+3689,Não,M,Heterossexual,25,Parda,Não possuo
+12928,Não,F,Bissexual,19,Amarela,Não possuo
+8288,Não,M,Heterossexual,21,Branca,Não possuo
+12414,Sim,M,Pansexual,18,Branca,Não possuo
+8502,Sim,M,Heterossexual,22,Preta / negra,Não possuo
+13218,Sim,F,Heterossexual,19,Parda,Não possuo
+8355,Sim,M,Pansexual,19,Preta / negra,Não possuo
+11484,Sim,M,Homossexual,18,Preta / negra,Não possuo
+1019,Sim,F,Heterossexual,26,Parda,Não possuo
+7529,Sim,F,Heterossexual,21,Parda,Não possuo
+5101,Não,F,Homossexual,22,Branca,Não possuo
+2420,Não,F,Heterossexual,21,Preta / negra,Não possuo
+8402,Não,F,Heterossexual,23,Branca,Não possuo
+888,Não,F,Heterossexual,25,Parda,Não possuo
+10823,Sim,M,Heterossexual,34,Parda,Não possuo
+3651,Não,M,Heterossexual,35,Parda,Não possuo
+433,Sim,M,Bissexual,27,Branca,Não possuo
+12782,Sim,M,Heterossexual,18,Parda,Não possuo
+7991,Sim,F,Prefiro não responder,20,Branca,Não possuo
+6636,Sim,F,Bissexual,24,Parda,Não possuo
+175,Não,F,Heterossexual,47,Branca,Não possuo
+8938,Não,F,Heterossexual,18,Branca,Não possuo
+1126,Não,M,Bissexual,23,Branca,Não possuo
+12243,Sim,M,Heterossexual,23,Preta / negra,Não possuo
+1378,Não,F,Prefiro não responder,24,Branca,Não possuo
+12227,Sim,M,Prefiro não responder,18,Branca,Não possuo
+11819,Sim,M,Heterossexual,20,Parda,Não possuo
+6706,Sim,F,Heterossexual,20,Parda,Não possuo
+112,Sim,F,Bissexual,30,Não informada,Não possuo
+6138,Não,F,Bissexual,20,Branca,Não possuo
+699,Não,M,Heterossexual,19,Branca,Não possuo
+1966,Sim,F,Bissexual,24,Preta / negra,Não possuo
+10819,Sim,M,Heterossexual,22,Branca,Não possuo
+68,Não,M,Homossexual,29,Preta / negra,Não possuo
+4580,Sim,M,Heterossexual,22,Parda,Não possuo
+11231,Não,M,Bissexual,18,Parda,Não possuo
+12511,Sim,F,Heterossexual,19,Branca,Não possuo
+4972,Sim,F,Homossexual,26,Branca,Não possuo
+3836,Sim,F,Heterossexual,25,Preta / negra,Não possuo
+2383,Sim,F,Heterossexual,22,Preta / negra,Não possuo
+9811,Não,M,Heterossexual,23,Branca,Não possuo
+4893,Sim,F,Heterossexual,23,Parda,Não possuo
+3243,Sim,M,Heterossexual,22,Branca,Não possuo
+1783,Sim,F,Bissexual,24,Não informada,Não possuo
+7363,Sim,M,Heterossexual,21,Parda,Não possuo
+7814,Sim,M,Heterossexual,22,Branca,Não possuo
+18215,Sim,M,Heterossexual,20,Parda,Não possuo
+6522,Não,F,Heterossexual,18,Branca,Não possuo
+2846,Não,M,Heterossexual,19,Amarela,Não possuo
+5624,Não,F,Bissexual,19,Branca,Não possuo
+12792,Sim,M,Heterossexual,19,Branca,Não possuo
+11394,Sim,M,Heterossexual,18,Parda,Não possuo
+12258,Sim,F,Bissexual,18,Branca,Não possuo
+7384,Sim,M,Heterossexual,23,Parda,Não possuo
+2507,Sim,M,Prefiro não responder,22,Branca,Não possuo
+7584,Não,F,Bissexual,19,Branca,Não possuo
+2498,Sim,F,Heterossexual,23,Branca,Não possuo
+8891,Não,F,Bissexual,19,Branca,Não possuo
+5377,Sim,M,Heterossexual,23,Parda,Não possuo
+2189,Sim,M,Heterossexual,26,Parda,Outro
+3538,Não,F,Bissexual,21,Branca,Não possuo
+3168,Não,F,Bissexual,23,Branca,Não possuo
+7531,Sim,M,Prefiro não responder,22,Preta / negra,Não possuo
+5934,Sim,F,Bissexual,21,Parda,Não possuo
+6602,Sim,M,Homossexual,23,Parda,Não possuo
+7248,Sim,M,Bissexual,21,Não informada,Não possuo
+8343,Sim,M,Homossexual,21,Parda,Não possuo
+6613,Sim,F,Bissexual,23,Preta / negra,Não possuo
+3726,Sim,F,Heterossexual,27,Parda,Não possuo
+3327,Sim,F,Heterossexual,23,Parda,Não possuo
+7451,Sim,F,Heterossexual,20,Parda,Não possuo
+3461,Não,M,Heterossexual,23,Preta / negra,Não possuo
+10114,Sim,F,Bissexual,23,Preta / negra,Não possuo
+843,Sim,M,Heterossexual,38,Não informada,Não possuo
+6593,Sim,M,Prefiro não responder,20,Não informada,Não possuo
+566,Não,M,Heterossexual,19,Parda,Não possuo
+3959,Sim,F,Heterossexual,22,Parda,Deficiência Visual
+11084,Sim,F,Heterossexual,18,Branca,Não possuo
+13323,Não,M,Heterossexual,19,Branca,Não possuo
+17014,Sim,M,Heterossexual,23,Não informada,Não possuo
+6177,Sim,M,Heterossexual,22,Parda,Não possuo
+965,Sim,M,Heterossexual,26,Branca,Não possuo
+11187,Não,F,Heterossexual,18,Preta / negra,Não possuo
+12011,Sim,F,Heterossexual,18,Branca,Não possuo
+2935,Não,F,Heterossexual,22,Branca,Não possuo
+3943,Sim,M,Prefiro não responder,22,Branca,Não possuo
+10613,Sim,F,Heterossexual,39,Preta / negra,Não possuo
+5055,Sim,F,Bissexual,21,Parda,Não possuo
+10649,Não,F,Heterossexual,27,Branca,Não possuo
+1465,Sim,M,Heterossexual,27,Parda,Não possuo
+8679,Não,F,Pansexual,21,Branca,Não possuo
+4830,Sim,F,Heterossexual,22,Parda,Não possuo
+6000,Sim,M,Homossexual,20,Branca,Não possuo
+6982,Sim,M,Heterossexual,19,Branca,TEA – Transtorno Espectro do Autismo
+7769,Não,F,Bissexual,22,Branca,Não possuo
+915,Sim,M,Homossexual,23,Branca,Não possuo
+11057,Sim,F,Bissexual,19,Branca,Não possuo
+12457,Sim,M,Heterossexual,18,Branca,Não possuo
+8752,Sim,F,Prefiro não responder,19,Branca,Não possuo
+14373,Sim,M,Heterossexual,23,Branca,Não possuo
+11405,Sim,F,Bissexual,20,Preta / negra,Não possuo
+17151,Sim,F,Heterossexual,20,Preta / negra,Não possuo
+7305,Não,M,Heterossexual,18,Preta / negra,Não possuo
+9991,Não,F,Heterossexual,22,Preta / negra,Não possuo
+7708,Sim,M,Heterossexual,20,Branca,Não possuo
+8310,Não,M,Heterossexual,20,Branca,Não possuo
+4315,Não,F,Heterossexual,19,Amarela,Não possuo
+8060,Não,F,Heterossexual,24,Branca,Não possuo
+3646,Não,F,Heterossexual,24,Preta / negra,Não possuo
+5731,Não,F,Heterossexual,21,Branca,Não possuo
+4503,Não,F,Bissexual,23,Branca,Não possuo
+717,Não,F,Homossexual,21,Branca,Não possuo
+744,Sim,F,Bissexual,25,Branca,Não possuo
+892,Não,F,Bissexual,26,Parda,Não possuo
+2754,Não,F,Heterossexual,22,Branca,Não possuo
+5945,Sim,M,Heterossexual,20,Branca,Não possuo
+70,Não,M,Bissexual,29,Parda,Não possuo
+13311,Sim,M,Bissexual,22,Amarela,Não possuo
+11537,Sim,F,Bissexual,18,Branca,Não possuo
+124,Sim,F,Heterossexual,56,Parda,Outro
+2378,Sim,M,Heterossexual,22,Branca,Outro
+1077,Não,F,Heterossexual,21,Branca,Não possuo
+7256,Não,M,Bissexual,19,Branca,Não possuo
+12087,Não,M,Homossexual,23,Branca,Não possuo
+3758,Sim,M,Homossexual,23,Branca,Não possuo
+10567,Não,F,Prefiro não responder,19,Parda,Não possuo
+6730,Sim,M,Heterossexual,22,Branca,Não possuo
+9508,Não,F,Homossexual,23,Branca,Não possuo
+3739,Sim,F,Bissexual,27,Branca,Não possuo
+7693,Sim,F,Bissexual,21,Branca,Não possuo
+3270,Sim,F,Pansexual,24,Parda,Não possuo
+5769,Sim,M,Heterossexual,24,Parda,Não possuo
+10562,Sim,F,Heterossexual,20,Branca,Não possuo
+1732,Sim,M,Heterossexual,23,Branca,Não possuo
+15400,Sim,F,Bissexual,23,Branca,Não possuo
+1448,Não,F,Bissexual,28,Branca,Não possuo
+5426,Não,M,Heterossexual,29,Parda,Não possuo
+5492,Sim,F,Heterossexual,22,Branca,Não possuo
+9095,Sim,M,Heterossexual,20,Amarela,Não possuo
+7726,Não,F,Bissexual,24,Branca,Não possuo
+5531,Sim,M,Bissexual,19,Branca,Não possuo
+4330,Sim,F,Heterossexual,23,Branca,Não possuo
+489,Não,F,Heterossexual,18,Parda,Não possuo
+8853,Sim,F,Heterossexual,22,Branca,Não possuo
+753,Sim,M,Heterossexual,25,Branca,Não possuo
+3226,Não,F,Heterossexual,19,Branca,Não possuo
+6262,Sim,F,Heterossexual,21,Parda,Não possuo
+1356,Não,F,Bissexual,29,Parda,TEA – Transtorno Espectro do Autismo
+3549,Não,M,Heterossexual,21,Parda,Não possuo
+8897,Não,F,Heterossexual,22,Branca,Não possuo
+5876,Sim,F,Bissexual,23,Preta / negra,Não possuo
+3185,Sim,M,Homossexual,22,Parda,Não possuo
+3417,Sim,F,Homossexual,22,Não informada,Não possuo
+4257,Não,M,Bissexual,18,Branca,Não possuo
+14597,Sim,F,Bissexual,21,Branca,Não possuo
+5120,Não,F,Bissexual,18,Branca,Não possuo
+5311,Sim,M,Heterossexual,20,Branca,Não possuo
+8765,Não,M,Pansexual,22,Branca,TEA – Transtorno Espectro do Autismo
+6531,Sim,M,Heterossexual,25,Parda,Não possuo
+4314,Não,M,Heterossexual,23,Branca,Não possuo
+8169,Não,M,Heterossexual,18,Branca,Não possuo
+5846,Sim,M,Heterossexual,20,Branca,Não possuo
+4061,Não,F,Heterossexual,19,Amarela,Não possuo
+756,Não,M,Bissexual,27,Parda,Não possuo
+5198,Sim,M,Heterossexual,22,Branca,Não possuo
+9387,Sim,M,Bissexual,19,Parda,Não possuo
+1224,Não,F,Heterossexual,23,Parda,Não possuo
+159,Sim,F,Outro,36,Parda,Não possuo
+17679,Sim,F,Bissexual,19,Branca,Não possuo
+8399,Não,F,Heterossexual,20,Não informada,Não possuo
+7433,Sim,F,Bissexual,20,Preta / negra,Não possuo
+804,Sim,F,Heterossexual,24,Branca,Não possuo
+6994,Sim,F,Bissexual,21,Parda,Não possuo
+17717,Sim,F,Heterossexual,26,Parda,Não possuo
+7808,Sim,F,Heterossexual,21,Branca,Não possuo
+7464,Sim,M,Heterossexual,23,Parda,Não possuo
+2000,Não,F,Heterossexual,21,Parda,Não possuo
+12483,Sim,F,Heterossexual,20,Branca,Não possuo
+1379,Sim,F,Heterossexual,25,Não informada,Não possuo
+4080,Sim,M,Heterossexual,24,Preta / negra,Não possuo
+1666,Não,M,Heterossexual,21,Branca,Não possuo
+2603,Não,F,Heterossexual,27,Preta / negra,Não possuo
+7026,Sim,F,Prefiro não responder,21,Parda,Não possuo
+3614,Sim,M,Homossexual,22,Preta / negra,Não possuo
+7473,Sim,M,Heterossexual,24,Branca,Não possuo
+18493,Sim,M,Heterossexual,21,Parda,Deficiência Visual
+1306,Sim,M,Heterossexual,26,Parda,Não possuo
+7242,Não,F,Heterossexual,24,Branca,Não possuo
+9532,Sim,F,Bissexual,18,Branca,Não possuo
+6696,Sim,F,Heterossexual,23,Parda,Não possuo
+668,Sim,M,Heterossexual,28,Não informada,Não possuo
+3055,Não,F,Heterossexual,21,Branca,Não possuo
+4231,Não,F,Homossexual,28,Branca,Não possuo
+8307,Sim,M,Homossexual,20,Preta / negra,Não possuo
+3724,Sim,M,Heterossexual,29,Preta / negra,Não possuo
+2168,Não,M,Heterossexual,21,Parda,Não possuo
+4735,Sim,M,Bissexual,21,Branca,Outro
+5983,Não,F,Bissexual,20,Branca,Não possuo
+5436,Não,F,Bissexual,21,Branca,Não possuo
+7377,Sim,M,Heterossexual,20,Parda,Não possuo
+1813,Não,F,Heterossexual,21,Branca,Não possuo
+9494,Sim,M,Heterossexual,19,Branca,Não possuo
+4852,Sim,M,Heterossexual,26,Parda,Não possuo
+10597,Sim,M,Heterossexual,18,Parda,Não possuo
+9185,Sim,M,Heterossexual,20,Branca,Não possuo
+3410,Sim,F,Homossexual,24,Parda,Não possuo
+5041,Não,F,Bissexual,18,Branca,Não possuo
+7493,Sim,M,Heterossexual,20,Branca,Não possuo
+8713,Sim,M,Heterossexual,19,Preta / negra,Não possuo
+10493,Sim,M,Heterossexual,18,Branca,Não possuo
+7834,Não,M,Heterossexual,19,Branca,Não possuo
+9099,Sim,M,Heterossexual,23,Branca,Não possuo
+11111,Sim,F,Pansexual,19,Branca,Não possuo
+4422,Não,F,Heterossexual,24,Parda,Não possuo
+4618,Não,M,Heterossexual,23,Branca,Não possuo
+3921,Sim,M,Bissexual,21,Branca,Não possuo
+283,Não,F,Heterossexual,19,Branca,Não possuo
+2010,Sim,F,Bissexual,23,Parda,Não possuo
+10701,Não,F,Bissexual,18,Branca,Não possuo
+1669,Sim,M,Heterossexual,29,Parda,Não possuo
+2921,Não,F,Heterossexual,20,Branca,Não possuo
+7036,Sim,F,Bissexual,20,Branca,Não possuo
+4215,Sim,F,Heterossexual,22,Parda,Não possuo
+3690,Sim,F,Heterossexual,24,Parda,Não possuo
+4833,Sim,M,Heterossexual,20,Preta / negra,Não possuo
+11630,Não,M,Heterossexual,23,Parda,Não possuo
+12616,Sim,M,Homossexual,18,Preta / negra,Não possuo
+9089,Não,F,Heterossexual,21,Branca,Não possuo
+8738,Não,F,Bissexual,22,Parda,Não possuo
+7264,Sim,M,Bissexual,20,Não informada,Não possuo
+12558,Sim,M,Bissexual,22,Parda,Não possuo
+2064,Não,M,Heterossexual,31,Branca,Não possuo
+12456,Sim,F,Heterossexual,18,Parda,Não possuo
+11335,Não,M,Homossexual,18,Branca,Não possuo
+4617,Sim,M,Bissexual,21,Branca,Não possuo
+2002,Não,M,Bissexual,25,Preta / negra,Não possuo
+9647,Sim,F,Bissexual,19,Parda,Não possuo
+6099,Sim,M,Bissexual,21,Parda,Não possuo
+3884,Não,M,Heterossexual,28,Amarela,Não possuo
+11952,Sim,F,Heterossexual,23,Branca,Não possuo
+9288,Não,F,Heterossexual,19,Branca,Não possuo
+11651,Sim,M,Heterossexual,19,Branca,Não possuo
+4791,Sim,F,Homossexual,21,Preta / negra,Não possuo
+3749,Não,F,Heterossexual,26,Preta / negra,Não possuo
+14059,Sim,M,Homossexual,23,Branca,Não possuo
+1097,Sim,M,Prefiro não responder,27,Branca,Não possuo
+8787,Sim,M,Heterossexual,20,Branca,Deficiência Visual
+5229,Sim,F,Bissexual,22,Branca,Não possuo
+11945,Sim,F,Heterossexual,21,Branca,Não possuo
+5567,Não,M,Bissexual,19,Parda,Não possuo
+3952,Não,M,Heterossexual,21,Branca,Não possuo
+6338,Sim,F,Prefiro não responder,20,Parda,Não possuo
+10979,Não,M,Heterossexual,36,Parda,Não possuo
+8138,Sim,F,Bissexual,19,Parda,Não possuo
+4875,Sim,F,Bissexual,20,Branca,Não possuo
+10017,Sim,M,Homossexual,21,Parda,Não possuo
+2900,Sim,M,Homossexual,24,Branca,Não possuo
+2326,Sim,M,Homossexual,27,Branca,Não possuo
+265,Não,F,Heterossexual,57,Parda,Não possuo
+9410,Sim,M,Homossexual,25,Parda,Não possuo
+8557,Não,F,Heterossexual,21,Branca,Não possuo
+5577,Sim,M,Heterossexual,21,Amarela,Não possuo
+6233,Sim,F,Heterossexual,20,Branca,Não possuo
+10091,Sim,F,Heterossexual,19,Preta / negra,Não possuo
+11119,Sim,F,Heterossexual,19,Parda,Não possuo
+429,Não,M,Homossexual,25,Parda,Não possuo
+2199,Não,M,Prefiro não responder,21,Branca,Não possuo
+6715,Não,M,Heterossexual,39,Branca,Não possuo
+2627,Não,M,Heterossexual,52,Branca,Não possuo
+2994,Sim,F,Bissexual,25,Parda,Não possuo
+8652,Sim,F,Bissexual,20,Branca,Não possuo
+1294,Sim,M,Homossexual,23,Branca,Não possuo
+2297,Não,F,Bissexual,21,Não informada,Não possuo
+3498,Não,M,Heterossexual,19,Preta / negra,Não possuo
+8422,Sim,F,Heterossexual,20,Preta / negra,Não possuo
+9746,Não,F,Heterossexual,20,Branca,Não possuo
+12426,Sim,M,Heterossexual,18,Branca,Não possuo
+3981,Sim,F,Heterossexual,23,Parda,Não possuo
+2238,Sim,F,Heterossexual,22,Não informada,Não possuo
+3953,Sim,F,Heterossexual,21,Parda,Não possuo
+6530,Sim,F,Heterossexual,20,Branca,Não possuo
+6007,Sim,F,Heterossexual,20,Parda,Não possuo
+10565,Não,F,Bissexual,20,Branca,Não possuo
+12661,Sim,M,Heterossexual,19,Branca,Não possuo
+2245,Sim,F,Homossexual,36,Indígena,Não possuo
+10992,Sim,F,Heterossexual,18,Branca,Não possuo
+13235,Sim,M,Heterossexual,19,Parda,Não possuo
+1825,Não,F,Heterossexual,20,Parda,Não possuo
+10725,Sim,M,Heterossexual,18,Branca,Não possuo
+441,Não,M,Bissexual,32,Branca,Não possuo
+8931,Não,F,Bissexual,20,Amarela,Não possuo
+10325,Sim,F,Heterossexual,23,Parda,Não possuo
+6094,Sim,M,Heterossexual,23,Branca,Não possuo
+8294,Sim,F,Heterossexual,20,Parda,Não possuo
+7724,Não,M,Heterossexual,62,Branca,Não possuo
+5249,Sim,F,Prefiro não responder,20,Parda,Não possuo
+218,Sim,M,Heterossexual,56,Branca,Não possuo
+12412,Sim,M,Prefiro não responder,19,Branca,Não possuo
+9460,Não,F,Heterossexual,25,Parda,Não possuo
+11499,Sim,F,Bissexual,21,Branca,Não possuo
+2757,Sim,M,Heterossexual,24,Branca,Não possuo
+11656,Sim,M,Homossexual,18,Parda,Não possuo
+8389,Não,M,Prefiro não responder,24,Não informada,Não possuo
+8150,Sim,M,Heterossexual,22,Branca,Não possuo
+9275,Sim,F,Bissexual,19,Branca,Não possuo
+5341,Não,F,Heterossexual,21,Branca,Não possuo
+1333,Não,F,Heterossexual,34,Branca,Não possuo
+4391,Não,M,Heterossexual,27,Branca,Não possuo
+2328,Sim,M,Homossexual,26,Branca,Não possuo
+10482,Não,M,Bissexual,20,Branca,Não possuo
+13505,Sim,F,Bissexual,28,Branca,Não possuo
+17659,Sim,M,Heterossexual,18,Parda,Não possuo
+5383,Não,M,Heterossexual,20,Não informada,Não possuo
+4959,Não,F,Bissexual,19,Branca,Não possuo
+6521,Não,M,Heterossexual,21,Branca,Não possuo
+1002,Sim,F,Heterossexual,25,Preta / negra,Não possuo
+3533,Sim,M,Heterossexual,23,Branca,Não possuo
+650,Não,F,Heterossexual,18,Branca,Não possuo
+5361,Sim,F,Bissexual,21,Parda,Não possuo
+4229,Não,F,Pansexual,23,Preta / negra,Não possuo
+5833,Sim,M,Bissexual,22,Branca,Não possuo
+7482,Sim,F,Homossexual,20,Branca,Não possuo
+11807,Sim,M,Bissexual,18,Branca,Não possuo
+11633,Sim,M,Heterossexual,19,Parda,Não possuo
+11593,Sim,F,Heterossexual,20,Branca,Não possuo
+3821,Sim,M,Heterossexual,26,Branca,Não possuo
+4406,Sim,M,Heterossexual,29,Branca,Deficiência Mental/Intelectual
+5849,Não,F,Bissexual,18,Branca,Não possuo
+11875,Não,M,Bissexual,21,Branca,Não possuo
+2745,Sim,F,Heterossexual,27,Parda,Não possuo
+5182,Sim,M,Homossexual,23,Branca,Não possuo
+290,Sim,F,Heterossexual,28,Parda,Não possuo
+6056,Não,F,Heterossexual,19,Branca,Não possuo
+9828,Sim,F,Heterossexual,20,Preta / negra,Não possuo
+9158,Sim,M,Heterossexual,19,Branca,Não possuo
+985,Sim,M,Heterossexual,24,Parda,Não possuo
+11031,Não,M,Heterossexual,19,Parda,Não possuo
+2560,Sim,F,Heterossexual,22,Parda,Não possuo
+6006,Não,F,Heterossexual,24,Branca,Não possuo
+372,Não,M,Prefiro não responder,19,Parda,Não possuo
+8327,Não,F,Heterossexual,21,Branca,Não possuo
+10964,Sim,F,Heterossexual,19,Parda,Não possuo
+1037,Sim,M,Heterossexual,27,Branca,Não possuo
+417,Sim,M,Heterossexual,29,Branca,Não possuo
+4088,Sim,M,Homossexual,27,Preta / negra,Não possuo
+763,Não,M,Heterossexual,22,Parda,Não possuo
+14193,Sim,F,Bissexual,24,Parda,Não possuo
+3819,Sim,M,Homossexual,24,Branca,Não possuo
+11523,Não,M,Heterossexual,20,Branca,Não possuo
+5557,Não,F,Heterossexual,21,Branca,Não possuo
+1128,Sim,M,Prefiro não responder,26,Branca,Não possuo
+1056,Sim,M,Heterossexual,25,Parda,Não possuo
+5863,Sim,F,Bissexual,20,Branca,Não possuo
+11720,Sim,F,Heterossexual,18,Branca,Não possuo
+7170,Sim,M,Prefiro não responder,20,Branca,Não possuo
+2301,Não,M,Bissexual,21,Parda,Não possuo
+3664,Sim,F,Bissexual,26,Branca,Não possuo
+7612,Sim,F,Heterossexual,24,Amarela,Não possuo
+7383,Sim,M,Heterossexual,25,Parda,Não possuo
+2408,Não,F,Heterossexual,33,Parda,Não possuo
+18791,Sim,F,Heterossexual,19,Branca,Não possuo
+5307,Sim,F,Bissexual,21,Preta / negra,Não possuo
+2997,Sim,F,Heterossexual,22,Parda,Não possuo
+11419,Sim,F,Bissexual,22,Parda,Não possuo
+5593,Não,F,Homossexual,22,Amarela,Não possuo
+6935,Sim,F,Heterossexual,20,Parda,Não possuo
+6498,Sim,F,Heterossexual,19,Branca,Não possuo
+167,Não,F,Pansexual,22,Amarela,Não possuo
+6945,Sim,M,Heterossexual,20,Branca,Não possuo
+4468,Não,F,Prefiro não responder,20,Preta / negra,Não possuo
+9058,Não,M,Heterossexual,20,Branca,Não possuo
+9017,Não,F,Prefiro não responder,21,Branca,Não possuo
+7844,Não,F,Bissexual,20,Branca,Não possuo
+713,Não,F,Heterossexual,20,Parda,Não possuo
+9648,Não,M,Heterossexual,20,Não informada,Não possuo
+2077,Não,M,Pansexual,23,Parda,Não possuo
+6939,Sim,F,Heterossexual,22,Parda,Não possuo
+6625,Sim,F,Pansexual,20,Não informada,Não possuo
+2899,Sim,F,Bissexual,23,Parda,Não possuo
+56,Não,F,Pansexual,29,Parda,Deficiência Mental/Intelectual
+8485,Sim,F,Heterossexual,24,Parda,Não possuo
+2341,Não,M,Heterossexual,18,Branca,Não possuo
+10840,Sim,M,Heterossexual,23,Preta / negra,Não possuo
+11679,Sim,M,Heterossexual,23,Branca,Não possuo
+8712,Não,F,Heterossexual,21,Branca,Não possuo
+2509,Sim,F,Bissexual,24,Parda,Não possuo
+1348,Sim,F,Heterossexual,24,Parda,Não possuo
+5613,Não,F,Heterossexual,21,Preta / negra,Não possuo
+4016,Não,F,Heterossexual,19,Parda,Não possuo
+2986,Sim,M,Heterossexual,28,Branca,Não possuo
+4182,Não,M,Heterossexual,25,Branca,Não possuo
+12214,Sim,F,Heterossexual,19,Branca,Não possuo
+2858,Sim,M,Homossexual,27,Parda,Não possuo
+13525,Sim,F,Prefiro não responder,19,Parda,Não possuo
+2847,Sim,F,Bissexual,22,Branca,Não possuo
+1328,Sim,M,Heterossexual,20,Branca,Não possuo
+7246,Sim,F,Heterossexual,20,Branca,Não possuo
+10360,Sim,M,Heterossexual,27,Branca,Não possuo
+1754,Sim,F,Heterossexual,24,Parda,Não possuo
+13401,Sim,F,Heterossexual,18,Branca,Não possuo
+12337,Sim,F,Heterossexual,18,Parda,Não possuo
+7756,Sim,M,Heterossexual,19,Parda,Não possuo
+2540,Não,M,Heterossexual,23,Parda,Não possuo
+10702,Não,M,Heterossexual,19,Branca,Não possuo
+13094,Sim,F,Heterossexual,21,Parda,Não possuo
+680,Não,F,Bissexual,20,Branca,Não possuo
+4278,Não,F,Heterossexual,18,Branca,Não possuo
+13220,Sim,M,Heterossexual,21,Branca,Não possuo
+6394,Sim,F,Heterossexual,19,Branca,Não possuo
+461,Não,F,Pansexual,18,Branca,Não possuo
+10924,Sim,M,Homossexual,29,Preta / negra,Não possuo
+616,Sim,M,Heterossexual,28,Branca,Não possuo
+8416,Sim,F,Heterossexual,20,Preta / negra,Não possuo
+1514,Sim,M,Heterossexual,26,Parda,Não possuo
+6090,Sim,M,Heterossexual,20,Branca,Não possuo
+4976,Não,F,Homossexual,27,Branca,TEA – Transtorno Espectro do Autismo
+11876,Sim,M,Heterossexual,20,Preta / negra,Não possuo
+2553,Não,F,Heterossexual,19,Branca,Não possuo
+7766,Não,F,Heterossexual,25,Branca,Não possuo
+3996,Não,F,Heterossexual,27,Branca,Não possuo
+8600,Não,F,Heterossexual,20,Branca,Não possuo
+6046,Sim,F,Bissexual,20,Preta / negra,Não possuo
+2744,Sim,F,Bissexual,23,Preta / negra,Não possuo
+6866,Não,F,Prefiro não responder,23,Branca,Não possuo
+5738,Não,F,Bissexual,21,Branca,Não possuo
+4572,Sim,M,Heterossexual,22,Branca,Não possuo
+8349,Sim,F,Heterossexual,24,Branca,Não possuo
+6664,Não,M,Heterossexual,18,Branca,Não possuo
+254,Não,F,Pansexual,21,Parda,Não possuo
+5285,Sim,F,Heterossexual,22,Branca,Não possuo
+9001,Sim,M,Heterossexual,26,Parda,Não possuo
+4898,Não,F,Prefiro não responder,20,Não informada,Não possuo
+9359,Não,F,Prefiro não responder,22,Parda,Não possuo
+7948,Não,M,Heterossexual,20,Branca,Não possuo
+593,Não,F,Homossexual,26,Parda,Não possuo
+9024,Sim,M,Heterossexual,20,Branca,Não possuo
+9765,Sim,F,Heterossexual,19,Branca,Não possuo
+9389,Sim,M,Homossexual,20,Parda,Não possuo
+4446,Sim,F,Heterossexual,22,Branca,Não possuo
+12247,Sim,F,Bissexual,20,Parda,Não possuo
+7729,Sim,F,Heterossexual,21,Branca,Não possuo
+6705,Sim,F,Prefiro não responder,19,Parda,Não possuo
+2033,Não,F,Heterossexual,20,Parda,Não possuo
+6851,Não,F,Heterossexual,20,Branca,Não possuo
+5891,Não,M,Heterossexual,20,Parda,Não possuo
+8410,Não,F,Bissexual,26,Branca,Não possuo
+867,Sim,M,Bissexual,28,Branca,Não possuo
+350,Não,F,Heterossexual,26,Branca,Não possuo
+4627,Sim,M,Heterossexual,24,Preta / negra,Não possuo
+582,Sim,M,Homossexual,22,Branca,Não possuo
+4302,Sim,F,Prefiro não responder,21,Parda,Não possuo
+10015,Não,F,Bissexual,21,Branca,Não possuo
+4925,Não,F,Heterossexual,18,Branca,Não possuo
+3508,Sim,M,Prefiro não responder,31,Parda,Não possuo
+8982,Não,F,Bissexual,20,Branca,Não possuo
+8754,Não,F,Heterossexual,19,Branca,Não possuo
+5782,Sim,M,Homossexual,21,Preta / negra,Não possuo
+6554,Sim,M,Heterossexual,21,Branca,Não possuo
+4247,Sim,M,Homossexual,21,Branca,Não possuo
+3539,Não,F,Bissexual,19,Amarela,Não possuo
+13352,Sim,F,Heterossexual,21,Branca,Não possuo
+12990,Não,F,Heterossexual,18,Branca,Não possuo
+5603,Não,M,Heterossexual,19,Branca,Não possuo
+4110,Não,M,Heterossexual,23,Branca,Não possuo
+10104,Sim,F,Heterossexual,20,Preta / negra,Não possuo
+11929,Sim,F,Heterossexual,19,Branca,Não possuo
+9043,Não,F,Heterossexual,21,Branca,Não possuo
+6005,Não,M,Heterossexual,19,Branca,Não possuo
+2749,Não,M,Heterossexual,22,Branca,Não possuo
+2590,Não,M,Homossexual,20,Branca,Não possuo
+5623,Sim,M,Bissexual,22,Não informada,Não possuo
+157,Não,F,Heterossexual,29,Branca,Não possuo
+10083,Sim,F,Heterossexual,23,Parda,Não possuo
+868,Não,F,Heterossexual,20,Branca,Não possuo
+9651,Sim,M,Heterossexual,26,Parda,Não possuo
+12980,Sim,F,Heterossexual,18,Branca,Não possuo
+5857,Não,F,Bissexual,21,Branca,Não possuo
+6169,Não,F,Heterossexual,19,Branca,Não possuo
+4949,Não,M,Heterossexual,25,Preta / negra,Não possuo
+10922,Não,F,Heterossexual,25,Parda,Não possuo
+13387,Sim,F,Bissexual,18,Branca,Não possuo
+5494,Sim,M,Heterossexual,22,Branca,Não possuo
+8391,Não,F,Heterossexual,21,Branca,Deficiência Visual
+6849,Sim,M,Homossexual,19,Branca,Não possuo
+10411,Sim,F,Heterossexual,17,Parda,Não possuo
+7311,Sim,F,Heterossexual,19,Não informada,Não possuo
+2877,Sim,F,Prefiro não responder,23,Branca,Não possuo
+19,Sim,M,Heterossexual,35,Branca,Não possuo
+2385,Sim,F,Bissexual,25,Branca,Não possuo
+9726,Sim,F,Heterossexual,20,Branca,Não possuo
+741,Sim,M,Heterossexual,32,Branca,Não possuo
+7494,Sim,M,Heterossexual,24,Branca,Não possuo
+2131,Sim,M,Heterossexual,27,Branca,Não possuo
+5800,Não,M,Heterossexual,19,Parda,Não possuo
+161,Não,F,Heterossexual,61,Branca,Não possuo
+8141,Não,F,Heterossexual,20,Branca,Não possuo
+11724,Sim,M,Bissexual,18,Branca,Não possuo
+11699,Não,F,Heterossexual,20,Branca,Não possuo
+4365,Não,M,Heterossexual,24,Branca,Não possuo
+10642,Não,M,Prefiro não responder,34,Parda,Não possuo
+3183,Não,F,Prefiro não responder,19,Branca,Não possuo
+1189,Sim,M,Heterossexual,24,Parda,Não possuo
+9327,Não,M,Bissexual,19,Branca,Não possuo
+7191,Sim,M,Heterossexual,21,Parda,Não possuo
+4728,Não,M,Homossexual,20,Branca,Não possuo
+2943,Sim,F,Bissexual,23,Não informada,Não possuo
+8986,Sim,F,Heterossexual,20,Branca,Não possuo
+2874,Sim,M,Homossexual,24,Parda,Não possuo
+1070,Não,F,Bissexual,24,Preta / negra,Não possuo
+11614,Não,F,Heterossexual,43,Parda,Não possuo
+11212,Sim,F,Heterossexual,18,Parda,Não possuo
+2663,Sim,F,Prefiro não responder,24,Preta / negra,Não possuo
+16467,Sim,F,Pansexual,27,Branca,Não possuo
+1859,Sim,M,Heterossexual,25,Não informada,Não possuo
+8542,Não,M,Heterossexual,18,Branca,Não possuo
+17383,Sim,F,Pansexual,19,Preta / negra,Outro
+9227,Não,M,Pansexual,18,Amarela,Não possuo
+10500,Sim,M,Heterossexual,21,Preta / negra,Não possuo
+12362,Sim,M,Bissexual,22,Preta / negra,Não possuo
+7374,Sim,M,Heterossexual,19,Parda,Não possuo
+4501,Sim,F,Heterossexual,21,Branca,Não possuo
+5296,Sim,M,Homossexual,33,Preta / negra,Não possuo
+4843,Não,M,Bissexual,24,Branca,Não possuo
+234,Sim,F,Pansexual,23,Amarela,Não possuo
+7271,Sim,F,Pansexual,22,Não informada,Não possuo
+4759,Não,M,Heterossexual,20,Branca,Não possuo
+12923,Sim,M,Heterossexual,22,Branca,Não possuo
+9129,Não,F,Heterossexual,21,Branca,Não possuo
+8948,Sim,F,Heterossexual,19,Branca,Não possuo
+9440,Sim,F,Heterossexual,45,Preta / negra,Não possuo
+5408,Sim,F,Heterossexual,20,Branca,Não possuo
+5817,Sim,M,Homossexual,20,Branca,Não possuo
+3223,Sim,F,Heterossexual,22,Branca,Não possuo
+7322,Não,F,Bissexual,20,Branca,Não possuo
+2401,Sim,F,Heterossexual,23,Parda,Não possuo
+104,Sim,M,Heterossexual,38,Branca,Não possuo
+8666,Sim,F,Heterossexual,23,Branca,Não possuo
+2628,Sim,M,Heterossexual,25,Parda,Não possuo
+11661,Não,F,Heterossexual,23,Branca,Não possuo
+9617,Sim,F,Heterossexual,20,Parda,Não possuo
+12591,Sim,M,Homossexual,20,Preta / negra,Não possuo
+13391,Sim,F,Heterossexual,22,Parda,Não possuo
+7869,Sim,F,Bissexual,20,Branca,Não possuo
+14346,Sim,M,Heterossexual,26,Branca,Não possuo
+9584,Sim,M,Bissexual,19,Preta / negra,Não possuo
+6986,Sim,M,Heterossexual,19,Parda,Não possuo
+11160,Não,M,Heterossexual,22,Parda,Não possuo
+10684,Não,F,Heterossexual,22,Branca,Não possuo
+3863,Sim,F,Heterossexual,23,Branca,Não possuo
+269,Não,M,Heterossexual,18,Branca,Não possuo
+12918,Sim,F,Heterossexual,19,Branca,Não possuo
+8979,Não,F,Heterossexual,26,Amarela,Não possuo
+2683,Não,F,Heterossexual,18,Branca,Não possuo
+3299,Sim,F,Bissexual,25,Branca,Não possuo
+11040,Sim,F,Heterossexual,18,Preta / negra,Não possuo
+6023,Sim,M,Heterossexual,20,Branca,Não possuo
+12211,Sim,F,Bissexual,21,Branca,Não possuo
+8426,Sim,M,Homossexual,38,Preta / negra,Não possuo
+325,Não,F,Heterossexual,24,Branca,Não possuo
+4222,Sim,F,Heterossexual,20,Parda,Não possuo
+9786,Não,M,Bissexual,20,Parda,Outro
+17049,Sim,F,Bissexual,19,Parda,Não possuo
+4651,Não,F,Heterossexual,20,Branca,Não possuo
+3139,Não,F,Bissexual,24,Branca,Não possuo
+7124,Não,M,Heterossexual,23,Branca,Não possuo
+12853,Sim,F,Heterossexual,19,Preta / negra,Não possuo
+9818,Sim,F,Heterossexual,19,Branca,Não possuo
+13740,Sim,F,Bissexual,22,Não informada,Não possuo
+4005,Sim,F,Heterossexual,20,Branca,Não possuo
+7624,Sim,M,Heterossexual,24,Branca,Não possuo
+8625,Sim,M,Bissexual,18,Parda,Não possuo
+1697,Sim,M,Bissexual,24,Parda,Não possuo
+3194,Sim,F,Heterossexual,22,Parda,Não possuo
+2782,Sim,M,Heterossexual,21,Branca,Não possuo
+7471,Sim,M,Bissexual,22,Branca,Não possuo
+1104,Não,F,Heterossexual,19,Preta / negra,Não possuo
+7239,Não,M,Homossexual,22,Branca,Não possuo
+11118,Não,M,Homossexual,20,Branca,Não possuo
+6700,Não,F,Homossexual,21,Branca,Não possuo
+4605,Sim,F,Heterossexual,23,Preta / negra,Não possuo
+4282,Não,M,Heterossexual,23,Branca,Não possuo
+7417,Sim,F,Outro,21,Parda,Não possuo
+6053,Sim,F,Heterossexual,24,Branca,Não possuo
+10590,Sim,F,Heterossexual,18,Parda,Não possuo
+5575,Não,M,Heterossexual,27,Branca,Não possuo
+1530,Não,F,Heterossexual,18,Preta / negra,Não possuo
+5220,Não,F,Bissexual,19,Preta / negra,Não possuo
+12972,Sim,F,Heterossexual,18,Parda,Não possuo
+8352,Sim,M,Heterossexual,20,Branca,Não possuo
+190,Não,M,Heterossexual,36,Branca,Não possuo
+4246,Não,F,Bissexual,26,Branca,Não possuo
+3436,Sim,M,Prefiro não responder,23,Parda,Não possuo
+6753,Sim,M,Heterossexual,20,Branca,Não possuo
+6563,Não,F,Heterossexual,19,Branca,TEA – Transtorno Espectro do Autismo
+7390,Sim,F,Bissexual,20,Parda,Não possuo
+11133,Sim,F,Bissexual,20,Branca,Não possuo
+10920,Sim,M,Heterossexual,19,Preta / negra,Não possuo
+6608,Sim,M,Bissexual,19,Parda,Não possuo
+652,Sim,F,Pansexual,25,Branca,Não possuo
+10029,Não,F,Heterossexual,25,Branca,Não possuo
+7888,Sim,F,Homossexual,20,Branca,Não possuo
+12834,Sim,F,Heterossexual,18,Parda,Não possuo
+9731,Não,F,Heterossexual,17,Parda,Não possuo
+2147,Sim,M,Homossexual,25,Branca,Não possuo
+9643,Sim,F,Homossexual,23,Parda,Não possuo
+4720,Não,F,Bissexual,21,Branca,Não possuo
+5581,Não,F,Heterossexual,22,Parda,Não possuo
+413,Sim,M,Homossexual,28,Parda,Não possuo
+6756,Sim,M,Bissexual,20,Parda,Não possuo
+8027,Sim,M,Heterossexual,24,Branca,Não possuo
+8848,Não,F,Heterossexual,22,Branca,Não possuo
+2293,Não,F,Heterossexual,21,Branca,Não possuo
+707,Sim,M,Homossexual,28,Branca,Não possuo
+1380,Sim,F,Bissexual,23,Parda,Não possuo
+9676,Não,M,Heterossexual,22,Branca,Não possuo
+5905,Sim,F,Pansexual,26,Branca,Não possuo
+6133,Não,M,Homossexual,23,Branca,Não possuo
+80,Sim,F,Homossexual,41,Preta / negra,Não possuo
+1175,Sim,M,Homossexual,24,Branca,Não possuo
+3236,Sim,M,Heterossexual,25,Branca,Outro
+1872,Sim,M,Heterossexual,28,Parda,Não possuo
+16751,Sim,F,Heterossexual,21,Branca,Não possuo
+7984,Sim,F,Heterossexual,21,Branca,Não possuo
+733,Sim,F,Bissexual,28,Não informada,Outro
+5351,Sim,F,Bissexual,25,Branca,Não possuo
+430,Sim,M,Heterossexual,31,Branca,Não possuo
+5355,Sim,M,Heterossexual,43,Preta / negra,Não possuo
+6665,Sim,M,Heterossexual,27,Parda,Não possuo
+2122,Sim,M,Heterossexual,23,Branca,Não possuo
+11137,Não,M,Heterossexual,19,Parda,Não possuo
+4662,Não,M,Bissexual,18,Parda,Não possuo
+6897,Sim,M,Heterossexual,20,Parda,Não possuo
+2409,Não,F,Heterossexual,22,Branca,Não possuo
+10315,Não,F,Heterossexual,22,Branca,Não possuo
+12581,Sim,M,Heterossexual,21,Parda,Não possuo
+6858,Sim,M,Heterossexual,21,Amarela,Não possuo
+5204,Sim,F,Bissexual,21,Branca,Não possuo
+8669,Não,M,Homossexual,23,Branca,Não possuo
+1013,Não,M,Homossexual,27,Parda,Não possuo
+2755,Não,M,Heterossexual,21,Parda,Não possuo
+2124,Sim,F,Bissexual,23,Preta / negra,Não possuo
+2269,Sim,F,Heterossexual,24,Branca,Não possuo
+8149,Sim,F,Heterossexual,19,Branca,Não possuo
+11262,Sim,F,Heterossexual,18,Branca,Não possuo
+792,Não,M,Heterossexual,21,Branca,Não possuo
+8812,Não,M,Heterossexual,19,Parda,Não possuo
+739,Não,F,Heterossexual,22,Parda,Não possuo
+9448,Sim,F,Bissexual,21,Não informada,Não possuo
+11045,Sim,M,Bissexual,18,Branca,Não possuo
+6575,Não,F,Heterossexual,19,Branca,Não possuo
+3052,Sim,M,Heterossexual,27,Preta / negra,Não possuo
+5859,Sim,M,Homossexual,22,Preta / negra,Não possuo
+10100,Sim,M,Heterossexual,21,Preta / negra,Não possuo
+1401,Sim,F,Homossexual,23,Branca,Não possuo
+13862,Sim,M,Prefiro não responder,27,Parda,Não possuo
+18175,Sim,F,Heterossexual,21,Preta / negra,Deficiência Mental/Intelectual
+2952,Sim,M,Heterossexual,23,Branca,Não possuo
+4498,Não,M,Homossexual,20,Branca,Não possuo
+12464,Sim,F,Bissexual,18,Branca,Não possuo
+4421,Sim,F,Heterossexual,23,Parda,Não possuo
+12325,Sim,F,Heterossexual,19,Parda,Não possuo
+4301,Sim,F,Heterossexual,33,Branca,Não possuo
+13532,Sim,F,Bissexual,18,Parda,Não possuo
+8774,Sim,M,Bissexual,20,Branca,Não possuo
+7738,Sim,M,Heterossexual,20,Amarela,Não possuo
+2626,Sim,M,Bissexual,22,Branca,Não possuo
+7610,Sim,F,Prefiro não responder,20,Parda,Não possuo
+9402,Sim,F,Heterossexual,20,Branca,Não possuo
+2586,Sim,F,Prefiro não responder,23,Branca,Não possuo
+655,Não,M,Heterossexual,19,Branca,Não possuo
+11073,Sim,F,Bissexual,19,Branca,Não possuo
+10092,Sim,M,Homossexual,20,Parda,Não possuo
+2998,Sim,M,Heterossexual,22,Parda,Não possuo
+11256,Sim,F,Prefiro não responder,18,Branca,Não possuo
+8682,Sim,F,Heterossexual,23,Branca,Não possuo
+574,Sim,M,Homossexual,24,Preta / negra,Não possuo
+12578,Sim,M,Heterossexual,21,Parda,Não possuo
+1212,Não,M,Bissexual,21,Parda,Não possuo
+3271,Sim,F,Bissexual,23,Branca,Não possuo
+11403,Não,M,Heterossexual,25,Parda,Não possuo
+7740,Não,F,Bissexual,21,Branca,Não possuo
+18124,Sim,F,Heterossexual,23,Preta / negra,Não possuo
+4038,Sim,M,Heterossexual,20,Parda,Não possuo
+13428,Sim,M,Heterossexual,19,Parda,Não possuo
+8857,Não,F,Heterossexual,19,Branca,Não possuo
+2697,Sim,F,Heterossexual,22,Parda,Não possuo
+5673,Sim,M,Heterossexual,21,Branca,Não possuo
+11547,Sim,M,Heterossexual,18,Branca,Não possuo
+14065,Sim,M,Prefiro não responder,24,Não informada,Não possuo
+8074,Não,M,Homossexual,19,Branca,Não possuo
+9470,Sim,F,Heterossexual,18,Parda,Outro
+968,Não,M,Heterossexual,22,Preta / negra,Não possuo
+12963,Sim,F,Heterossexual,18,Parda,Não possuo
+1395,Sim,M,Homossexual,24,Branca,Não possuo
+8779,Sim,F,Heterossexual,21,Branca,Não possuo
+5836,Sim,F,Bissexual,22,Branca,Não possuo
+46,Sim,M,Heterossexual,34,Branca,TEA – Transtorno Espectro do Autismo
+1354,Sim,F,Heterossexual,36,Branca,Não possuo
+1759,Não,M,Heterossexual,19,Branca,Não possuo
+7255,Sim,M,Heterossexual,25,Não informada,Não possuo
+10546,Não,F,Heterossexual,23,Branca,Não possuo
+5987,Não,F,Bissexual,19,Branca,Não possuo
+13132,Sim,M,Heterossexual,18,Branca,Não possuo
+7656,Não,M,Homossexual,19,Branca,Não possuo
+5708,Não,M,Heterossexual,18,Branca,Não possuo
+6421,Não,F,Heterossexual,21,Branca,Não possuo
+8686,Sim,M,Heterossexual,19,Branca,Não possuo
+6150,Não,M,Homossexual,23,Branca,Não possuo
+11158,Não,F,Pansexual,24,Parda,Não possuo
+2012,Sim,M,Heterossexual,33,Preta / negra,Não possuo
+2306,Sim,F,Homossexual,25,Parda,Não possuo
+5390,Sim,F,Heterossexual,22,Branca,Não possuo
+386,Sim,F,Bissexual,26,Parda,Não possuo
+3094,Sim,F,Heterossexual,25,Não informada,Não possuo
+2119,Sim,F,Homossexual,26,Não informada,Não possuo
+326,Não,F,Heterossexual,28,Parda,Não possuo
+13047,Sim,F,Bissexual,20,Parda,Não possuo
+13146,Sim,F,Bissexual,21,Branca,Não possuo
+3278,Sim,M,Bissexual,23,Parda,Não possuo
+750,Sim,M,Homossexual,28,Parda,Não possuo
+7023,Não,F,Heterossexual,20,Branca,Não possuo
+11339,Sim,F,Heterossexual,22,Branca,Não possuo
+1050,Sim,M,Bissexual,24,Branca,Não possuo
+5294,Não,M,Heterossexual,20,Branca,Não possuo
+6612,Não,M,Pansexual,23,Branca,Não possuo
+885,Sim,F,Heterossexual,26,Parda,Não possuo
+10406,Sim,F,Prefiro não responder,17,Amarela,Não possuo
+2845,Sim,F,Prefiro não responder,22,Parda,Não possuo
+6082,Sim,M,Homossexual,20,Parda,Não possuo
+1311,Sim,F,Homossexual,24,Parda,Não possuo
+6928,Sim,M,Bissexual,20,Parda,Não possuo
+916,Sim,M,Heterossexual,26,Branca,Não possuo
+7474,Não,M,Heterossexual,23,Branca,Não possuo
+6031,Não,M,Heterossexual,24,Parda,Não possuo
+10480,Não,M,Heterossexual,22,Branca,Não possuo
+10805,Não,F,Homossexual,26,Branca,Não possuo
+4335,Sim,F,Heterossexual,21,Branca,Não possuo
+5266,Sim,F,Heterossexual,23,Branca,Não possuo
+9605,Sim,F,Homossexual,20,Preta / negra,Não possuo
+7692,Não,F,Heterossexual,22,Branca,Não possuo
+6995,Não,M,Homossexual,24,Parda,Não possuo
+3061,Não,M,Bissexual,23,Branca,Não possuo
+522,Sim,M,Heterossexual,33,Branca,Deficiência Visual
+13002,Sim,M,Homossexual,18,Branca,Não possuo
+4474,Não,M,Heterossexual,22,Parda,Não possuo
+3232,Sim,F,Heterossexual,24,Branca,Não possuo
+13036,Sim,F,Heterossexual,20,Parda,Não possuo
+1085,Não,M,Bissexual,21,Parda,Não possuo
+6078,Sim,M,Heterossexual,21,Branca,Não possuo
+1626,Não,M,Bissexual,24,Não informada,Deficiência Auditiva
+2090,Sim,F,Bissexual,22,Branca,Não possuo
+444,Sim,F,Bissexual,26,Parda,Não possuo
+5961,Sim,F,Heterossexual,24,Branca,Não possuo
+361,Não,M,Heterossexual,27,Branca,Não possuo
+3000,Sim,F,Heterossexual,23,Preta / negra,Não possuo
+14994,Sim,M,Heterossexual,22,Preta / negra,Não possuo
+12289,Sim,F,Heterossexual,20,Branca,Não possuo
+11513,Sim,M,Heterossexual,20,Branca,Não possuo
+11942,Sim,M,Bissexual,19,Preta / negra,Não possuo
+5490,Sim,F,Heterossexual,20,Branca,Não possuo
+11755,Sim,F,Heterossexual,18,Branca,Não possuo
+9428,Não,M,Heterossexual,18,Branca,Não possuo
+12059,Sim,F,Heterossexual,20,Parda,Não possuo
+16942,Sim,F,Heterossexual,24,Parda,Não possuo
+17619,Sim,M,Bissexual,20,Preta / negra,Não possuo
+877,Sim,F,Pansexual,25,Parda,Outro
+9090,Sim,M,Heterossexual,18,Branca,Outro
+6821,Sim,M,Heterossexual,20,Parda,Não possuo
+4443,Sim,F,Heterossexual,21,Parda,Não possuo
+471,Não,F,Heterossexual,17,Branca,Não possuo
+12587,Sim,F,Bissexual,20,Parda,Não possuo
+8747,Não,F,Pansexual,24,Branca,Não possuo
+1617,Sim,F,Prefiro não responder,22,Parda,Não possuo
+12469,Sim,F,Heterossexual,18,Parda,Não possuo
+5672,Não,M,Heterossexual,31,Branca,Não possuo
+14650,Sim,F,Heterossexual,23,Parda,Não possuo
+1662,Sim,M,Bissexual,25,Branca,Não possuo
+12750,Não,M,Heterossexual,21,Branca,Não possuo
+562,Não,M,Homossexual,31,Preta / negra,Não possuo
+2611,Sim,M,Heterossexual,27,Preta / negra,Não possuo
+8760,Não,F,Heterossexual,20,Branca,Não possuo
+10917,Não,F,Heterossexual,24,Parda,Não possuo
+15013,Sim,F,Heterossexual,23,Branca,Não possuo
+623,Não,M,Heterossexual,20,Branca,Não possuo
+14,Não,M,Heterossexual,24,Parda,Não possuo
+6397,Sim,F,Heterossexual,20,Parda,Não possuo
+5739,Sim,M,Heterossexual,20,Branca,Não possuo
+2654,Sim,M,Heterossexual,23,Branca,Não possuo
+9318,Sim,M,Heterossexual,21,Preta / negra,Não possuo
+2488,Não,F,Bissexual,23,Parda,Não possuo
+2716,Não,M,Heterossexual,18,Branca,Não possuo
+2955,Sim,F,Bissexual,24,Preta / negra,Outro
+2690,Não,M,Heterossexual,35,Parda,Não possuo
+11226,Não,F,Heterossexual,21,Branca,Não possuo
+4109,Sim,M,Outro,25,Branca,Não possuo
+10900,Sim,M,Heterossexual,22,Branca,Não possuo
+5584,Sim,M,Heterossexual,21,Branca,Não possuo
+404,Não,F,Heterossexual,37,Branca,Não possuo
+8183,Não,F,Heterossexual,22,Branca,Não possuo
+10925,Sim,M,Heterossexual,18,Branca,Não possuo
+11823,Sim,F,Heterossexual,18,Parda,Não possuo
+11691,Sim,F,Heterossexual,18,Branca,Não possuo
+3829,Sim,M,Bissexual,23,Preta / negra,Não possuo
+4066,Sim,F,Heterossexual,24,Parda,Não possuo
+11138,Sim,F,Pansexual,21,Preta / negra,Não possuo
+4780,Não,M,Heterossexual,18,Branca,Não possuo
+5589,Não,F,Bissexual,21,Branca,Não possuo
+11994,Não,M,Homossexual,18,Amarela,Não possuo
+4029,Não,M,Homossexual,23,Branca,Não possuo
+12406,Sim,M,Heterossexual,23,Branca,Não possuo
+3823,Não,M,Heterossexual,22,Branca,Não possuo
+2766,Não,M,Homossexual,18,Branca,Não possuo
+7138,Não,F,Bissexual,22,Branca,Não possuo
+7848,Não,F,Heterossexual,22,Branca,Não possuo
+6171,Sim,F,Heterossexual,21,Preta / negra,Não possuo
+9662,Não,M,Heterossexual,21,Parda,Não possuo
+2337,Não,M,Heterossexual,24,Branca,Não possuo
+6561,Não,M,Heterossexual,18,Branca,Não possuo
+9652,Sim,F,Heterossexual,21,Parda,Não possuo
+231,Não,M,Heterossexual,36,Parda,Não possuo
+2742,Sim,F,Heterossexual,22,Branca,Não possuo
+10054,Sim,F,Heterossexual,22,Preta / negra,Não possuo
+99,Sim,M,Heterossexual,36,Parda,Não possuo
+6619,Não,M,Heterossexual,18,Branca,Não possuo
+2910,Sim,M,Heterossexual,22,Parda,Não possuo
+2521,Não,F,Heterossexual,24,Não informada,Não possuo
+331,Não,M,Heterossexual,30,Branca,Não possuo
+427,Sim,M,Prefiro não responder,27,Preta / negra,Não possuo
+5499,Sim,M,Heterossexual,22,Branca,Não possuo
+8646,Não,M,Bissexual,22,Branca,Não possuo
+67,Não,F,Heterossexual,18,Branca,Não possuo
+13028,Sim,M,Heterossexual,19,Branca,Não possuo
+800,Sim,F,Heterossexual,30,Preta / negra,Não possuo
+1890,Não,F,Heterossexual,31,Não informada,Não possuo
+9816,Não,M,Heterossexual,19,Branca,Não possuo
+10626,Não,M,Bissexual,23,Parda,Não possuo
+2501,Sim,F,Heterossexual,22,Parda,Não possuo
+2592,Sim,M,Bissexual,23,Parda,Não possuo
+6450,Sim,M,Homossexual,23,Branca,Não possuo
+448,Não,M,Heterossexual,26,Parda,Não possuo
+7104,Sim,M,Heterossexual,24,Branca,Não possuo
+7400,Sim,M,Heterossexual,21,Preta / negra,Não possuo
+9717,Sim,M,Heterossexual,18,Amarela,Deficiência Física
+5660,Sim,F,Bissexual,20,Branca,Não possuo
+12788,Sim,M,Heterossexual,18,Branca,Não possuo
+2335,Sim,M,Heterossexual,23,Branca,Não possuo
+6184,Não,M,Heterossexual,22,Branca,Não possuo
+8648,Não,M,Heterossexual,23,Branca,Não possuo
+3666,Não,M,Heterossexual,23,Parda,Não possuo
+9052,Sim,F,Heterossexual,21,Parda,Não possuo
+6794,Não,F,Homossexual,23,Branca,Outro
+1236,Sim,M,Homossexual,26,Parda,Não possuo
+2198,Não,F,Heterossexual,21,Branca,Não possuo
+6920,Sim,M,Heterossexual,21,Parda,Não possuo
+9680,Sim,M,Heterossexual,20,Parda,Não possuo
+5958,Não,M,Heterossexual,22,Branca,Não possuo
+1630,Sim,M,Heterossexual,25,Preta / negra,Não possuo
+7320,Não,M,Heterossexual,23,Branca,Não possuo
+14769,Sim,F,Prefiro não responder,24,Parda,Não possuo
+4163,Não,M,Heterossexual,18,Branca,Não possuo
+7985,Sim,F,Heterossexual,19,Branca,Não possuo
+6483,Não,F,Heterossexual,28,Branca,Não possuo
+3806,Sim,F,Heterossexual,22,Branca,Não possuo
+6702,Sim,F,Heterossexual,20,Branca,Não possuo
+4063,Não,F,Heterossexual,22,Branca,Não possuo
+11337,Não,M,Heterossexual,18,Parda,Não possuo
+13361,Sim,F,Bissexual,18,Branca,Não possuo
+6739,Sim,M,Heterossexual,20,Parda,Não possuo
+10000,Não,F,Heterossexual,20,Parda,Não possuo
+1169,Sim,M,Heterossexual,24,Não informada,Não possuo
+4275,Sim,F,Heterossexual,24,Preta / negra,Não possuo
+4677,Sim,M,Heterossexual,21,Branca,Não possuo
+8933,Não,F,Heterossexual,22,Preta / negra,Não possuo
+12676,Sim,M,Heterossexual,18,Parda,Não possuo
+9208,Não,M,Heterossexual,20,Branca,Não possuo
+367,Não,F,Bissexual,25,Parda,Não possuo
+10478,Não,M,Heterossexual,22,Preta / negra,Não possuo
+10629,Não,F,Heterossexual,21,Parda,Não possuo
+8041,Não,M,Heterossexual,19,Branca,Não possuo
+4010,Sim,F,Heterossexual,30,Não informada,Não possuo
+4684,Não,M,Heterossexual,20,Branca,Não possuo
+684,Sim,F,Heterossexual,28,Preta / negra,Não possuo
+10617,Sim,M,Heterossexual,19,Branca,Não possuo
+5470,Não,M,Homossexual,23,Branca,Não possuo
+6633,Sim,F,Heterossexual,28,Parda,Não possuo
+10931,Sim,M,Bissexual,19,Parda,Não possuo
+1803,Sim,M,Heterossexual,22,Não informada,Não possuo
+9070,Sim,F,Bissexual,19,Preta / negra,Não possuo
+825,Sim,F,Bissexual,25,Branca,Não possuo
+2443,Não,M,Heterossexual,18,Parda,Não possuo
+6661,Sim,M,Homossexual,21,Preta / negra,Não possuo
+454,Não,M,Homossexual,24,Parda,Não possuo
+7143,Sim,F,Heterossexual,20,Branca,Não possuo
+6672,Não,M,Heterossexual,25,Branca,Não possuo
+7344,Não,M,Heterossexual,24,Branca,Não possuo
+1773,Sim,F,Heterossexual,25,Branca,Não possuo
+7810,Sim,F,Bissexual,19,Branca,Não possuo
+11670,Sim,M,Heterossexual,19,Branca,Não possuo
+12766,Sim,F,Bissexual,25,Preta / negra,Não possuo
+2730,Sim,M,Prefiro não responder,23,Preta / negra,Não possuo
+2870,Não,F,Heterossexual,21,Branca,Não possuo
+5785,Não,M,Heterossexual,18,Amarela,Outro
+8037,Sim,F,Heterossexual,20,Branca,Não possuo
+6977,Sim,M,Heterossexual,20,Branca,Não possuo
+2691,Sim,F,Heterossexual,25,Parda,Não possuo
+10190,Não,M,Heterossexual,19,Branca,Não possuo
+4817,Não,M,Homossexual,30,Branca,Não possuo
+8536,Sim,F,Heterossexual,20,Parda,Não possuo
+1901,Sim,M,Heterossexual,24,Branca,Não possuo
+6255,Não,F,Bissexual,19,Branca,Não possuo
+12961,Sim,M,Heterossexual,21,Branca,Não possuo
+2418,Não,F,Outro,20,Branca,Deficiência Visual
+10981,Não,M,Prefiro não responder,21,Parda,Não possuo
+11654,Sim,F,Heterossexual,22,Preta / negra,Não possuo
+12652,Sim,M,Heterossexual,21,Não informada,Não possuo
+11028,Sim,M,Bissexual,19,Preta / negra,Não possuo
+8796,Sim,M,Heterossexual,25,Parda,Não possuo
+12528,Sim,F,Heterossexual,20,Parda,Não possuo
+3319,Sim,M,Bissexual,26,Parda,Não possuo
+4366,Sim,F,Heterossexual,21,Branca,Não possuo
+12181,Sim,F,Prefiro não responder,18,Branca,Não possuo
+10056,Sim,M,Heterossexual,22,Não informada,Não possuo
+5523,Sim,F,Heterossexual,20,Parda,Não possuo
+5031,Não,M,Heterossexual,23,Branca,Não possuo
+6454,Não,M,Bissexual,18,Branca,Não possuo
+11112,Sim,F,Outro,18,Parda,Não possuo
+705,Não,M,Heterossexual,45,Preta / negra,Não possuo
+17416,Sim,M,Heterossexual,23,Parda,Não possuo
+9378,Não,M,Bissexual,24,Branca,Não possuo
+7314,Não,F,Heterossexual,18,Branca,Não possuo
+592,Não,F,Prefiro não responder,27,Parda,Não possuo
+6968,Não,F,Bissexual,21,Branca,Não possuo
+4559,Não,F,Heterossexual,24,Branca,Não possuo
+6372,Sim,F,Heterossexual,19,Branca,Não possuo
+3525,Não,F,Heterossexual,20,Branca,Não possuo
+5896,Não,M,Heterossexual,19,Branca,Outro
+2273,Sim,M,Heterossexual,23,Branca,Não possuo
+2239,Não,M,Heterossexual,23,Parda,Não possuo
+1863,Sim,M,Heterossexual,27,Parda,Não possuo
+10665,Sim,M,Heterossexual,18,Parda,Não possuo
+6066,Sim,F,Bissexual,19,Branca,Não possuo
+2804,Não,M,Bissexual,30,Parda,Não possuo
+531,Não,M,Heterossexual,29,Branca,Não possuo
+7304,Não,M,Heterossexual,22,Parda,Não possuo
+9897,Não,F,Heterossexual,19,Branca,Deficiência Visual
+17891,Sim,F,Heterossexual,19,Branca,Não possuo
+7858,Não,F,Heterossexual,26,Parda,Não possuo
+1289,Não,M,Heterossexual,21,Parda,Não possuo
+11781,Sim,F,Heterossexual,19,Preta / negra,Não possuo
+1318,Não,M,Heterossexual,20,Preta / negra,Não possuo
+7218,Sim,M,Heterossexual,20,Parda,Não possuo
+9253,Sim,M,Heterossexual,18,Branca,Não possuo
+9425,Sim,M,Heterossexual,20,Não informada,Não possuo
+2342,Sim,F,Heterossexual,22,Branca,Não possuo
+2864,Não,F,Heterossexual,19,Branca,Não possuo
+2589,Sim,F,Bissexual,24,Parda,Não possuo
+3514,Não,M,Heterossexual,22,Branca,Não possuo
+11871,Sim,M,Heterossexual,32,Parda,Não possuo
+3862,Sim,F,Bissexual,22,Branca,Não possuo
+504,Não,M,Heterossexual,27,Branca,Não possuo
+8912,Sim,F,Bissexual,18,Branca,Não possuo
+2296,Sim,M,Heterossexual,25,Branca,Não possuo
+8361,Sim,M,Heterossexual,35,Preta / negra,Não possuo
+13060,Sim,M,Homossexual,17,Branca,Não possuo
+10872,Sim,F,Pansexual,19,Parda,Não possuo
+4895,Não,M,Heterossexual,19,Branca,Não possuo
+5698,Sim,F,Heterossexual,21,Parda,Não possuo
+2006,Sim,F,Bissexual,22,Preta / negra,Outro
+6938,Sim,F,Heterossexual,21,Parda,Não possuo
+4434,Não,M,Homossexual,18,Branca,Não possuo
+2679,Não,F,Heterossexual,22,Branca,Não possuo
+5821,Sim,F,Homossexual,22,Branca,Não possuo
+10966,Sim,F,Bissexual,18,Parda,Não possuo
+12645,Sim,M,Prefiro não responder,19,Branca,Não possuo
+5642,Sim,F,Bissexual,39,Não informada,Deficiência Visual
+9048,Não,F,Heterossexual,20,Branca,Não possuo
+2450,Não,F,Bissexual,20,Branca,Não possuo
+6388,Não,F,Bissexual,21,Preta / negra,Não possuo
+9458,Não,F,Heterossexual,56,Branca,Não possuo
+5188,Não,M,Prefiro não responder,18,Parda,Não possuo
+3967,Sim,M,Heterossexual,22,Preta / negra,Não possuo
+6429,Não,M,Heterossexual,20,Parda,Não possuo
+5890,Não,F,Heterossexual,19,Branca,Não possuo
+12159,Sim,M,Pansexual,18,Branca,Não possuo
+7987,Sim,F,Bissexual,20,Branca,Não possuo
+8670,Sim,F,Bissexual,22,Não informada,Não possuo
+5206,Sim,M,Heterossexual,31,Branca,Deficiência Visual
+6961,Não,M,Heterossexual,19,Branca,Não possuo
+6895,Não,M,Heterossexual,25,Branca,Não possuo
+1649,Não,F,Heterossexual,23,Branca,Não possuo
+2607,Sim,F,Prefiro não responder,22,Preta / negra,Não possuo
+13433,Sim,M,Heterossexual,17,Preta / negra,Deficiência Auditiva
+87,Não,F,Prefiro não responder,33,Parda,Não possuo
+13393,Sim,F,Heterossexual,22,Parda,Não possuo
+10310,Sim,F,Pansexual,19,Branca,Não possuo
+11104,Não,M,Heterossexual,27,Parda,Não possuo
+8769,Não,F,Outro,18,Branca,Não possuo
+1806,Sim,F,Pansexual,26,Branca,Não possuo
+3472,Sim,F,Bissexual,23,Parda,Não possuo
+10317,Não,F,Bissexual,25,Branca,Não possuo
+11317,Não,F,Heterossexual,28,Não informada,Não possuo
+10458,Sim,M,Bissexual,21,Branca,Não possuo
+8703,Sim,M,Heterossexual,19,Branca,Não possuo
+1878,Sim,M,Homossexual,22,Parda,Não possuo
+4517,Não,M,Homossexual,21,Parda,Não possuo
+10688,Sim,F,Heterossexual,19,Branca,Não possuo
+2853,Sim,F,Heterossexual,23,Branca,Não possuo
+6384,Sim,M,Heterossexual,23,Parda,Não possuo
+1444,Não,M,Heterossexual,20,Branca,Deficiência Mental/Intelectual
+611,Sim,M,Prefiro não responder,25,Branca,Não possuo
+182,Não,F,Heterossexual,30,Branca,Não possuo
+1953,Sim,M,Prefiro não responder,28,Não informada,Não possuo
+6152,Sim,M,Heterossexual,20,Parda,Não possuo
+8146,Não,F,Heterossexual,19,Branca,Não possuo
+5415,Sim,F,Homossexual,22,Branca,Não possuo
+1827,Não,M,Heterossexual,21,Branca,Não possuo
+7674,Sim,M,Heterossexual,20,Branca,Não possuo
+12942,Sim,M,Heterossexual,21,Branca,Não possuo
+10069,Sim,F,Heterossexual,23,Parda,Não possuo
+11759,Não,F,Heterossexual,22,Branca,Não possuo
+8246,Não,F,Heterossexual,19,Branca,Não possuo
+3870,Não,M,Pansexual,28,Branca,Não possuo
+11466,Sim,M,Heterossexual,18,Branca,Não possuo
+11911,Sim,F,Heterossexual,19,Branca,Não possuo
+9381,Não,M,Heterossexual,19,Parda,Não possuo
+11882,Sim,F,Heterossexual,18,Branca,Não possuo
+17589,Sim,M,Heterossexual,20,Preta / negra,Não possuo
+2842,Sim,F,Heterossexual,22,Parda,Não possuo
+437,Não,F,Pansexual,25,Parda,Não possuo
+11292,Não,M,Heterossexual,38,Branca,Não possuo
+2822,Não,M,Heterossexual,27,Branca,Não possuo
+11342,Sim,F,Heterossexual,18,Branca,Não possuo
+12160,Sim,F,Heterossexual,19,Branca,Não possuo
+10561,Não,M,Bissexual,23,Parda,Não possuo
+12919,Sim,F,Bissexual,18,Branca,Não possuo
+12442,Sim,F,Bissexual,18,Preta / negra,Não possuo
+6871,Sim,M,Heterossexual,20,Branca,Não possuo
+11659,Sim,M,Heterossexual,18,Preta / negra,Não possuo
+358,Não,M,Homossexual,29,Branca,Não possuo
+10134,Sim,M,Bissexual,21,Branca,Não possuo
+2274,Sim,F,Heterossexual,27,Branca,Não possuo
+6591,Sim,M,Heterossexual,23,Parda,Não possuo
+12331,Sim,F,Heterossexual,18,Parda,Não possuo
+7478,Sim,M,Heterossexual,23,Branca,Não possuo
+9653,Sim,F,Heterossexual,18,Parda,Não possuo
+911,Não,F,Heterossexual,21,Parda,Não possuo
+6369,Não,M,Heterossexual,19,Branca,Não possuo
+1468,Sim,F,Prefiro não responder,28,Parda,Não possuo
+10152,Não,F,Bissexual,19,Parda,Não possuo
+6874,Sim,F,Heterossexual,21,Branca,Não possuo
+5687,Sim,F,Heterossexual,21,Parda,Não possuo
+3944,Sim,F,Heterossexual,25,Branca,Não possuo
+8590,Não,M,Heterossexual,22,Branca,Deficiência Visual
+7723,Não,F,Prefiro não responder,19,Branca,Não possuo
+663,Sim,F,Bissexual,27,Preta / negra,Não possuo
+8133,Não,F,Heterossexual,22,Branca,Não possuo
+10801,Sim,M,Bissexual,25,Preta / negra,Não possuo
+1723,Não,M,Bissexual,24,Branca,Não possuo
+4553,Sim,F,Heterossexual,22,Parda,Não possuo
+8601,Sim,M,Heterossexual,21,Branca,Não possuo
+8311,Sim,F,Heterossexual,19,Branca,Não possuo
+9367,Sim,F,Bissexual,21,Preta / negra,Não possuo
+6689,Sim,M,Heterossexual,21,Parda,Não possuo
+11452,Sim,M,Heterossexual,19,Parda,Não possuo
+4493,Não,M,Heterossexual,19,Branca,Não possuo
+3066,Sim,F,Homossexual,22,Parda,Não possuo
+3887,Não,M,Heterossexual,26,Parda,Não possuo
+9184,Sim,F,Heterossexual,20,Parda,Não possuo
+6189,Não,F,Heterossexual,22,Branca,Não possuo
+2699,Não,F,Heterossexual,21,Branca,Não possuo
+13137,Não,F,Heterossexual,20,Branca,Não possuo
+10571,Sim,M,Heterossexual,25,Parda,Não possuo
+2434,Sim,M,Heterossexual,25,Amarela,Não possuo
+7747,Sim,F,Bissexual,23,Branca,Não possuo
+1165,Não,M,Heterossexual,23,Preta / negra,Não possuo
+1160,Não,M,Bissexual,24,Não informada,Não possuo
+8102,Não,F,Bissexual,22,Branca,Não possuo
+6674,Não,F,Bissexual,22,Branca,Não possuo
+11530,Sim,M,Heterossexual,21,Parda,Não possuo
+6958,Sim,M,Heterossexual,20,Amarela,Não possuo
+9476,Sim,M,Bissexual,31,Branca,Outro
+1559,Não,M,Heterossexual,19,Branca,Não possuo
+4497,Sim,M,Heterossexual,22,Branca,Não possuo
+8172,Não,F,Heterossexual,24,Branca,Não possuo
+13006,Sim,F,Bissexual,18,Branca,Não possuo
+1873,Não,F,Heterossexual,21,Preta / negra,Não possuo
+5042,Não,F,Heterossexual,25,Não informada,Não possuo
+2390,Sim,M,Heterossexual,27,Parda,Outro
+6108,Sim,F,Heterossexual,22,Parda,Não possuo
+1590,Não,F,Bissexual,28,Branca,Não possuo
+2348,Sim,F,Heterossexual,23,Branca,Não possuo
+961,Não,M,Heterossexual,22,Branca,Não possuo
+2317,Não,M,Heterossexual,22,Branca,Não possuo
+13288,Sim,F,Heterossexual,19,Branca,Não possuo
+9527,Não,M,Heterossexual,19,Branca,Não possuo
+13480,Sim,F,Heterossexual,22,Branca,Não possuo
+123,Não,F,Heterossexual,25,Branca,Não possuo
+11616,Não,F,Heterossexual,26,Branca,Não possuo
+6860,Não,M,Heterossexual,22,Parda,Não possuo
+9516,Não,M,Bissexual,26,Branca,Não possuo
+10432,Sim,F,Heterossexual,20,Branca,Não possuo
+13056,Sim,F,Prefiro não responder,20,Branca,Não possuo
+1809,Não,M,Homossexual,23,Branca,Não possuo
+8015,Não,M,Heterossexual,27,Branca,Não possuo
+9542,Sim,F,Heterossexual,19,Parda,Não possuo
+5902,Sim,F,Pansexual,19,Parda,Não possuo
+5831,Sim,F,Heterossexual,21,Parda,Não possuo
+1646,Não,F,Heterossexual,18,Branca,Outro
+91,Não,M,Bissexual,34,Parda,Não possuo
+4091,Sim,F,Bissexual,25,Branca,Não possuo
+3835,Não,F,Bissexual,19,Branca,Não possuo
+13349,Sim,M,Heterossexual,19,Parda,Não possuo
+5298,Sim,F,Bissexual,21,Parda,Não possuo
+11888,Sim,M,Heterossexual,19,Branca,Não possuo
+3800,Sim,F,Prefiro não responder,22,Parda,Outro
+155,Não,M,Heterossexual,36,Branca,Não possuo
+8404,Sim,F,Pansexual,19,Não informada,Não possuo
+6030,Não,F,Bissexual,19,Parda,Não possuo
+8627,Sim,F,Homossexual,24,Preta / negra,Não possuo
+5792,Não,F,Bissexual,19,Branca,Não possuo
+17123,Sim,M,Bissexual,22,Branca,Não possuo
+1312,Não,M,Bissexual,18,Parda,Não possuo
+5180,Não,M,Outro,26,Branca,Não possuo
+9829,Não,F,Bissexual,22,Parda,Não possuo
+7164,Sim,F,Bissexual,20,Preta / negra,Não possuo
+3826,Não,M,Heterossexual,20,Branca,Não possuo
+6242,Sim,F,Heterossexual,19,Branca,Não possuo
+6473,Sim,F,Heterossexual,20,Branca,Não possuo
+2465,Sim,M,Heterossexual,23,Branca,Não possuo
+3918,Não,M,Heterossexual,18,Parda,Não possuo
+14030,Sim,M,Homossexual,22,Parda,Não possuo
+3379,Sim,M,Heterossexual,22,Branca,Não possuo
+8153,Não,F,Heterossexual,18,Parda,Não possuo
+6103,Não,M,Heterossexual,27,Branca,Não possuo
+4803,Sim,M,Heterossexual,27,Preta / negra,Não possuo
+6526,Sim,F,Heterossexual,21,Branca,Não possuo
+10646,Sim,F,Bissexual,20,Branca,Não possuo
+2191,Sim,M,Homossexual,22,Não informada,Não possuo
+2024,Sim,F,Outro,24,Parda,Não possuo
+12664,Sim,F,Heterossexual,18,Branca,Não possuo
+6033,Sim,M,Homossexual,20,Branca,Não possuo
+8480,Sim,F,Homossexual,21,Parda,Não possuo
+7982,Sim,M,Heterossexual,22,Branca,Não possuo
+3869,Sim,M,Heterossexual,27,Preta / negra,Não possuo
+6351,Sim,F,Heterossexual,19,Parda,Não possuo
+11066,Não,M,Prefiro não responder,31,Não informada,Não possuo
+6096,Sim,F,Bissexual,21,Branca,Não possuo
+7326,Sim,M,Heterossexual,23,Não informada,Não possuo
+4705,Sim,F,Heterossexual,23,Preta / negra,Não possuo
+13993,Sim,F,Bissexual,23,Branca,Não possuo
+6802,Sim,M,Bissexual,20,Parda,Não possuo
+4806,Sim,M,Homossexual,21,Preta / negra,Não possuo
+12685,Sim,F,Bissexual,18,Parda,Não possuo
+8129,Sim,M,Homossexual,19,Branca,Não possuo
+4952,Sim,M,Pansexual,22,Branca,Não possuo
+2045,Sim,M,Bissexual,25,Preta / negra,Não possuo
+7563,Sim,F,Heterossexual,22,Branca,Não possuo
+11960,Não,M,Heterossexual,24,Parda,Não possuo
+5847,Sim,F,Bissexual,21,Branca,Não possuo
+4126,Não,F,Heterossexual,26,Parda,Não possuo
+3170,Sim,F,Bissexual,22,Parda,Não possuo
+5746,Não,M,Heterossexual,19,Branca,Não possuo
+8464,Sim,F,Heterossexual,21,Parda,Não possuo
+11159,Sim,M,Heterossexual,17,Parda,Não possuo
+1857,Não,F,Heterossexual,22,Branca,Não possuo
+6518,Sim,M,Homossexual,26,Branca,Não possuo
+6599,Sim,M,Homossexual,25,Parda,Não possuo
+7880,Sim,F,Outro,21,Branca,TEA – Transtorno Espectro do Autismo
+8704,Não,F,Bissexual,19,Parda,Não possuo
+7828,Sim,M,Homossexual,21,Branca,Não possuo
+9673,Não,F,Heterossexual,19,Branca,Não possuo
+10765,Não,F,Bissexual,19,Branca,Não possuo
+3734,Não,M,Heterossexual,18,Branca,Não possuo
+6776,Sim,F,Heterossexual,21,Branca,Não possuo
+8513,Sim,F,Heterossexual,21,Parda,Não possuo
+5293,Não,M,Heterossexual,21,Branca,Outro
+8248,Não,M,Heterossexual,19,Parda,Não possuo
+3936,Sim,M,Bissexual,23,Branca,Não possuo
+11804,Não,F,Bissexual,21,Parda,Não possuo
+8783,Não,F,Heterossexual,19,Branca,Não possuo
+30,Sim,M,Heterossexual,39,Preta / negra,Não possuo
+1552,Sim,M,Heterossexual,23,Parda,Não possuo
+7995,Não,F,Bissexual,18,Branca,Não possuo
+5396,Sim,F,Heterossexual,21,Preta / negra,Não possuo
+6692,Sim,F,Bissexual,20,Preta / negra,Não possuo
+3847,Sim,F,Heterossexual,22,Parda,Não possuo
+7317,Sim,F,Heterossexual,21,Não informada,Não possuo
+823,Sim,F,Bissexual,25,Não informada,Não possuo
+9866,Não,F,Bissexual,20,Branca,Não possuo
+686,Sim,F,Heterossexual,28,Preta / negra,Não possuo
+6899,Não,F,Pansexual,25,Branca,Não possuo
+13005,Sim,M,Bissexual,20,Preta / negra,Não possuo
+4463,Não,F,Heterossexual,21,Parda,Não possuo
+3395,Sim,M,Heterossexual,24,Branca,Não possuo
+5559,Sim,M,Heterossexual,22,Parda,Não possuo
+3025,Sim,F,Heterossexual,26,Preta / negra,Não possuo
+1911,Sim,F,Heterossexual,22,Parda,Não possuo
+3063,Não,M,Heterossexual,22,Branca,Não possuo
+6186,Não,F,Heterossexual,21,Parda,Não possuo
+480,Não,M,Heterossexual,20,Não informada,Não possuo
+3954,Sim,M,Heterossexual,22,Preta / negra,Não possuo
+742,Não,M,Homossexual,20,Branca,Não possuo
+141,Não,M,Heterossexual,18,Branca,Não possuo
+12174,Sim,F,Heterossexual,18,Branca,Não possuo
+9072,Sim,F,Pansexual,19,Parda,Não possuo
+11813,Sim,M,Bissexual,18,Parda,Não possuo
+13388,Sim,M,Bissexual,29,Parda,Não possuo
+1971,Sim,M,Heterossexual,28,Branca,Não possuo
+12388,Sim,F,Pansexual,18,Branca,Não possuo
+10515,Sim,M,Heterossexual,22,Preta / negra,Não possuo
+14656,Sim,F,Bissexual,22,Branca,Não possuo
+1381,Sim,M,Homossexual,25,Branca,Não possuo
+7902,Sim,F,Heterossexual,21,Branca,Não possuo
+3353,Não,M,Heterossexual,24,Parda,Deficiência Visual
+13853,Sim,M,Homossexual,25,Parda,Não possuo
+8823,Sim,F,Heterossexual,23,Branca,Não possuo
+10830,Sim,M,Heterossexual,19,Branca,Não possuo
+12981,Sim,F,Heterossexual,19,Parda,Não possuo
+1132,Sim,F,Prefiro não responder,29,Parda,Não possuo
+9113,Sim,F,Homossexual,20,Parda,Não possuo
+3001,Sim,F,Heterossexual,22,Preta / negra,Não possuo
+3963,Não,F,Heterossexual,23,Branca,Não possuo
+3840,Sim,M,Bissexual,26,Branca,Deficiência Mental/Intelectual
+7049,Sim,F,Heterossexual,20,Branca,Não possuo
+6486,Sim,M,Heterossexual,26,Branca,Não possuo
+8043,Não,M,Homossexual,24,Parda,Não possuo
+9,Não,F,Pansexual,27,Preta / negra,Não possuo
+7393,Sim,M,Heterossexual,21,Preta / negra,Não possuo
+3558,Sim,M,Heterossexual,22,Branca,Não possuo
+6475,Não,F,Bissexual,21,Preta / negra,Não possuo
+12613,Sim,M,Heterossexual,23,Branca,Não possuo
+10718,Sim,F,Homossexual,19,Parda,Não possuo
+4563,Não,F,Bissexual,18,Branca,Não possuo
+484,Não,F,Heterossexual,29,Parda,Não possuo
+10031,Sim,M,Heterossexual,21,Branca,Não possuo
+13454,Sim,F,Bissexual,19,Branca,Não possuo
+6241,Sim,F,Heterossexual,20,Parda,Não possuo
+5733,Sim,M,Heterossexual,22,Branca,Não possuo
+7696,Sim,M,Heterossexual,20,Branca,Não possuo
+2276,Não,M,Heterossexual,18,Branca,Não possuo
+10322,Sim,M,Heterossexual,20,Parda,Deficiência Física
+8768,Sim,M,Heterossexual,19,Branca,Não possuo
+1555,Sim,M,Bissexual,23,Parda,Não possuo
+4265,Sim,F,Bissexual,22,Branca,Não possuo
+1747,Não,M,Heterossexual,19,Parda,Não possuo
+1751,Sim,M,Heterossexual,28,Preta / negra,Não possuo
+4624,Sim,M,Heterossexual,22,Preta / negra,Não possuo
+410,Não,M,Homossexual,34,Preta / negra,Não possuo
+12935,Sim,F,Heterossexual,18,Branca,Não possuo
+10818,Sim,M,Homossexual,23,Branca,Deficiência Visual
+2302,Não,F,Heterossexual,19,Branca,Não possuo
+6435,Sim,M,Heterossexual,21,Não informada,Não possuo
+3507,Sim,F,Bissexual,22,Branca,Não possuo
+11880,Não,M,Heterossexual,21,Parda,Não possuo
+5435,Sim,F,Heterossexual,21,Branca,Não possuo
+11763,Sim,M,Homossexual,18,Preta / negra,Não possuo
+7145,Não,F,Heterossexual,19,Parda,Não possuo
+8610,Sim,M,Heterossexual,21,Branca,Não possuo
+8482,Sim,M,Heterossexual,23,Parda,Não possuo
+2038,Não,F,Heterossexual,20,Amarela,Não possuo
+12657,Não,M,Heterossexual,21,Branca,Não possuo
+1785,Não,F,Bissexual,24,Amarela,Não possuo
+8042,Não,F,Heterossexual,19,Parda,Não possuo
+2109,Sim,F,Heterossexual,24,Não informada,Não possuo
+11188,Não,F,Heterossexual,18,Branca,Não possuo
+7590,Sim,F,Heterossexual,22,Branca,Não possuo
+7963,Sim,F,Heterossexual,25,Parda,Não possuo
+3027,Sim,M,Heterossexual,26,Parda,Não possuo
+7713,Sim,F,Heterossexual,24,Não informada,Não possuo
+9307,Não,M,Heterossexual,19,Branca,Não possuo
+5774,Sim,F,Bissexual,20,Branca,Não possuo
+2182,Sim,F,Heterossexual,24,Parda,Não possuo
+7062,Sim,F,Heterossexual,21,Branca,Não possuo
+4310,Não,M,Heterossexual,21,Branca,Não possuo
+6406,Não,M,Heterossexual,33,Branca,Não possuo
+12968,Sim,F,Homossexual,20,Parda,Não possuo
+11280,Não,F,Heterossexual,18,Parda,Não possuo
+8568,Sim,M,Bissexual,20,Parda,Não possuo
+5705,Não,M,Heterossexual,19,Branca,Não possuo
+13144,Sim,F,Heterossexual,19,Branca,Não possuo
+7695,Não,F,Heterossexual,21,Branca,Não possuo
+4210,Sim,F,Heterossexual,23,Branca,Não possuo
+5966,Sim,M,Homossexual,22,Parda,Não possuo
+8143,Não,M,Heterossexual,20,Parda,Não possuo
+6964,Sim,M,Bissexual,20,Branca,Não possuo
+405,Não,F,Bissexual,23,Branca,Não possuo
+7579,Sim,F,Bissexual,22,Branca,Não possuo
+105,Sim,M,Heterossexual,40,Preta / negra,Não possuo
+9398,Não,F,Heterossexual,21,Branca,Não possuo
+6869,Sim,M,Heterossexual,22,Branca,Não possuo
+7564,Sim,F,Heterossexual,20,Branca,Não possuo
+3788,Sim,F,Bissexual,23,Parda,Não possuo
+7284,Não,F,Heterossexual,26,Parda,Não possuo
+4079,Sim,M,Heterossexual,22,Branca,Não possuo
+4290,Sim,M,Heterossexual,22,Branca,Deficiência Visual
+8087,Sim,F,Outro,18,Branca,Não possuo
+8049,Não,F,Homossexual,19,Branca,Não possuo
+2389,Sim,M,Homossexual,24,Branca,Não possuo
+11392,Não,M,Heterossexual,59,Branca,Não possuo
+7477,Sim,M,Homossexual,20,Branca,Não possuo
+4813,Não,F,Heterossexual,20,Não informada,Não possuo
+6116,Não,M,Bissexual,26,Branca,Não possuo
+13016,Sim,F,Heterossexual,19,Parda,Não possuo
+10389,Sim,F,Bissexual,20,Parda,Não possuo
+13180,Sim,M,Heterossexual,18,Parda,Não possuo
+8859,Sim,M,Heterossexual,19,Branca,Não possuo
+1480,Não,M,Bissexual,20,Parda,Não possuo
+3182,Não,M,Heterossexual,17,Parda,Não possuo
+5095,Não,F,Prefiro não responder,23,Branca,Não possuo
+8781,Sim,M,Heterossexual,19,Parda,Não possuo
+2080,Não,M,Heterossexual,19,Branca,Não possuo
+999,Não,F,Heterossexual,31,Parda,Não possuo
+2625,Sim,M,Heterossexual,22,Parda,Não possuo
+5826,Não,M,Heterossexual,20,Branca,Não possuo
+622,Não,F,Heterossexual,19,Preta / negra,Não possuo
+5686,Não,M,Heterossexual,21,Não informada,Não possuo
+10839,Não,F,Heterossexual,22,Branca,Não possuo
+2713,Sim,F,Bissexual,23,Parda,Não possuo
+7943,Sim,M,Heterossexual,23,Parda,Não possuo
+11359,Não,M,Heterossexual,20,Branca,Não possuo
+11974,Sim,F,Heterossexual,18,Branca,Não possuo
+6983,Sim,M,Heterossexual,20,Branca,Não possuo
+8412,Não,M,Heterossexual,25,Branca,Não possuo
+3257,Sim,F,Prefiro não responder,22,Parda,Não possuo
+2833,Sim,F,Bissexual,22,Preta / negra,Não possuo
+6635,Sim,M,Heterossexual,20,Parda,Não possuo
+799,Não,M,Homossexual,20,Preta / negra,Não possuo
+5760,Não,M,Heterossexual,22,Branca,Não possuo
+8835,Não,F,Bissexual,22,Branca,Não possuo
+14249,Sim,M,Heterossexual,28,Branca,Não possuo
+5580,Sim,F,Heterossexual,18,Preta / negra,Não possuo
+3104,Sim,F,Heterossexual,25,Branca,Não possuo
+8804,Não,F,Heterossexual,21,Não informada,Não possuo
+9216,Não,F,Heterossexual,20,Amarela,Não possuo
+10290,Sim,F,Heterossexual,20,Parda,Não possuo
+11835,Não,F,Heterossexual,20,Branca,Não possuo
+7364,Sim,M,Heterossexual,23,Branca,Deficiência Física
+2575,Sim,F,Bissexual,25,Branca,Deficiência Física
+10759,Sim,M,Heterossexual,21,Parda,Não possuo
+8368,Sim,M,Heterossexual,21,Branca,Não possuo
+9768,Sim,M,Heterossexual,20,Branca,Não possuo
+3612,Sim,F,Heterossexual,22,Branca,Não possuo
+10363,Sim,M,Heterossexual,19,Branca,Não possuo
+7485,Sim,F,Bissexual,26,Branca,Não possuo
+560,Sim,F,Bissexual,23,Branca,Não possuo
+4116,Sim,F,Pansexual,22,Branca,Não possuo
+8268,Não,F,Bissexual,25,Não informada,Não possuo
+13524,Sim,M,Homossexual,19,Branca,Não possuo
+5404,Não,M,Heterossexual,25,Branca,Não possuo
+9467,Não,F,Heterossexual,25,Branca,Não possuo
+3330,Sim,F,Bissexual,26,Preta / negra,Não possuo
+11,Sim,F,Bissexual,18,Branca,Não possuo
+740,Sim,F,Bissexual,28,Parda,Não possuo
+13113,Sim,M,Bissexual,18,Parda,Não possuo
+13481,Sim,M,Heterossexual,31,Branca,Não possuo
+12873,Sim,M,Heterossexual,18,Branca,Não possuo
+7516,Sim,F,Pansexual,20,Branca,Não possuo
+10595,Não,F,Heterossexual,18,Parda,Não possuo
+10960,Não,M,Heterossexual,23,Parda,Não possuo
+17519,Sim,F,Heterossexual,20,Parda,Não possuo
+8745,Sim,M,Homossexual,19,Preta / negra,Não possuo
+7219,Não,F,Bissexual,24,Branca,Não possuo
+4867,Não,M,Heterossexual,25,Branca,Não possuo
+5747,Sim,F,Heterossexual,21,Preta / negra,Não possuo
+10899,Sim,F,Heterossexual,19,Branca,Não possuo
+3259,Não,F,Heterossexual,18,Branca,Não possuo
+2760,Sim,F,Heterossexual,24,Amarela,Não possuo
+6328,Sim,M,Heterossexual,20,Parda,Não possuo
+9499,Sim,F,Heterossexual,19,Branca,Não possuo
+13022,Sim,F,Heterossexual,22,Branca,Não possuo
+7432,Sim,M,Bissexual,23,Preta / negra,Não possuo
+6634,Sim,M,Heterossexual,45,Preta / negra,Não possuo
+7444,Sim,M,Heterossexual,24,Preta / negra,Não possuo
+5402,Não,F,Homossexual,27,Branca,Não possuo
+10928,Sim,M,Heterossexual,18,Parda,Não possuo
+1141,Sim,F,Heterossexual,27,Branca,Outro
+2483,Sim,M,Heterossexual,23,Branca,Não possuo
+3719,Sim,M,Heterossexual,27,Preta / negra,Não possuo
+1914,Não,F,Prefiro não responder,22,Parda,Não possuo
+2636,Não,M,Heterossexual,25,Branca,Não possuo
+11745,Sim,F,Prefiro não responder,19,Parda,Não possuo
+7864,Não,M,Heterossexual,21,Parda,Não possuo
+12737,Sim,M,Homossexual,19,Parda,Não possuo
+3556,Não,M,Heterossexual,19,Branca,Não possuo
+6249,Sim,M,Heterossexual,20,Branca,Não possuo
+790,Sim,M,Homossexual,24,Branca,Não possuo
+360,Não,M,Heterossexual,26,Parda,Não possuo
+6893,Sim,M,Heterossexual,32,Branca,Não possuo
+3511,Sim,F,Heterossexual,21,Preta / negra,Não possuo
+10942,Não,M,Heterossexual,22,Branca,Não possuo
+6997,Não,F,Heterossexual,19,Branca,Não possuo
+11747,Sim,F,Heterossexual,18,Branca,Não possuo
+9749,Não,F,Homossexual,21,Parda,Não possuo
+12530,Sim,F,Prefiro não responder,18,Branca,Não possuo
+9181,Sim,F,Heterossexual,19,Parda,Não possuo
+3565,Sim,M,Heterossexual,22,Branca,Deficiência Visual
+74,Sim,M,Pansexual,33,Parda,Não possuo
+2310,Não,M,Heterossexual,20,Branca,Não possuo
+9009,Sim,F,Pansexual,19,Amarela,Não possuo
+8302,Sim,M,Heterossexual,22,Parda,Não possuo
+5248,Sim,M,Homossexual,23,Parda,Não possuo
+6455,Não,F,Heterossexual,22,Branca,Não possuo
+9235,Sim,M,Heterossexual,19,Branca,Não possuo
+9117,Sim,M,Heterossexual,23,Branca,Não possuo
+1120,Não,F,Heterossexual,23,Parda,Não possuo
+1325,Sim,F,Bissexual,20,Branca,Não possuo
+12938,Sim,F,Heterossexual,19,Parda,Não possuo
+8356,Sim,F,Heterossexual,20,Parda,Não possuo
+17695,Sim,F,Heterossexual,19,Parda,Não possuo
+3456,Sim,F,Heterossexual,23,Branca,Não possuo
+7114,Sim,M,Heterossexual,20,Parda,Não possuo
+10746,Não,F,Heterossexual,20,Branca,Não possuo
+6117,Não,F,Heterossexual,19,Branca,Não possuo
+5309,Sim,F,Heterossexual,22,Branca,Não possuo
+1417,Sim,M,Bissexual,24,Preta / negra,Não possuo
+394,Sim,F,Bissexual,33,Parda,TEA – Transtorno Espectro do Autismo
+4044,Sim,F,Heterossexual,40,Parda,Não possuo
+10678,Sim,M,Heterossexual,19,Branca,Não possuo
+472,Sim,F,Heterossexual,25,Branca,Não possuo
+10142,Sim,M,Heterossexual,27,Branca,Outro
+8690,Não,F,Heterossexual,21,Branca,Não possuo
+11177,Não,F,Bissexual,25,Branca,Não possuo
+2595,Sim,M,Heterossexual,24,Parda,Não possuo
+7895,Sim,F,Bissexual,20,Branca,Não possuo
+4378,Não,M,Heterossexual,22,Parda,Não possuo
+1861,Não,F,Heterossexual,22,Branca,Não possuo
+10267,Sim,F,Heterossexual,21,Parda,Não possuo
+7582,Sim,M,Bissexual,21,Branca,Não possuo
+4722,Não,F,Heterossexual,18,Parda,Não possuo
+3715,Não,M,Heterossexual,23,Branca,Não possuo
+6499,Sim,F,Bissexual,22,Branca,Não possuo
+12252,Sim,F,Prefiro não responder,20,Branca,Não possuo
+11269,Sim,F,Heterossexual,18,Preta / negra,Não possuo
+5773,Não,M,Bissexual,21,Branca,Não possuo
+11905,Não,M,Heterossexual,19,Parda,Não possuo
+10191,Não,F,Bissexual,22,Branca,Não possuo
+4470,Sim,M,Heterossexual,27,Parda,Não possuo
+1503,Sim,F,Heterossexual,23,Branca,Não possuo
+748,Não,M,Heterossexual,19,Branca,Não possuo
+2620,Não,M,Heterossexual,18,Amarela,Não possuo
+5368,Não,M,Homossexual,21,Branca,Não possuo
+10068,Sim,F,Heterossexual,18,Parda,Não possuo
+9623,Sim,F,Bissexual,20,Parda,Não possuo
+8220,Não,M,Heterossexual,19,Preta / negra,Não possuo
+1071,Não,F,Heterossexual,28,Parda,Outro
+8949,Sim,F,Heterossexual,19,Branca,Não possuo
+8125,Não,M,Heterossexual,22,Amarela,Não possuo
+7375,Sim,F,Heterossexual,20,Parda,Não possuo
+5433,Sim,M,Heterossexual,26,Branca,Não possuo
+6545,Não,M,Heterossexual,26,Branca,Não possuo
+412,Não,M,Bissexual,23,Branca,Não possuo
+1973,Sim,M,Heterossexual,24,Branca,Não possuo
+7367,Sim,M,Heterossexual,23,Não informada,Não possuo
+10538,Não,M,Heterossexual,26,Parda,Não possuo
+2262,Sim,M,Bissexual,27,Parda,Não possuo
+2402,Sim,F,Bissexual,22,Preta / negra,Não possuo
+529,Sim,M,Bissexual,29,Branca,Outro
+13281,Sim,F,Heterossexual,22,Parda,Não possuo
+7290,Não,M,Heterossexual,19,Branca,Não possuo
+4201,Não,F,Bissexual,23,Branca,Não possuo
+540,Não,M,Homossexual,18,Amarela,Não possuo
+4608,Não,M,Homossexual,20,Branca,Não possuo
+4475,Não,M,Heterossexual,20,Branca,Não possuo
+6525,Não,M,Heterossexual,21,Parda,Não possuo
+1954,Não,F,Heterossexual,25,Branca,Não possuo
+5844,Não,M,Heterossexual,25,Branca,Não possuo
+4958,Sim,F,Heterossexual,22,Branca,Não possuo
+6348,Sim,F,Heterossexual,20,Branca,Não possuo
+10728,Sim,F,Heterossexual,18,Parda,Não possuo
+3215,Sim,M,Prefiro não responder,25,Branca,Não possuo
+9196,Não,F,Heterossexual,20,Branca,Não possuo
+9200,Sim,M,Heterossexual,19,Parda,Não possuo
+1009,Sim,M,Heterossexual,25,Preta / negra,Não possuo
+5757,Sim,M,Heterossexual,27,Parda,Não possuo
+8740,Não,F,Prefiro não responder,21,Não informada,Não possuo
+9394,Sim,F,Bissexual,20,Branca,Não possuo
+239,Não,M,Heterossexual,37,Parda,Não possuo
+11471,Não,M,Heterossexual,24,Branca,Não possuo
+8401,Sim,F,Heterossexual,21,Branca,Não possuo
+371,Sim,F,Heterossexual,26,Branca,Outro
+4369,Sim,M,Heterossexual,20,Branca,Não possuo
+5638,Sim,F,Heterossexual,17,Branca,Não possuo
+2332,Não,F,Heterossexual,18,Branca,Não possuo
+11140,Não,M,Heterossexual,25,Amarela,Não possuo
+1678,Sim,M,Heterossexual,25,Não informada,Não possuo
+10670,Não,M,Homossexual,23,Branca,Não possuo
+9578,Sim,M,Heterossexual,19,Preta / negra,Não possuo
+7086,Sim,M,Heterossexual,24,Parda,Não possuo
+1146,Sim,F,Bissexual,25,Não informada,Outro
+4261,Sim,F,Bissexual,24,Branca,Não possuo
+12068,Não,M,Bissexual,21,Parda,Não possuo
+1763,Não,M,Homossexual,20,Branca,Não possuo
+8831,Sim,M,Heterossexual,19,Branca,Não possuo
+1270,Não,F,Heterossexual,20,Branca,Não possuo
+10105,Sim,M,Bissexual,24,Parda,Não possuo
+2171,Sim,F,Bissexual,24,Parda,Não possuo
+8224,Não,M,Heterossexual,22,Branca,Não possuo
+588,Sim,F,Heterossexual,36,Preta / negra,Não possuo
+11067,Sim,F,Bissexual,18,Parda,Não possuo
+3779,Não,F,Heterossexual,20,Parda,Não possuo
+5903,Não,F,Heterossexual,21,Não informada,Não possuo
+1635,Não,F,Heterossexual,19,Branca,Não possuo
+12491,Sim,F,Prefiro não responder,21,Branca,Não possuo
+3671,Sim,F,Bissexual,23,Parda,Não possuo
+3002,Sim,M,Heterossexual,23,Parda,Não possuo
+3893,Não,M,Homossexual,23,Preta / negra,Não possuo
+6772,Não,F,Heterossexual,21,Parda,Não possuo
+3413,Sim,F,Heterossexual,25,Parda,Não possuo
+10570,Sim,M,Heterossexual,18,Branca,Não possuo
+7446,Sim,F,Bissexual,21,Parda,Não possuo
+5921,Sim,F,Heterossexual,19,Parda,Não possuo
+2674,Sim,M,Bissexual,21,Preta / negra,Não possuo
+4561,Sim,M,Heterossexual,23,Branca,Não possuo
+5923,Não,F,Heterossexual,21,Branca,Não possuo
+9298,Não,M,Heterossexual,18,Branca,Não possuo
+3403,Sim,F,Heterossexual,24,Branca,Não possuo
+3657,Sim,M,Heterossexual,24,Branca,Não possuo
+10793,Sim,M,Bissexual,18,Parda,Não possuo
+5338,Não,M,Heterossexual,21,Branca,Não possuo
+2175,Sim,F,Bissexual,27,Parda,Não possuo
+4693,Sim,F,Bissexual,21,Branca,Não possuo
+9576,Não,F,Heterossexual,19,Branca,Não possuo
+10,Sim,F,Pansexual,18,Branca,Não possuo
+1409,Sim,M,Heterossexual,28,Branca,Não possuo
+11826,Sim,F,Heterossexual,18,Parda,Não possuo
+5244,Sim,M,Homossexual,22,Parda,Não possuo
+5498,Sim,F,Heterossexual,29,Parda,Não possuo
+596,Sim,M,Heterossexual,24,Parda,Não possuo
+12833,Sim,F,Heterossexual,18,Branca,Não possuo
+10631,Não,F,Heterossexual,19,Branca,Não possuo
+242,Não,M,Heterossexual,21,Parda,Não possuo
+4970,Sim,M,Prefiro não responder,21,Branca,Não possuo
+1940,Não,F,Heterossexual,19,Branca,Não possuo
+2816,Não,F,Bissexual,20,Parda,Não possuo
+4667,Sim,M,Heterossexual,22,Parda,Não possuo
+10691,Não,F,Bissexual,20,Branca,Não possuo
+8691,Não,F,Heterossexual,23,Preta / negra,Não possuo
+9442,Sim,F,Bissexual,20,Parda,Não possuo
+5887,Sim,F,Bissexual,21,Branca,Não possuo
+12768,Sim,F,Homossexual,19,Parda,Não possuo
+1502,Sim,M,Heterossexual,26,Branca,Não possuo
+12375,Sim,M,Heterossexual,18,Parda,Não possuo
+8522,Não,F,Heterossexual,21,Branca,Não possuo
+9026,Não,F,Pansexual,22,Branca,Não possuo
+6943,Sim,M,Heterossexual,20,Branca,Não possuo
+2079,Não,M,Prefiro não responder,26,Branca,Não possuo
+1360,Sim,M,Heterossexual,25,Parda,Não possuo
+10268,Não,F,Heterossexual,29,Preta / negra,Deficiência Mental/Intelectual
+7849,Sim,M,Prefiro não responder,20,Branca,Não possuo
+5514,Sim,M,Heterossexual,20,Branca,Não possuo
+2948,Sim,F,Bissexual,24,Branca,Não possuo
+5039,Sim,F,Heterossexual,23,Branca,Não possuo
+10958,Sim,M,Homossexual,25,Parda,Não possuo
+7412,Não,F,Heterossexual,18,Parda,Não possuo
+4873,Não,M,Homossexual,20,Parda,Não possuo
+533,Não,M,Heterossexual,26,Branca,TEA – Transtorno Espectro do Autismo
+389,Sim,F,Bissexual,28,Branca,Não possuo
+143,Não,M,Heterossexual,23,Parda,Não possuo
+11775,Não,F,Heterossexual,23,Branca,Não possuo
+1290,Não,M,Heterossexual,22,Branca,Não possuo
+5327,Não,M,Homossexual,23,Branca,Não possuo
+5391,Sim,M,Heterossexual,21,Preta / negra,Não possuo
+9308,Sim,F,Heterossexual,21,Preta / negra,Não possuo
+4885,Sim,F,Prefiro não responder,20,Branca,Não possuo
+820,Sim,F,Bissexual,25,Parda,Não possuo
+4216,Sim,F,Heterossexual,21,Preta / negra,Não possuo
+8761,Não,F,Bissexual,20,Branca,Não possuo
+2372,Não,M,Heterossexual,24,Não informada,Não possuo
+4397,Sim,F,Bissexual,21,Parda,Não possuo
+10348,Sim,F,Heterossexual,19,Parda,Não possuo
+950,Não,M,Heterossexual,18,Branca,Não possuo
+14268,Sim,M,Heterossexual,24,Não informada,Não possuo
+7102,Sim,M,Heterossexual,21,Branca,Não possuo
+14070,Sim,M,Bissexual,23,Branca,Não possuo
+10023,Sim,F,Bissexual,18,Branca,Não possuo
+3813,Sim,F,Bissexual,22,Branca,Não possuo
+4294,Não,F,Heterossexual,23,Parda,Não possuo
+5320,Sim,F,Bissexual,22,Branca,Não possuo
+12022,Sim,M,Heterossexual,19,Branca,Não possuo
+8298,Não,F,Heterossexual,19,Branca,Não possuo
+11752,Sim,M,Heterossexual,23,Parda,Não possuo
+2082,Não,F,Bissexual,19,Branca,Não possuo
+7188,Não,M,Heterossexual,23,Branca,Não possuo
+6360,Sim,F,Heterossexual,28,Branca,Não possuo
+2869,Não,M,Heterossexual,22,Branca,Não possuo
+10711,Sim,F,Bissexual,19,Branca,Não possuo
+869,Sim,M,Heterossexual,24,Não informada,Deficiência Visual
+3907,Sim,M,Bissexual,26,Branca,Não possuo
+8089,Não,F,Heterossexual,20,Branca,Não possuo
+13114,Sim,F,Bissexual,20,Preta / negra,Não possuo
+521,Não,M,Pansexual,18,Preta / negra,Não possuo
+4034,Sim,F,Bissexual,23,Parda,Não possuo
+1372,Não,M,Heterossexual,18,Parda,Não possuo
+5243,Sim,F,Heterossexual,23,Preta / negra,Não possuo
+1661,Não,M,Heterossexual,18,Parda,Não possuo
+3095,Sim,M,Heterossexual,22,Branca,Não possuo
+2179,Sim,F,Heterossexual,30,Branca,Não possuo
+7424,Sim,M,Bissexual,21,Parda,Não possuo
+260,Sim,M,Heterossexual,23,Branca,Deficiência Mental/Intelectual
+11323,Sim,M,Heterossexual,23,Branca,Não possuo
+8915,Não,F,Heterossexual,19,Branca,Não possuo
+7024,Sim,M,Heterossexual,20,Branca,Não possuo
+11001,Sim,F,Pansexual,25,Amarela,Não possuo
+10767,Sim,M,Homossexual,18,Parda,Não possuo
+4178,Não,M,Heterossexual,23,Parda,Não possuo
+8473,Sim,F,Heterossexual,20,Branca,Não possuo
+4782,Sim,M,Heterossexual,26,Parda,Não possuo
+4550,Sim,M,Heterossexual,21,Preta / negra,Não possuo
+11790,Não,F,Heterossexual,18,Branca,Não possuo
+7319,Sim,F,Heterossexual,23,Não informada,Não possuo
+7978,Não,M,Heterossexual,20,Parda,Não possuo
+989,Sim,F,Heterossexual,27,Branca,Não possuo
+2777,Sim,M,Heterossexual,23,Branca,Não possuo
+8893,Sim,M,Pansexual,31,Branca,Deficiência Auditiva
+6072,Sim,M,Heterossexual,20,Branca,Não possuo
+3431,Não,M,Bissexual,20,Preta / negra,Não possuo
+4223,Não,M,Heterossexual,20,Branca,Não possuo
+2559,Sim,M,Heterossexual,22,Branca,Não possuo
+3744,Sim,M,Homossexual,26,Parda,Não possuo
+5112,Sim,M,Heterossexual,22,Branca,Não possuo
+2462,Sim,M,Heterossexual,24,Parda,Não possuo
+3160,Não,M,Heterossexual,18,Branca,Não possuo
+9382,Sim,F,Bissexual,25,Branca,Não possuo
+4243,Não,F,Heterossexual,28,Não informada,Não possuo
+9239,Sim,F,Heterossexual,20,Preta / negra,Não possuo
+12106,Sim,M,Heterossexual,19,Branca,Não possuo
+3071,Sim,F,Bissexual,23,Parda,Não possuo
+11114,Sim,M,Heterossexual,18,Parda,Não possuo
+7082,Não,M,Homossexual,20,Branca,Não possuo
+2653,Sim,M,Heterossexual,22,Branca,Não possuo
+4123,Sim,F,Heterossexual,21,Branca,Não possuo
+9549,Sim,M,Heterossexual,19,Parda,Não possuo
+2181,Não,M,Heterossexual,22,Branca,Não possuo
+11643,Não,F,Heterossexual,26,Branca,Deficiência Física
+11303,Sim,M,Homossexual,17,Branca,Não possuo
+11541,Sim,F,Heterossexual,19,Parda,Não possuo
+8889,Sim,F,Heterossexual,22,Branca,Não possuo
+13905,Sim,F,Heterossexual,25,Não informada,Não possuo
+356,Não,F,Heterossexual,48,Branca,Não possuo
+12444,Sim,F,Prefiro não responder,21,Branca,Não possuo
+3387,Não,F,Pansexual,18,Branca,Não possuo
+1055,Não,M,Heterossexual,27,Parda,Não possuo
+6992,Sim,F,Heterossexual,19,Parda,Não possuo
+2838,Sim,F,Bissexual,22,Branca,Não possuo
+6471,Não,M,Heterossexual,18,Amarela,Não possuo
+8569,Sim,M,Heterossexual,19,Preta / negra,Não possuo
+6586,Sim,F,Prefiro não responder,20,Parda,Não possuo
+3598,Sim,F,Heterossexual,23,Branca,Não possuo
+13318,Sim,F,Heterossexual,19,Branca,Não possuo
+12892,Sim,F,Heterossexual,18,Branca,Não possuo
+8926,Não,M,Bissexual,19,Branca,Não possuo
+8363,Sim,F,Pansexual,19,Parda,Não possuo
+1744,Não,F,Heterossexual,24,Branca,Não possuo
+11829,Não,M,Heterossexual,21,Branca,Não possuo
+1454,Sim,M,Heterossexual,23,Branca,Não possuo
+12399,Sim,M,Heterossexual,18,Branca,Não possuo
+201,Não,F,Heterossexual,23,Branca,Não possuo
+1384,Sim,F,Heterossexual,25,Parda,Não possuo
+183,Não,F,Bissexual,27,Branca,Não possuo
+16130,Sim,F,Prefiro não responder,21,Parda,Não possuo
+6719,Sim,M,Heterossexual,24,Branca,Não possuo
+7636,Não,F,Heterossexual,18,Branca,Não possuo
+4676,Não,F,Bissexual,30,Parda,Não possuo
+6999,Sim,M,Heterossexual,29,Preta / negra,Não possuo
+5869,Sim,F,Heterossexual,21,Branca,Não possuo
+6726,Não,M,Prefiro não responder,18,Branca,Não possuo
+4376,Não,F,Heterossexual,20,Branca,Não possuo
+1297,Sim,M,Homossexual,24,Branca,Não possuo
+2670,Sim,F,Bissexual,22,Branca,Não possuo
+10102,Sim,M,Heterossexual,26,Parda,Não possuo
+12027,Sim,M,Heterossexual,18,Parda,Não possuo
+3554,Sim,M,Heterossexual,24,Branca,Não possuo
+769,Sim,F,Heterossexual,30,Não informada,Não possuo
+11278,Não,M,Prefiro não responder,20,Branca,Não possuo
+18872,Sim,M,Heterossexual,18,Branca,Não possuo
+1136,Não,F,Bissexual,20,Branca,Não possuo
+7567,Sim,F,Bissexual,21,Não informada,Não possuo
+4219,Não,M,Prefiro não responder,20,Branca,Não possuo
+16445,Sim,F,Heterossexual,22,Branca,Não possuo
+2278,Sim,F,Pansexual,18,Preta / negra,Não possuo
+10396,Sim,F,Prefiro não responder,17,Branca,Não possuo
+8639,Não,F,Bissexual,22,Branca,Não possuo
+4914,Não,M,Heterossexual,19,Branca,Não possuo
+232,Sim,F,Bissexual,40,Branca,Não possuo
+10369,Não,M,Heterossexual,25,Branca,Não possuo
+2502,Sim,M,Heterossexual,22,Parda,Não possuo
+5969,Sim,F,Heterossexual,27,Parda,Não possuo
+6084,Não,M,Homossexual,19,Parda,Não possuo
+6234,Sim,M,Pansexual,26,Branca,Não possuo
+5052,Sim,M,Heterossexual,19,Branca,Não possuo
+8505,Sim,F,Heterossexual,20,Branca,Não possuo
+4295,Não,M,Heterossexual,22,Branca,Não possuo
+2263,Sim,F,Bissexual,23,Branca,Não possuo
+381,Não,M,Bissexual,34,Branca,Não possuo
+10766,Sim,M,Heterossexual,21,Branca,Não possuo
+3384,Não,M,Homossexual,19,Parda,Não possuo
+6736,Sim,M,Heterossexual,21,Branca,Não possuo
+5767,Não,M,Heterossexual,23,Parda,Não possuo
+8024,Sim,F,Heterossexual,23,Branca,Não possuo
+17518,Sim,F,Bissexual,18,Parda,Não possuo
+7469,Sim,M,Heterossexual,21,Parda,Não possuo
+2360,Sim,F,Heterossexual,22,Parda,Não possuo
+8056,Sim,M,Homossexual,21,Branca,Não possuo
+5029,Não,M,Heterossexual,19,Branca,Não possuo
+5643,Sim,F,Heterossexual,20,Parda,Não possuo
+5932,Sim,F,Bissexual,20,Preta / negra,Não possuo
+6466,Não,M,Bissexual,33,Parda,Não possuo
+11951,Sim,M,Heterossexual,18,Parda,Não possuo
+9943,Sim,F,Heterossexual,40,Branca,Não possuo
+6809,Não,F,Heterossexual,21,Parda,Não possuo
+8501,Sim,M,Heterossexual,20,Parda,Não possuo
+5062,Não,F,Heterossexual,21,Branca,Não possuo
+12162,Sim,F,Heterossexual,19,Branca,Não possuo
+3980,Sim,F,Heterossexual,21,Branca,Não possuo
+3203,Não,M,Heterossexual,22,Branca,Não possuo
+7316,Não,F,Bissexual,22,Branca,Não possuo
+3662,Não,F,Heterossexual,21,Branca,Não possuo
+4491,Sim,F,Heterossexual,24,Parda,Não possuo
+8719,Não,M,Heterossexual,22,Branca,Não possuo
+2831,Sim,F,Heterossexual,23,Branca,Não possuo
+10473,Sim,M,Heterossexual,18,Branca,Não possuo
+2376,Sim,M,Homossexual,21,Branca,Não possuo
+10352,Não,M,Heterossexual,20,Parda,Não possuo
+8773,Sim,M,Heterossexual,20,Parda,Não possuo
+9023,Não,F,Heterossexual,20,Branca,Não possuo
+8582,Sim,M,Heterossexual,20,Branca,Não possuo
+8064,Não,M,Bissexual,20,Branca,Não possuo
+5807,Sim,F,Bissexual,20,Parda,Não possuo
+4388,Sim,F,Heterossexual,20,Branca,Não possuo
+7353,Não,F,Bissexual,21,Branca,Não possuo
+5126,Não,F,Bissexual,21,Branca,Não possuo
+7734,Sim,M,Bissexual,22,Branca,Não possuo
+8935,Não,M,Heterossexual,20,Não informada,Não possuo
+884,Não,M,Homossexual,22,Branca,Não possuo
+3296,Sim,F,Heterossexual,22,Parda,Não possuo
+4355,Sim,F,Heterossexual,22,Branca,Não possuo
+7779,Não,M,Prefiro não responder,21,Branca,Não possuo
+1164,Não,M,Heterossexual,20,Branca,Não possuo
+311,Sim,F,Bissexual,27,Parda,Não possuo
+3411,Sim,F,Bissexual,22,Parda,Não possuo
+10349,Não,F,Heterossexual,22,Branca,Não possuo
+12218,Sim,M,Prefiro não responder,19,Branca,Não possuo
+4345,Sim,F,Heterossexual,21,Parda,Não possuo
+20,Sim,M,Prefiro não responder,34,Branca,Não possuo
+3665,Sim,F,Bissexual,23,Branca,Não possuo
+3137,Sim,M,Heterossexual,26,Parda,Não possuo
+2939,Não,M,Homossexual,24,Indígena,Não possuo
+6123,Sim,F,Heterossexual,25,Amarela,Deficiência Mental/Intelectual
+4534,Sim,M,Heterossexual,20,Parda,Não possuo
+156,Sim,F,Bissexual,30,Branca,Não possuo
+282,Não,F,Homossexual,25,Preta / negra,TEA – Transtorno Espectro do Autismo
+12050,Sim,M,Heterossexual,18,Parda,Não possuo
+2832,Não,F,Bissexual,20,Branca,Não possuo
+5279,Não,F,Bissexual,22,Branca,Não possuo
+3995,Sim,F,Bissexual,27,Branca,Não possuo
+6671,Sim,M,Homossexual,26,Parda,Não possuo
+8472,Não,F,Bissexual,21,Preta / negra,Não possuo
+6170,Não,M,Heterossexual,18,Branca,Não possuo
+6027,Não,F,Bissexual,24,Parda,Não possuo
+1484,Sim,F,Bissexual,27,Parda,Não possuo
+14199,Sim,F,Heterossexual,24,Parda,Não possuo
+11153,Sim,M,Pansexual,24,Preta / negra,Não possuo
+16201,Sim,M,Bissexual,22,Branca,Não possuo
+420,Sim,M,Heterossexual,29,Parda,Não possuo
+2914,Sim,M,Bissexual,22,Branca,Deficiência Mental/Intelectual
+244,Sim,M,Heterossexual,30,Branca,Não possuo
+10274,Sim,F,Bissexual,21,Branca,Não possuo
+10423,Sim,F,Heterossexual,22,Branca,Não possuo
+12383,Sim,F,Heterossexual,19,Parda,Não possuo
+5996,Não,F,Heterossexual,23,Branca,Não possuo
+3532,Não,M,Heterossexual,28,Branca,Não possuo
+6519,Sim,F,Heterossexual,24,Não informada,Não possuo
+3338,Sim,F,Bissexual,23,Parda,Não possuo
+5430,Não,M,Heterossexual,21,Branca,Não possuo
+3127,Sim,M,Heterossexual,22,Parda,Não possuo
+3029,Sim,F,Heterossexual,26,Parda,Não possuo
+8415,Sim,F,Bissexual,21,Preta / negra,Não possuo
+10551,Não,F,Heterossexual,18,Parda,Não possuo
+10216,Não,F,Bissexual,25,Branca,Não possuo
+8571,Sim,M,Heterossexual,23,Parda,Não possuo
+6919,Sim,F,Heterossexual,25,Parda,Não possuo
+10120,Sim,M,Homossexual,20,Branca,Não possuo
+12603,Sim,F,Bissexual,20,Parda,Não possuo
+51,Sim,M,Heterossexual,38,Parda,Não possuo
+919,Sim,F,Heterossexual,36,Branca,Deficiência Auditiva
+7398,Não,M,Heterossexual,19,Branca,Não possuo
+11551,Sim,F,Heterossexual,18,Preta / negra,Não possuo
+11387,Sim,F,Heterossexual,29,Branca,Não possuo
+8518,Não,F,Homossexual,20,Branca,Não possuo
+12717,Sim,M,Homossexual,18,Preta / negra,Não possuo
+10809,Sim,F,Heterossexual,19,Branca,Não possuo
+5278,Não,F,Heterossexual,22,Branca,Não possuo
+5641,Não,M,Heterossexual,20,Parda,Não possuo
+3207,Sim,F,Bissexual,23,Preta / negra,Não possuo
+1040,Não,M,Heterossexual,20,Preta / negra,Não possuo
+5763,Sim,M,Bissexual,23,Parda,Não possuo
+2340,Sim,F,Prefiro não responder,28,Branca,Não possuo
+5378,Não,F,Prefiro não responder,19,Branca,Não possuo
+4650,Não,F,Bissexual,18,Parda,Não possuo
+8238,Sim,F,Heterossexual,22,Parda,Não possuo
+8155,Não,F,Heterossexual,22,Branca,Não possuo
+13182,Sim,F,Prefiro não responder,35,Parda,Não possuo
+4567,Sim,F,Heterossexual,20,Branca,Não possuo
+11306,Sim,M,Heterossexual,18,Branca,Não possuo
+11732,Não,M,Bissexual,24,Preta / negra,Outro
+2700,Sim,F,Bissexual,23,Branca,Não possuo
+1820,Sim,M,Heterossexual,25,Parda,Não possuo
+11707,Sim,M,Heterossexual,21,Amarela,Deficiência Física
+18890,Sim,F,Heterossexual,22,Parda,Não possuo
+9531,Sim,F,Prefiro não responder,18,Branca,Não possuo
+6864,Sim,F,Heterossexual,20,Branca,Não possuo
+7592,Sim,F,Bissexual,21,Branca,Não possuo
+7147,Sim,M,Homossexual,28,Branca,Não possuo
+11310,Sim,M,Heterossexual,19,Branca,Não possuo
+7111,Sim,M,Pansexual,21,Branca,Outro
+2140,Não,M,Heterossexual,24,Branca,Não possuo
+13405,Sim,M,Homossexual,19,Preta / negra,Não possuo
+10074,Sim,M,Heterossexual,19,Parda,Não possuo
+1882,Não,F,Heterossexual,18,Parda,Não possuo
+3154,Sim,M,Heterossexual,22,Branca,Não possuo
+11230,Não,F,Heterossexual,34,Parda,Deficiência Física
+5000,Não,M,Heterossexual,20,Branca,Não possuo
+1690,Sim,F,Homossexual,23,Parda,Não possuo
+7223,Sim,F,Heterossexual,23,Não informada,Não possuo
+11628,Sim,F,Bissexual,17,Preta / negra,Não possuo
+4682,Não,M,Pansexual,22,Branca,Não possuo
+1868,Sim,M,Heterossexual,28,Branca,TEA – Transtorno Espectro do Autismo
+6043,Sim,F,Bissexual,22,Branca,Não possuo
+8628,Não,F,Heterossexual,22,Branca,Não possuo
+9097,Sim,F,Bissexual,18,Branca,Não possuo
+1264,Não,F,Heterossexual,25,Não informada,Não possuo
+11082,Sim,F,Homossexual,22,Branca,Não possuo
+695,Não,M,Homossexual,23,Parda,Não possuo
+12081,Sim,F,Heterossexual,35,Branca,Não possuo
+2346,Não,F,Heterossexual,18,Branca,Não possuo
+10594,Não,M,Heterossexual,22,Branca,Não possuo
+6926,Não,F,Heterossexual,19,Amarela,Não possuo
+6537,Sim,M,Heterossexual,20,Branca,Não possuo
+13099,Sim,F,Heterossexual,21,Parda,Não possuo
+458,Sim,M,Heterossexual,40,Preta / negra,Não possuo
+5330,Não,M,Homossexual,26,Branca,Não possuo
+12500,Sim,M,Heterossexual,18,Branca,Não possuo
+1439,Não,F,Heterossexual,21,Branca,Não possuo
+6655,Sim,F,Heterossexual,21,Preta / negra,Não possuo
+9951,Sim,M,Heterossexual,20,Parda,Não possuo
+3808,Sim,F,Prefiro não responder,21,Branca,Não possuo
+11487,Sim,F,Heterossexual,19,Branca,Não possuo
+3544,Sim,M,Heterossexual,27,Branca,Não possuo
+10497,Sim,F,Heterossexual,20,Parda,Não possuo
+13287,Sim,F,Heterossexual,20,Branca,Não possuo
+10916,Sim,M,Homossexual,21,Branca,Não possuo
+6778,Sim,F,Bissexual,20,Branca,Não possuo
+2244,Sim,F,Homossexual,42,Parda,Não possuo
+9554,Não,F,Bissexual,19,Branca,Não possuo
+5050,Não,M,Homossexual,24,Preta / negra,Não possuo
+6902,Sim,M,Bissexual,20,Parda,Não possuo
+15518,Sim,M,Heterossexual,25,Branca,Não possuo
+9282,Sim,F,Heterossexual,24,Parda,Não possuo
+929,Sim,M,Heterossexual,30,Não informada,Não possuo
+7558,Sim,M,Homossexual,20,Branca,Não possuo
+9209,Não,M,Heterossexual,22,Branca,Não possuo
+2464,Sim,M,Prefiro não responder,22,Branca,Não possuo
+14239,Sim,F,Bissexual,23,Preta / negra,Não possuo
+13037,Sim,M,Heterossexual,18,Parda,Não possuo
+10837,Sim,M,Homossexual,18,Branca,Não possuo
+10158,Sim,M,Homossexual,19,Branca,Não possuo
+2848,Sim,F,Heterossexual,21,Parda,Não possuo
+1508,Sim,F,Heterossexual,25,Preta / negra,Não possuo
+9895,Sim,M,Heterossexual,19,Branca,Não possuo
+7959,Não,F,Heterossexual,19,Branca,Não possuo
+4891,Sim,M,Heterossexual,26,Branca,Não possuo
+4537,Sim,M,Heterossexual,23,Parda,Não possuo
+11860,Sim,M,Heterossexual,18,Parda,Não possuo
+3584,Sim,F,Bissexual,23,Parda,Não possuo
+13370,Sim,F,Heterossexual,18,Branca,Não possuo
+10392,Sim,F,Heterossexual,21,Parda,Não possuo
+873,Não,F,Heterossexual,18,Parda,Não possuo
+8878,Não,F,Bissexual,19,Branca,Não possuo
+1188,Sim,M,Heterossexual,36,Branca,TEA – Transtorno Espectro do Autismo
+179,Não,M,Homossexual,30,Branca,Não possuo
+4834,Sim,M,Bissexual,20,Parda,Não possuo
+2615,Sim,M,Pansexual,21,Branca,Não possuo
+2386,Não,F,Heterossexual,19,Branca,Não possuo
+8598,Não,M,Heterossexual,22,Branca,Não possuo
+2280,Sim,F,Bissexual,24,Parda,Não possuo
+1937,Sim,F,Heterossexual,25,Branca,Não possuo
+5649,Sim,F,Heterossexual,23,Não informada,Não possuo
+12368,Sim,M,Heterossexual,20,Parda,Não possuo
+11559,Sim,F,Heterossexual,22,Branca,Não possuo
+2463,Não,F,Heterossexual,19,Parda,Não possuo
+5617,Sim,F,Homossexual,20,Branca,Não possuo
+9934,Sim,M,Heterossexual,20,Branca,Não possuo
+1059,Não,F,Prefiro não responder,18,Parda,Não possuo
+1457,Não,M,Heterossexual,25,Parda,Não possuo
+6335,Sim,F,Heterossexual,22,Branca,Não possuo
+16893,Sim,M,Bissexual,20,Parda,Não possuo
+11315,Sim,M,Heterossexual,21,Branca,Não possuo
+7647,Sim,F,Heterossexual,22,Parda,Não possuo
+14833,Sim,M,Heterossexual,23,Branca,Não possuo
+8223,Não,M,Heterossexual,18,Branca,Não possuo
+7975,Sim,F,Heterossexual,21,Parda,Não possuo
+9091,Não,F,Bissexual,19,Branca,Não possuo
+12286,Sim,M,Heterossexual,25,Preta / negra,Não possuo
+1428,Sim,F,Heterossexual,25,Branca,Não possuo
+1368,Sim,F,Heterossexual,24,Branca,Não possuo
+10773,Sim,M,Heterossexual,20,Branca,Não possuo
+7442,Sim,M,Homossexual,20,Parda,Não possuo
+10583,Sim,M,Heterossexual,20,Parda,Não possuo
+6843,Sim,M,Heterossexual,21,Preta / negra,Não possuo
+9206,Sim,F,Bissexual,25,Branca,Não possuo
+8134,Sim,F,Prefiro não responder,21,Parda,Não possuo
+9376,Sim,M,Homossexual,24,Branca,Não possuo
+7225,Sim,F,Heterossexual,20,Não informada,Não possuo
+8795,Não,M,Bissexual,20,Branca,Não possuo
+15511,Sim,F,Heterossexual,22,Parda,Não possuo
+3712,Sim,F,Heterossexual,23,Preta / negra,Não possuo
+2435,Sim,M,Heterossexual,22,Branca,Não possuo
+6782,Sim,M,Heterossexual,23,Branca,Não possuo
+8668,Não,M,Heterossexual,21,Parda,Não possuo
+5332,Sim,M,Heterossexual,21,Preta / negra,Não possuo
+12144,Sim,M,Heterossexual,25,Parda,Não possuo
+12714,Sim,F,Heterossexual,22,Branca,Não possuo
+2426,Sim,F,Heterossexual,22,Parda,Não possuo
+13208,Sim,F,Prefiro não responder,18,Branca,Não possuo
+585,Não,F,Homossexual,19,Parda,TEA – Transtorno Espectro do Autismo
+10784,Sim,M,Heterossexual,18,Parda,Não possuo
+9658,Sim,F,Bissexual,19,Parda,Não possuo
+1961,Sim,M,Prefiro não responder,25,Preta / negra,Não possuo
+12701,Sim,F,Bissexual,20,Branca,Não possuo
+8895,Sim,M,Pansexual,27,Parda,Outro
+4533,Não,M,Homossexual,24,Branca,Não possuo
+9659,Sim,F,Heterossexual,20,Parda,Não possuo
+5143,Sim,F,Heterossexual,20,Preta / negra,Não possuo
+14051,Sim,M,Heterossexual,22,Parda,Não possuo
+8082,Sim,F,Heterossexual,20,Parda,Não possuo
+6824,Sim,F,Prefiro não responder,20,Parda,Não possuo
+5429,Sim,M,Prefiro não responder,23,Branca,Não possuo
+7913,Sim,M,Homossexual,21,Parda,Não possuo
+12285,Sim,F,Heterossexual,18,Parda,Não possuo
+5868,Sim,F,Heterossexual,23,Branca,Não possuo
+3929,Sim,F,Heterossexual,24,Parda,Não possuo
+8512,Não,M,Heterossexual,22,Não informada,Não possuo
+637,Sim,M,Prefiro não responder,25,Branca,Não possuo
+11131,Não,M,Prefiro não responder,20,Branca,Não possuo
+6216,Sim,M,Heterossexual,19,Parda,Não possuo
+11931,Sim,M,Pansexual,20,Branca,Não possuo
+8684,Sim,F,Heterossexual,18,Branca,Não possuo
+120,Não,F,Pansexual,22,Parda,Não possuo
+4232,Não,M,Bissexual,23,Parda,Não possuo
+9846,Sim,F,Heterossexual,19,Branca,Não possuo
+1303,Sim,M,Homossexual,25,Branca,Não possuo
+8054,Não,M,Bissexual,22,Branca,Não possuo
+1874,Sim,M,Heterossexual,28,Branca,Não possuo
+6251,Sim,F,Heterossexual,30,Branca,Não possuo
+12189,Sim,M,Heterossexual,36,Branca,Não possuo
+4133,Não,F,Heterossexual,20,Não informada,Não possuo
+9269,Não,M,Heterossexual,22,Branca,Não possuo
+10762,Sim,M,Homossexual,22,Parda,Não possuo
+13045,Sim,F,Homossexual,21,Branca,Não possuo
+8606,Sim,M,Heterossexual,19,Parda,Não possuo
+1886,Sim,F,Bissexual,24,Parda,Não possuo
+683,Não,F,Heterossexual,25,Branca,Não possuo
+9754,Sim,F,Bissexual,21,Branca,Não possuo
+6095,Sim,F,Bissexual,22,Branca,Não possuo
+675,Sim,M,Heterossexual,34,Preta / negra,Não possuo
+6212,Não,F,Heterossexual,22,Branca,Não possuo
+3046,Não,M,Heterossexual,24,Branca,Não possuo
+5793,Não,M,Heterossexual,20,Branca,Não possuo
+4562,Não,F,Prefiro não responder,19,Preta / negra,Não possuo
+12954,Sim,M,Heterossexual,20,Parda,Não possuo
+8186,Não,F,Heterossexual,23,Branca,Não possuo
+7110,Sim,M,Heterossexual,23,Parda,TEA – Transtorno Espectro do Autismo
+25,Sim,F,Heterossexual,39,Branca,Não possuo
+12093,Sim,M,Heterossexual,28,Branca,Não possuo
+8090,Sim,F,Heterossexual,21,Amarela,Não possuo
+5852,Sim,M,Heterossexual,27,Branca,Não possuo
+2719,Sim,F,Heterossexual,24,Preta / negra,Não possuo
+13510,Sim,M,Heterossexual,61,Preta / negra,Não possuo
+12336,Sim,F,Heterossexual,20,Parda,Não possuo
+8922,Sim,F,Heterossexual,20,Preta / negra,Não possuo
+2789,Não,F,Heterossexual,24,Branca,Não possuo
+6541,Não,F,Heterossexual,21,Não informada,Não possuo
+10238,Sim,M,Heterossexual,19,Branca,Não possuo
+9977,Sim,F,Heterossexual,21,Branca,Não possuo
+8198,Sim,F,Heterossexual,19,Preta / negra,Não possuo
+3607,Sim,M,Homossexual,23,Parda,Não possuo
+462,Sim,F,Heterossexual,26,Parda,Não possuo
+7702,Sim,F,Heterossexual,24,Branca,Não possuo
+2936,Não,M,Heterossexual,19,Branca,Deficiência Visual
+7491,Não,M,Heterossexual,29,Branca,Não possuo
+5364,Não,M,Heterossexual,25,Preta / negra,Não possuo
+9935,Sim,F,Bissexual,18,Branca,Não possuo
+11855,Sim,F,Bissexual,18,Parda,Não possuo
+7294,Sim,F,Heterossexual,20,Não informada,Não possuo
+9714,Sim,F,Bissexual,19,Parda,Não possuo
+2441,Sim,M,Heterossexual,24,Branca,Não possuo
+10150,Sim,M,Heterossexual,19,Branca,Não possuo
+7285,Não,F,Heterossexual,20,Branca,Não possuo
+6644,Sim,M,Bissexual,21,Parda,Não possuo
+4013,Sim,F,Pansexual,21,Branca,Não possuo
+6261,Não,F,Heterossexual,26,Parda,Não possuo
+10520,Sim,M,Pansexual,18,Branca,Não possuo
+5016,Não,M,Pansexual,21,Branca,Não possuo
+4072,Não,M,Homossexual,30,Preta / negra,Não possuo
+3580,Sim,M,Homossexual,23,Branca,Não possuo
+4318,Não,F,Heterossexual,25,Branca,Não possuo
+4093,Sim,F,Bissexual,25,Branca,Não possuo
+9105,Sim,M,Homossexual,19,Branca,Não possuo
+15982,Sim,M,Heterossexual,20,Branca,Não possuo
+11268,Sim,F,Heterossexual,19,Preta / negra,Não possuo
+11581,Sim,F,Heterossexual,18,Branca,Não possuo
+5740,Sim,M,Heterossexual,21,Branca,Não possuo
+2481,Não,F,Bissexual,26,Não informada,Não possuo
+5478,Sim,M,Heterossexual,22,Parda,Não possuo
+11585,Sim,F,Bissexual,17,Parda,Não possuo
+2439,Não,F,Bissexual,21,Branca,Não possuo
+4350,Não,F,Heterossexual,24,Preta / negra,Não possuo
+9358,Sim,M,Heterossexual,20,Branca,Não possuo
+2928,Sim,F,Bissexual,21,Parda,Deficiência Física
+9106,Sim,F,Bissexual,19,Branca,Não possuo
+1941,Sim,F,Bissexual,26,Branca,Não possuo
+7577,Sim,F,Bissexual,22,Amarela,Não possuo
+8131,Sim,M,Homossexual,21,Branca,Não possuo
+12949,Sim,F,Heterossexual,19,Parda,Não possuo
+3077,Sim,M,Heterossexual,25,Parda,Não possuo
+6083,Não,M,Heterossexual,18,Branca,Não possuo
+12704,Sim,F,Heterossexual,18,Parda,Não possuo
+1500,Sim,F,Heterossexual,24,Branca,Não possuo
+9180,Sim,F,Bissexual,19,Branca,Não possuo
+12307,Sim,M,Bissexual,19,Preta / negra,Não possuo
+12688,Sim,F,Bissexual,20,Preta / negra,Não possuo
+4992,Sim,M,Bissexual,23,Preta / negra,Não possuo
+6615,Sim,M,Heterossexual,26,Preta / negra,Não possuo
+4633,Sim,M,Heterossexual,21,Parda,Não possuo
+8673,Sim,F,Bissexual,18,Branca,Não possuo
+3424,Sim,F,Heterossexual,24,Parda,Não possuo
+6015,Não,F,Prefiro não responder,38,Preta / negra,Não possuo
+10258,Sim,M,Heterossexual,19,Branca,Não possuo
+5365,Não,F,Heterossexual,18,Branca,Não possuo
+351,Não,F,Prefiro não responder,21,Parda,Não possuo
+736,Sim,M,Heterossexual,27,Parda,Não possuo
+3258,Sim,M,Heterossexual,22,Parda,Não possuo
+3341,Sim,F,Bissexual,22,Branca,Não possuo
+12703,Sim,M,Bissexual,18,Parda,Não possuo
+9497,Sim,M,Heterossexual,28,Parda,Não possuo
+7770,Sim,M,Bissexual,20,Branca,Não possuo
+1370,Sim,M,Heterossexual,24,Parda,Não possuo
+4250,Não,M,Heterossexual,23,Branca,Não possuo
+10437,Não,F,Heterossexual,19,Branca,Não possuo
+4890,Sim,M,Bissexual,22,Preta / negra,Não possuo
+16194,Sim,F,Heterossexual,20,Preta / negra,Não possuo
+12865,Sim,M,Heterossexual,19,Branca,Não possuo
+5345,Sim,M,Heterossexual,22,Parda,Não possuo
+6542,Não,F,Heterossexual,21,Amarela,Não possuo
+924,Não,F,Bissexual,31,Branca,Não possuo
